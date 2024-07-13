@@ -31,8 +31,8 @@ Rekabetçi müşteri hizmetleri dünyasında, çağrı merkezi operasyonlarını
 - **Ön Yüz**: HTML, CSS, JavaScript, Bootstrap
 - **Arka Yüz**: Python, FastAPI
 - **AI ve NLP**: Whisper Large V3, Turkcell LLM veya Trendyol LLM modelleri
-- **Veritabanı**: PostgreSQL
-- **Bulut**: Google Cloud Platform
+- **Veritabanı**: Datalake, NoSQL Database
+- **Bulut**: Google Cloud Platform veya Microsoft Azure
 
 ## Proje Yapısı
 
