@@ -1,4 +1,4 @@
-# TEAM: Data Destroyers
+# TEAM: Data Destroyers - #Acıkhack2024TDDİ
 
 # Müşteri Hizmetleri Çözüm Platformu - Ses Verisi Optimizasyonu
 
