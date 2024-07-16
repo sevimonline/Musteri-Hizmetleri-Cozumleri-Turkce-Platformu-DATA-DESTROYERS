@@ -1,7 +1,7 @@
 # TEAM: Data Destroyers - #Acıkhack2024TDDİ
 
 # Müşteri Hizmetleri Çözüm Platformu - Ses Verisi Optimizasyonu
-
+#Acıkhack2024TDDİ
 Çağrı Merkezi ve Müşteri Hizmetleri Ses Verisi Optimizasyonu projemiz, gelişmiş yapay zeka ve doğal dil işleme (NLP) tekniklerini kullanarak müşteriler ve müşterilere cevap veren temsilcilerin ses verilerini optimize etmeyi ve analiz etmeyi amaçlamaktadır. Çözümümüz, ses verilerini metne dönüştürerek operasyonel verimliliği ve müşteri memnuniyetini arttırmaktadır. Bu çözümü bir platforma taşımak hedefindeyiz.
 
 ## İçindekiler
