@@ -1,0 +1,571 @@
+Code
+"from datasets import load_dataset
+
+ds = load_dataset(""ogozcelik/turkish-fake-news-detection"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""orhanxakarsu/turkish-poem-generation"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Harsit/xnli2.0_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Harsit/xnli2.0_train_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""eminecg/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""erkanxyzalaca/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""erkanxyzalaca/turkishKuran"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ozz/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""W4nkel/turkish-sentiment-dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""erytrn/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""erytrn/turkishReviews-ds-mini2"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""orhunc/Bias-Evaluation-Turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ramazank2000/turkishReviews-ds-mini1"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""akuysal/turkishSMS-ds"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Hilalcelik/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""sebinbusra/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""kaaniince/turkishReviews-project"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""kaaniince/turkishReviews-ds-textGeneration"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""merve/turkish_instructions"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""TFLai/Turkish-Dialog-Dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""yankihue/tweets-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""yankihue/turkish-news-categories"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""afkfatih/turkishdataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Veyselbyte/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""cagrimehmet/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""styraist/turkishReview-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""serkandyck/turkish_instructions"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Mursel/Turkish-wikipedia-10k"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Mursel/Turkish-wikipedia-50k"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Mursel/Turkish-wikipedia-100k"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Memis/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""TFLai/Turkish-Alpaca"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""log101/emotion-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""TFLai/turkish_movie_sentiment"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ahmet1338/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""umarigan/turkish_wikipedia"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""umarigan/turkish_corpus"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""erenfazlioglu/turkishvoicedataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""umarigan/turkish_wikipedia_dataset_NER"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""gonul/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""SoAp9035/Turkish_TinyStories"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""SoAp9035/turkish_instructions"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Kamyar-zeinalipour/turkish_train_v1"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""erenfazlioglu/turkishwikipedia2023"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""hdryilmaz/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""imelike/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Kamyar-zeinalipour/turkish_train_v2"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""AyhanCagan/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""imelike/turkishReviews-ds"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""furkanakkurt1618/pos_dataset-UD_Turkish-BOUN-v2.13"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""furkanakkurt1618/pos_dataset-UD_Turkish-IMST-v2.13"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""sulenur/turkishReviews-ds-small"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ctoraman/atis-ner-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ctoraman/gender-hate-speech-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""TahaCakir/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""TahaCakir/enhanced_turkishReviews-generativeAI"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""mugeakbulut/turkish_Kadi_Sicilleri-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Yzuygulama/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""cigdemcnb/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""alperaktasm/turkishComments-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""alperaktasm/turkishComments"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""willhath/turkish-reddit-clustering"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""willhath/turkish-twentynewsgroups-clustering"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""imelike/turkishReviews-ds-50-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""YigitKoca/Turkish_Hellaswag"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""YigitKoca/Arc_Turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""YigitKoca/Turkish_truthfulqa"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""beratcmn/turkish-poems-cleaned"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""beratcmn/instruction-turkish-poems"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""beratcmn/rephrased-instruction-turkish-poems"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""mertbozkurt/turkish-recipe"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""tellarin-ai/ntx_llm_inst_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""beratcmn/turkish-prompt-injections"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""mcemilg/turkish-plu-goal-inference"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""mcemilg/turkish-plu-step-inference"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""mcemilg/turkish-plu-step-ordering"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""mcemilg/turkish-plu-next-event-prediction"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_ARC25_Sec"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_ARC25_Third"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_ARC25_Shuffle_First"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_ARC25_Shuffle_Second"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_ARC25_Shuffle_Third"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_ARC25_Wrongs"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_HellaSwag10_Shuffle_First"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_HellaSwag10_Shuffle_Second"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_HellaSwag10_Shuffle_Third"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_HellaSwag10_Wrongs"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_MMLU5_Chunk1"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_MMLU5_Chunk2"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_MMLU5_Chunk3"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_MMLU5_Shuffle1"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_MMLU5_Shuffle2"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_MMLU5_Shuffle3"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_MMLU5_Wrongs"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""nurcan/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/Turkish_ARC25_First"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""matrixportal/basic-model-turkish-dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""esokullu/alpaca-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""beratcmn/no_robots_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Yusuf23/TurkishIMBD"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/HellaSwag_Turkish_Choices_0"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/HellaSwag_Turkish_Choices_1"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/HellaSwag_Turkish_Choices_2"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Semih34/HellaSwag_Turkish_Choices_3"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""emirozbilek/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Kamyar-zeinalipour/Turkish_CW_V3"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""tuanacanal/TurkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""eminecetin/turkishReviews-BotChat"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzunluu/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""kubra-a/turkishReviews-BotChat"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""umarigan/turkish_clip_dataset_with_text_embeddings"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""umarigan/turkish_clip_dataset_200k_300k"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""muratsimsek003/turkishreviews"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""anilguven/turkish_tweet_emotion_dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""anilguven/turkish_spam_email"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""anilguven/turkish_product_reviews_sentiment"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""berkay-demirhan/arcchallenge_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""berkay-demirhan/hellaswag_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""berkay-demirhan/truthfulqa_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""berkay-demirhan/mmlu_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""umarigan/turkish_corpus_small"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""umarigan/falcon_feedback_instraction_Turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""gglab-ku/turkish-plu-goal-inference"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""gglab-ku/turkish-plu-next-event-prediction"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""gglab-ku/turkish-plu-step-inference"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ardaorcun/turkish-instruction-dataset-prepared"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""rumeysacelik/turkishReviews-ds-commerce"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""NovusResearch/turkish_instructions"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""melifay/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Kamyar-zeinalipour/Turkish_CW_V4"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""zahide/turkish-instructions-220k"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Settar/TurkishWiki"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""naksidil/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""eneskadumi/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""saasdsfsfsdsds/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""atasoglu/flickr8k-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_CNN-News-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_Technology-News-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_Linux-News-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_Technology-News-2-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_News-2-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_News-3-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_News-4-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_News-5-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_News-6-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News_News-7-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""denizzhansahin/Turkish_News-2024"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Nexdata/310_Hours_Turkish_Scripted_Monologue_Smartphone_Speech_Dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ranork/turkish-question-department"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""tolgadev/turkish_73k_instruct_extended"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""asparius/Turkish-STSBenchmark"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""asparius/Turkish-Movie-Review"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""13bluecity/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""asparius/Turkish-Product-Review"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""anilguven/turkish_news_dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""atasoglu/instruction-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Marmara-NLP/CSE4078S24_Grp5_CombinedDataset_TurkishSentiment_Analysis"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""mehmetOzkan/turkishCallReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""duxx/rag_dataset_turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""asimokby/Turkish-OSCAR-GEC"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""asimokby/Turkish-GPT-GEC"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""asimokby/Turkish-GEC-Evaluation"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""duxx/code-instruction-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""balciberin/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""bilalinan/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""nanelimon/turkish-social-media-offensive-dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""batuhanaktas/turkish_synthetic_medical_multiple_choice_QA"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Yudum/turkish-instruct-dataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""yusiqo/Turkish-Youtube-Comments"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""chronbmm/turkish-stemming-tagging"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""myzens/alpaca-turkish-combined"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""Beraa/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""KodcuSerdar/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""saillab/alpaca_turkish_taco"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""emekli/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""cagriiasan/turkish-sentence-classification"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""guneyberkay/turkish-financial-news"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""zehrackgl/turkishWiki"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""alfap4rs/turkishReviews-ds-minillm"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""zehrackgl/turkishWiki-classification-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""huseyincenik/turkishReviews-ds-example"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""4nilcog/turkish-news-mini-fattempt"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""metaform/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""imelike/turkishReviews-ds-full"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""atasoglu/flickr30k-turkish"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""atasoglu/flickr8k-turkish-mt"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""selcuktekgoz/turkishReviews-230k"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""dramurat/turkishReviews-ds-mini"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""ozermehmet/turkishDataset"")"
+"from datasets import load_dataset
+
+ds = load_dataset(""musabgultekin/turkish_prompts"")"
