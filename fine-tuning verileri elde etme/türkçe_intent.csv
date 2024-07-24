@@ -1,0 +1,1945 @@
+,prompt_tr,completion_tr
+0,Müşteri: Altın hesaba geçmek için yardımdan feragat ediyorum,hesabı değiştir
+1,Müşteri: Bir ürünü satın almak için ne yapmalıyım?,yer sırası
+2,Müşteri: Bir şey satın aldım satın almayı iptal et 370795561790,Siparişi iptal et
+3,Müşteri: Bana müşteri yardımını hangi saatlerde çağırabileceğimi gösterebilir misiniz?,müşteri hizmetleri ile iletişime geçin
+4,Müşteri: Premium hesabı kullanabilir miyim?,hesabı değiştir
+5,Müşteri: 370795561790 satın alma bir şey değiştirme yardımcı,sırayı değiştir
+6,Müşteri: Dublin'e shpi yapıyor musunuz?,teslimat seçenekleri
+7,Müşteri: parseli ne kadar sürede bekleyebileceğimi görmek için yardım,teslim süresi
+8,Müşteri: Teslimatımı ne kadar sürede bekleyebileceğimi nasıl kontrol edebilirim?,teslim süresi
+9,"Müşteri: İzin verilen ödeme seçeneklerini kontrol etmem gerekiyor, nasıl yapılır?",ödeme yöntemlerini kontrol edin
+10,Müşteri: 732201349959 satın almanın ETA'sını nasıl görebilirim?,parça sırası
+11,Müşteri: Hangi teslimat yöntemlerini sunduğunuzu bana gösterebilir misiniz?,teslimat seçenekleri
+12,Müşteri: Kullanıcıyı sil,hesabı sil
+13,Müşteri: Hangi nakliye seçeneklerini seçebileceğimi kontrol etmeye çalışıyorum,teslimat seçenekleri
+14,"Müşteri: Ürününüzün birkaçını satın almak istiyorum, nasıl yapabilirim?",yer sırası
+15,Müşteri: Lanet olası bir sorunu ödemeyle çözmeme yardım eder misin?,ödeme sorunu
+16,Müşteri: Platin hesabındaki bilgileri güncellemek,Hesabı düzenle
+17,Müşteri: satın alma bir şey değiştirmek için yardım 1135422617735602,sırayı değiştir
+18,Müşteri: Hesabımın şifresini nasıl alabilirim bilmiyorum,Parolayı kurtar
+19,Müşteri: kurumsal haber bülteni aboneliği hakkında daha fazla bilgi edinin,bülten aboneliği
+20,Müşteri: Canlı bir ajanla konuşmak için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+21,Müşteri: Ürünümün ne kadar sürede geldiğini görmeme yardımcı olun,teslim süresi
+22,Müşteri: Bülteninize aboneliğimi iptal etmeme yardımcı olabilir misiniz?,bülten aboneliği
+23,Müşteri: Bir insan ajanla nasıl sohbet edilir,İnsan Ajanı ile iletişime geçin
+24,Müşteri: Yeni teslimat adresimi ayarlayan hatalar var,nakliye adresi kurmak
+25,Müşteri: Kaydolma ile ilgili bir sorunu bildirmek için heop'a ihtiyacım var,Kayıt sorunları
+26,Müşteri: Profesyonel hesaba geçiş için yardım istiyorum,hesabı değiştir
+27,Müşteri: ur ürününün bir kısmını satın almaya yardımcı olun,yer sırası
+28,Müşteri: Erken sonlandırma cezasını görmek için ne yapmalıyım,İptal ücretini kontrol et
+29,Müşteri: Faturayı almak istiyorum #001008 Bunu nasıl yaparım,faturayı kontrol et
+30,Müşteri: Liverpool'dan sipariş mi veriyorum?,teslimat seçenekleri
+31,Müşteri: Müşteri hizmetleri ile nasıl konuşulur,müşteri hizmetleri ile iletişime geçin
+32,Müşteri: Müşteri hizmetleri ile konuşmak için yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+33,Müşteri: Müşteri desteğinin hangi saatlerde mevcut olduğunu nasıl kontrol edebilirim?,müşteri hizmetleri ile iletişime geçin
+34,Müşteri: Ürünümün ne zaman geleceğini kontrol etmek istiyorum,teslim süresi
+35,Müşteri: Kurumsal haber bülteni aboneliğini iptal etmeye çalışıyorum,bülten aboneliği
+36,Müşteri: premium hesaptaki ayrıntıları değiştirin,Hesabı düzenle
+37,Müşteri: Ücretsiz hesabı silmek için ne yapmam gerektiğini bilmiyorum,hesabı sil
+38,Müşteri: Online ödeme ile ilgili bir hatayı bildirmek için ne yapmalıyım?,ödeme sorunu
+39,Müşteri: Ürününüzün birkaçını satın almaya yardımcı olur,yer sırası
+40,Müşteri: Bir hizmet için geri bildirimimi göndermek için yardım istiyorum,incele
+41,Müşteri: sipariş bir öğe değiştirmek istiyorum 1135422617735902 ohw yapmak için,sırayı değiştir
+42,Müşteri: Şirket bülteninizi almak hakkında daha fazla bilgi edinmek istiyorum,bülten aboneliği
+43,Müşteri: gelin için Premium acconut açın,hesap oluştur
+44,Müşteri: Bay Jones'tan faturayı kontrol edin,faturayı kontrol et
+45,Müşteri: freemium hesabı oluştur,hesap oluştur
+46,Müşteri: altın hesabındaki bilgileri düzenle,Hesabı düzenle
+47,Müşteri: Hizmetleriniz için bir yorum yazmaya yardımcı olun,incele
+48,"Müşteri: Parselimi ne kadar sürede bekleyebileceğimi görmeliyim, yardıma ihtiyacım var",teslim süresi
+49,Müşteri: Teslimat adresimin değiştirilmesi hakkında bilgiye ihtiyacım var,nakliye adresini değiştirme
+50,Müşteri: Adresi düzeltmeye çalışırken bir sorun var,nakliye adresini değiştirme
+51,Müşteri: Bir ürün hakkında bir inceleme yazmak için ne yapmalıyım?,incele
+52,Müşteri: Oline ödeme ile ilgili bir sorunu bildiren yardıma ihtiyacım var,ödeme sorunu
+53,Müşteri: Freemium accouunt silmek için ne yapacağımı bilmiyorum,hesabı sil
+54,Müşteri: Geri ödeme almak için yardım istiyorum,geri ödeme alın
+55,Müşteri: nerede para tazminatı talep etmek,geri ödeme alın
+56,Müşteri: Bir Altın hesabının feshi hakkında bilgi edinmem gerekiyor,hesabı sil
+57,Müşteri: Erken sonlandırma cezalarını kontrol etmek için yardıma ihtiyacım var,İptal ücretini kontrol et
+58,Müşteri: Bir ürün sipariş etmek için ne yapmam gerektiğini bilmiyorum,yer sırası
+59,Müşteri: Yeni gönderim adresi ayarla,nakliye adresi kurmak
+60,Müşteri: 1200 dolarlık bir indirim bekliyorum,parça geri ödeme
+61,Müşteri: sipariş değiştirme sorunu 00004587345,sırayı değiştir
+62,Müşteri: Sevkiyat adresini kurmaya çalışıyorum,nakliye adresi kurmak
+63,"Müşteri: Para iade politikanızı görmek istiyorum, bana yardım edebilir misiniz?",geri ödeme politikasını kontrol edin
+64,Müşteri: Erken sonlandırma ücretleri nelerdir?,İptal ücretini kontrol et
+65,Müşteri: Bir ajanla konuşmaya çalışıyorum,İnsan Ajanı ile iletişime geçin
+66,Müşteri: Platin hesabındaki bilgileri düzenlemek,Hesabı düzenle
+67,Müşteri: ur şirketine karşı tüketici şikayetinde bulunmam gerekiyor,şikayet
+68,Müşteri: kurumsal haber bültenini nereden alabilirim,bülten aboneliği
+69,Müşteri: bir ürünü roder 00123842'den çıkarmak için yardıma ihtiyaç var,sırayı değiştir
+70,Müşteri: karı için yeni pro hesabı açmak,hesap oluştur
+71,Müşteri: Siparişin çeşitli ürünlerini değiştirmek istiyorum 00004587345,sırayı değiştir
+72,Müşteri: Ürünümü ne kadar sürede bekleyebileceğimi bilmiyorum,teslim süresi
+73,Müşteri: Bir ürünü satın alma işleminden silmek zorundayım 732201349959,sırayı değiştir
+74,Müşteri: Altın hesabı iptal etmek için ne yapmam gerektiğini bilmiyorum,hesabı sil
+75,Müşteri: 1200 dolarlık bir tazminat bekliyorum,parça geri ödeme
+76,Müşteri: Ücretsiz hesabı kullanmak istiyorum,hesabı değiştir
+77,Müşteri: Artık siparişi karşılayamam 1135422617735602,Siparişi iptal et
+78,"Müşteri: Seni anlamıyorum, biriyle konuşmak için yardım istiyorum",İnsan Ajanı ile iletişime geçin
+79,Müşteri: ur öğesinin bir kısmını nereden satın alabilirim?,yer sırası
+80,Müşteri: Sipariş iptali,Siparişi iptal et
+81,Müşteri: Bir öğeyi asist alışverişi yapmak istiyorum,yer sırası
+82,Müşteri: Öğenizden birkaç tane almak için ne yapacağımı bilmiyorum,yer sırası
+83,Müşteri: standart hesabı sil,hesabı sil
+84,Müşteri: faturamı nasıl görebilirim #12588,faturayı kontrol et
+85,Müşteri: Erken sonlandırma ücretlerini nasıl kontrol edebilirim bilmiyorum,İptal ücretini kontrol et
+86,Müşteri: Adresimi değiştirmek için ne yapmam gerektiğini bilmiyorum,nakliye adresini değiştirme
+87,Müşteri: Seattle'a gönderiler,teslimat seçenekleri
+88,Müşteri: 1135422617735602 satın alma nerede?,parça sırası
+89,Müşteri: 1499 dolarlık bir erbate bekliyorum,parça geri ödeme
+90,Müşteri: siparişten bazı ürünleri silmeme yardım edin 1135422617735602,sırayı değiştir
+91,Müşteri: Teslim süreleri hakkında bilgi bulmaya çalışıyorum,teslim süresi
+92,Müşteri: Müşteri hizmetleri ile konuşmak için ücretsiz bir numaranız var mı?,müşteri hizmetleri ile iletişime geçin
+93,Müşteri: PIN alımımla ilgili bir sorunum var,Parolayı kurtar
+94,Müşteri: Erken sonlandırma ücretini kontrol edebilir miyim?,İptal ücretini kontrol et
+95,Müşteri: bazı öğeleri satın almak gerekir,yer sırası
+96,Müşteri: Hizmetleriniz için feedabck göndermeye yardımcı olun,incele
+97,Müşteri: Müşteri desteği ile ne zaman iletişim kurabileceğimi kontrol etmeye çalışıyorum,müşteri hizmetleri ile iletişime geçin
+98,Müşteri: Faturalarımı Bayan Hawkings'ten nasıl alacağımı bilmiyorum,fatura al
+99,Müşteri: 350 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+100,Müşteri: Bir kayıtla ilgili sorunları bildirmek zorundayım,Kayıt sorunları
+101,Müşteri: rebatingg $160,geri ödeme alın
+102,Müşteri: sipariş iptal etmek gerekir 00004587345,Siparişi iptal et
+103,Müşteri: Online ödeme ile ilgili bir sorun için yardım istemek,ödeme sorunu
+104,Müşteri: Geri ödemelerin genellikle ne kadar sürdüğünü kontrol etmeye yardımcı olur,geri ödeme politikasını kontrol edin
+105,Müşteri: Yeni Pro hesabı açmak,hesap oluştur
+106,Müşteri: Sevkiyatımın gelmesi için ne kadar süre gerektiğini nasıl kontrol edebilirim?,teslim süresi
+107,Müşteri: Bay Smith'ten faturamı kontrol etmek için yardım istiyorum,faturayı kontrol et
+108,Müşteri: Sevkiyat adresimi ayarlayabilir miyim?,nakliye adresi kurmak
+109,Müşteri: 1499 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+110,Müşteri: 160 dolarlık bir indirimin işleme konmasını bekliyorum,parça geri ödeme
+111,Müşteri: 299 dolar tazminat bekliyorum,parça geri ödeme
+112,Müşteri: Premium hesaptaki bilgileri güncellemek,Hesabı düzenle
+113,Müşteri: Yeni teslimat adresini girmeme yardım et,nakliye adresi kurmak
+114,Müşteri: Şirket bültenine kayıt olmak istiyorum,bülten aboneliği
+115,Müşteri: Faturayı almam gerekiyor #001008,fatura al
+116,"Müşteri: Kabul edilen ödeme seçeneklerini listelemek istiyorum, yardıma ihtiyacım var",ödeme yöntemlerini kontrol edin
+117,Müşteri: Bir gönderim adresi göndermem gerekiyor,nakliye adresi kurmak
+118,Müşteri: Premium hesaba geçmek mümkün mü?,hesabı değiştir
+119,Müşteri: Adresimi düzenlemeye çalışırken sorunlarım var,nakliye adresini değiştirme
+120,Müşteri: geri ödeme talep eden yardım istemek,geri ödeme alın
+121,Müşteri: Sipariş 00004587345 geçerli durumunu nasıl görebilirim?,parça sırası
+122,Müşteri: Hangi ödeme seçeneklerini kabul edeceğinizi nerede kontrol edersiniz?,ödeme yöntemlerini kontrol edin
+123,Müşteri: Nasıl reklâm yapabilirim bilmiyorum,şikayet
+124,Müşteri: Kayıtlarla ilgili sorunları nasıl bilgilendireceğimi bilmiyorum,Kayıt sorunları
+125,Müşteri: Kabul edilen ödeme yöntemlerini görmeye çalışıyorum,ödeme yöntemlerini kontrol edin
+126,Müşteri: Sipariş istemiyorum 732201349959 İptal etmek için yardıma ihtiyacım var,Siparişi iptal et
+127,Müşteri: Geçen ayki faturayı kontrol etmek,faturayı kontrol et
+128,Müşteri: Toronto'dan sipariş verebilir miyim?,teslimat seçenekleri
+129,Müşteri: Unutulan pin kodu hakkında bilgi bulun,Parolayı kurtar
+130,Müşteri: lanet nakliye adresimi değiştirmek mümkün mü,nakliye adresini değiştirme
+131,Müşteri: Ürünümü ne kadar sürede bekleyebileceğimi kontrol etmeme yardımcı olabilir misiniz?,teslim süresi
+132,Müşteri: yeni profilime ue için yardım,hesabı değiştir
+133,Müşteri: Kullanıcı anahtarımı geri yükleyemiyorum,Parolayı kurtar
+134,Müşteri: Kabul edilen ödeme yöntemlerini kontrol etmeme yardımcı olabilir misiniz?,ödeme yöntemlerini kontrol edin
+135,Müşteri: siparişin güncellenmesine yardımcı olun 00123842,sırayı değiştir
+136,Müşteri: Bülteninize abonelik hakkında bilgiye ihtiyacım var,bülten aboneliği
+137,Müşteri: Bir kayıtla hataları bildirmek için yardım,Kayıt sorunları
+138,Müşteri: Standart hesaptaki bilgileri güncelle,Hesabı düzenle
+139,Müşteri: Müşteri yardımını ne zaman arayabileceğimi söyleyebilir misiniz?,müşteri hizmetleri ile iletişime geçin
+140,Müşteri: güncelleme satın alma 732201349959,sırayı değiştir
+141,Müşteri: ABD'ye gönderiler,teslimat seçenekleri
+142,Müşteri: Hangi durumlarda lanet para iadelerini talep edebileceğimi görün,geri ödeme politikasını kontrol edin
+143,Müşteri: Münih'ten lanet bir sipariş vermek mümkün mü?,teslimat seçenekleri
+144,Müşteri: Toronto'dan sipariş verebilir miyim?,teslimat seçenekleri
+145,Müşteri: 370795561790 satın almak için bir ürün eklemem gerekiyor,sırayı değiştir
+146,Müşteri: gelin için açık premium hesap,hesap oluştur
+147,Müşteri: Siparişimin gelmesi için ne kadar zaman gerektiğini nasıl kontrol edebilirim?,teslim süresi
+148,Müşteri: Nasıl tazminat isteyebilirim?,geri ödeme alın
+149,Müşteri: Lanet bir freemium hesabı açmama yardım edebilir misin?,hesap oluştur
+150,Müşteri: Freemium hesabına geçiş,hesabı değiştir
+151,Müşteri: Faturamı görmek için yardıma ihtiyacım var #12588,faturayı kontrol et
+152,"Müşteri: Bülteninize kaydolmak istiyorum, nasıl yapılır?",bülten aboneliği
+153,Müşteri: Platin hesabı güncellemek,Hesabı düzenle
+154,Müşteri: Siparişi 370795561790 düzenleyebilir miyim?,sırayı değiştir
+155,Müşteri: Kurumsal bülteninizden nerede abonelikten çıkabilirim?,bülten aboneliği
+156,"Müşteri: Siparişi düzenlemem gerekiyor 370795561790, bana yardım edebilir misiniz?",sırayı değiştir
+157,Müşteri: Satın alma te ETA kontrol etmek istiyorum 00004587345,parça sırası
+158,Müşteri: Lanet Premium hesabına geçmek istiyorum nasıl yapılır,hesabı değiştir
+159,Müşteri: satın alma 00004587345 durumunu görmek için ineed yardım,parça sırası
+160,Müşteri: siparişin ETA'sını kontrol edin 1135422617735602,parça sırası
+161,Müşteri: 00123842 satın alınan bazı lanet ürünleri değiştirebilir miyim?,sırayı değiştir
+162,"Müşteri: Seni anlayamıyorum, canlı bir ajanla konuşmak için yardıma ihtiyacım var",İnsan Ajanı ile iletişime geçin
+163,"Müşteri: Platinum profilini kullanmak istiyorum, nasıl yapabilirim?",hesabı değiştir
+164,Müşteri: pwd sıfırlamam hakkında bilgi,Parolayı kurtar
+165,Müşteri: Bir ajanla konuşmak için yardım istiyorum,İnsan Ajanı ile iletişime geçin
+166,Müşteri: Teslimat adresimi değiştiremiyorum,nakliye adresini değiştirme
+167,Müşteri: para çekme ücretlerini görmek için yardım,İptal ücretini kontrol et
+168,Müşteri: Müşteri desteği ile nasıl konuşulur?,müşteri hizmetleri ile iletişime geçin
+169,Müşteri: Ödemelerle ilgili bir sorunu nasıl bildireceğimi bilmiyorum,ödeme sorunu
+170,Müşteri: Nakliye adresini değiştirmek için ne yapacağımı bilmiyorum,nakliye adresini değiştirme
+171,Müşteri: rapor kayıt sorunu,Kayıt sorunları
+172,Müşteri: Nişanlım için Premium hesap oluşturma konusunda yardıma ihtiyacım var,hesap oluştur
+173,Müşteri: son satın alma işleminden faturayı kontrol edin,faturayı kontrol et
+174,Müşteri: Satın alma işlemimin ne zaman geleceğini nasıl kontrol edebilirim bilmiyorum,teslim süresi
+175,Müşteri: Kaydolmamla ilgili sorunlarım var,Kayıt sorunları
+176,Müşteri: premium hesabımın silinmesi hakkında bilgi verin,hesabı sil
+177,Müşteri: 370795561790 satın alma iptal yardım istemek,Siparişi iptal et
+178,Müşteri: ur şirketi için yorum bırakabilir miyim,incele
+179,Müşteri: nakliye adresini düzeltin,nakliye adresini değiştirme
+180,Müşteri: Satın alma işlemini iptal etmek için yardıma ihtiyacım var 732201349959,Siparişi iptal et
+181,Müşteri: Hesabımın şifresini nereden alabilirim?,Parolayı kurtar
+182,Müşteri: ur işine karşı bir ıslah davası açmak için assisxtance'a ihtiyaç var,şikayet
+183,Müşteri: satın alma ETA görmek istiyorum 1135422617735602,parça sırası
+184,Müşteri: 732201349959 satın almayı iptal etmeme yardım eder misiniz?,Siparişi iptal et
+185,"Müşteri: Kullanıcımı düzenlemek istiyorum, yardıma ihtiyacım var",Hesabı düzenle
+186,Müşteri: Mevcut ödeme seçeneklerini kontrol etmeniz gerekiyor,ödeme yöntemlerini kontrol edin
+187,Müşteri: Müşteri hizmetlerini hangi saatlerde arayabileceğimi nasıl kontrol edebilirim?,müşteri hizmetleri ile iletişime geçin
+188,Müşteri: Toronto'ya gönderiyor musunuz?,teslimat seçenekleri
+189,Müşteri: satın alma etasını görmek gerekiyor 00123842,parça sırası
+190,Müşteri: Kullanıcımın geçişini unuttum sıfırlamam gerekiyor,Parolayı kurtar
+191,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görmek için yardım istemek,geri ödeme politikasını kontrol edin
+192,Müşteri: Erken fesih ücretleri hakkında hiçbir şey bulamıyorum,İptal ücretini kontrol et
+193,Müşteri: Paramın bir tazminatını talep etmeye çalışıyorum,geri ödeme alın
+194,Müşteri: Kurumsal haber bülteni aboneliğimin durumunu görün,bülten aboneliği
+195,Müşteri: Ürününüzden birkaçını satın almaya çalışıyorum,yer sırası
+196,Müşteri: Başka bir standart hesap aç,hesap oluştur
+197,"Müşteri: Tüketici ıslahı yapmak istiyorum, yardıma ihtiyacım var",şikayet
+198,Müşteri: wshat bilmiyorum fatura #12588 almak için yapmak zorundayım,fatura al
+199,Müşteri: Öğenizden birkaçını sipariş etmek için ne yapmam gerektiğini bilmiyorum,yer sırası
+200,Müşteri: satın alma iptal beni uhlep olabilir 732201349959,Siparişi iptal et
+201,Müşteri: Müşteri talebi için yardıma ihtiyacım var,şikayet
+202,Müşteri: nerede ur iş karşı bir tüketici iddia yapmak,şikayet
+203,Müşteri: nereye bir nakliye adresi gönderebilirim?,nakliye adresi kurmak
+204,Müşteri: Siparişi değiştirmeme yardım edin 370795561790,sırayı değiştir
+205,Müşteri: Siparişin bazı öğelerini değiştirebilir miyim 732201349959,sırayı değiştir
+206,Müşteri: Müşteri yardımı ile hangi saatlerde iletişim kurabileceğimi görmem gerekiyor,müşteri hizmetleri ile iletişime geçin
+207,Müşteri: Geri ödeme almama yardım edebilir misiniz?,geri ödeme alın
+208,Müşteri: Siparişin ETA'sını görmek için yardım istiyorum 00004587345,parça sırası
+209,Müşteri: ur erimbursement politikasını kontrol edebilir miyim?,geri ödeme politikasını kontrol edin
+210,Müşteri: Puurchase 00004587345 iptal yardım istiyorum,Siparişi iptal et
+211,Müşteri: iptal ücretlerine bakın,İptal ücretini kontrol et
+212,Müşteri: pro hesabındaki bilgileri düzeltmek,Hesabı düzenle
+213,Müşteri: Bir asistanla Chay'e ne yapmam gerektiğini bilmiyorum,İnsan Ajanı ile iletişime geçin
+214,Müşteri: Hangi durumlarda geri ödeme isteyebileceğimi kontrol etmeliyim,geri ödeme politikasını kontrol edin
+215,Müşteri: Unutulmuş geçiş hakkında soru,Parolayı kurtar
+216,Müşteri: Bir ajanla sohbet etmek için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+217,Müşteri: nakliye için hangi seçenekleri seçebilirim?,teslimat seçenekleri
+218,Müşteri: teslimat adresimi düzeltmek için destek istiyorum,nakliye adresini değiştirme
+219,Müşteri: Müşteri hizmetlerine hangi saatlerde ulaşabileceğimi görmeye çalışıyorum,müşteri hizmetleri ile iletişime geçin
+220,Müşteri: sipariş 00123842 durumunu görmek için nasıl,parça sırası
+221,Müşteri: İzin verilen ödeme yöntemlerini kontrol etmeye çalışıyorum,ödeme yöntemlerini kontrol edin
+222,Müşteri: Pro hesabında değişiklik yapmak için yardım istiyorum,hesabı değiştir
+223,Müşteri: Hangi durumlarda geri ödeme isteyebilirim?,geri ödeme politikasını kontrol edin
+224,Müşteri: Platin hesabı kaldırma hakkında nasıl bilgi edinebilirim,hesabı sil
+225,Müşteri: Kabul edilen ödeme yöntemlerinizi nasıl kontrol edebilirim bilmiyorum,ödeme yöntemlerini kontrol edin
+226,Müşteri: Satın almamın ne zaman geleceğini görmeme yardımcı olun,teslim süresi
+227,Müşteri: Paranızı geri alın,geri ödeme alın
+228,Müşteri: David Miller'ın faturasına hızlıca bir göz atabilir miyim?,faturayı kontrol et
+229,Müşteri: ur avaqitable ödeme seçeneklerini nasıl listelerim,ödeme yöntemlerini kontrol edin
+230,Müşteri: Ödeme seçeneklerini nerede görebilirim?,ödeme yöntemlerini kontrol edin
+231,Müşteri: 1200 dolar tazminat bekliyorum,parça geri ödeme
+232,Müşteri: 00004587345 siparişine bir şey eklemek için ne yapmam gerekiyor?,sırayı değiştir
+233,Müşteri: Kullanıcı erişim anahtarımı nasıl alacağımı bilmiyorum,Parolayı kurtar
+234,Müşteri: Bir insan ajanla konuşmama yardım edebilir misiniz?,İnsan Ajanı ile iletişime geçin
+235,Müşteri: parseli ne kadar sürede bekleyebileceğimi kontrol eden yardım,teslim süresi
+236,Müşteri: Siparişin durumunu görmem gerekiyor 00004587345 bana yardım et,parça sırası
+237,Müşteri: Online ödemelerle ilgili bir sorunu bildirmeniz gerekir,ödeme sorunu
+238,"Müşteri: Ürünlerinizle ilgili geri bildirimde bulunmam gerekiyor, bana yardım edin",incele
+239,Müşteri: Şirketinize karşı bir müşteri iddiasında bulunmama yardım edin,şikayet
+240,Müşteri: Hizmetleriniz için nasıl yorum yazabilirsiniz?,incele
+241,Müşteri: Profesyonel bir hesap açmak için yardım istiyorum,hesap oluştur
+242,Müşteri: Unutulmuş parolamla ilgili sorun,Parolayı kurtar
+243,Müşteri: Makalenizin birkaçını satın almak için yardım istiyorum,yer sırası
+244,Müşteri: Kuruluşunuza karşı bir iddiada bulunmak için yardıma ihtiyacınız var,şikayet
+245,Müşteri: Yeni standart hesap açmak,hesap oluştur
+246,Müşteri: Siparişi iptal etmek için yardıma ihtiyacım var 00004587345,Siparişi iptal et
+247,Müşteri: Hangi durumlarda iade edilmeyi isteyebileceğimi görmeye yardımcı olun,geri ödeme politikasını kontrol edin
+248,Müşteri: faturayı kontrol et #37777,faturayı kontrol et
+249,Müşteri: Görüş bırakmak için bir eklenti var mı?,incele
+250,Müşteri: Valencia'ya teslimatlar,teslimat seçenekleri
+251,Müşteri: Bir ürün için fikir nasıl bırakılır,incele
+252,Müşteri: Bir ürün hakkında fikir bırakmak için bir adres var mı?,incele
+253,Müşteri: Sevkiyatımın ne zaman geleceğini görmeme yardımcı olur musunuz?,teslim süresi
+254,Müşteri: ur işine karşı tüketici ıslahı yapmak,şikayet
+255,Müşteri: Anna Freeman'dan faturaları almama yardım edebilir misin?,fatura al
+256,Müşteri: Kurumsal haber bültenine abonelikten çıkabilir miyim?,bülten aboneliği
+257,Müşteri: Fesih ücretlerini nasıl görebilirim?,İptal ücretini kontrol et
+258,Müşteri: Birisiyle konuşmak için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+259,Müşteri: Tüketici reklâmını düzenlememe yardım edin,şikayet
+260,Müşteri: Bir makale edinmeme yardımcı olabilir misiniz?,yer sırası
+261,Müşteri: David Miller'ın faturasını nasıl görebilirim bilmiyorum,faturayı kontrol et
+262,Müşteri: İşinize karşı bir geri bildirimde bulunmak için yardıma ihtiyacım var,şikayet
+263,Müşteri: bana nakliye süreleri hakkında bilgi verin,teslim süresi
+264,Müşteri: Siparişin bir ürününü değiştirmek zorundayım 732201349959,sırayı değiştir
+265,Müşteri: Bazı satın alma öğelerini değiştirmek için yardıma ihtiyacım var 370795561790,sırayı değiştir
+266,Müşteri: Anna Freeman'ın faturalarına hızlıca bakmama yardım et,faturayı kontrol et
+267,Müşteri: hangi teslimat seçeneklerine sahip olduğumu görmek için yardım,teslimat seçenekleri
+268,Müşteri: Geri ödeme durumunu kontrol etmeme yardımcı olur musunuz?,parça geri ödeme
+269,Müşteri: ii geri ödeme alabileceği bir sipariş için 160 dolar ödedim,geri ödeme alın
+270,Müşteri: Bay Smith'in faturalarını bulmam gerek.,faturayı kontrol et
+271,Müşteri: Premium hesaba geçmek için yardıma ihtiyaç duyar,hesabı değiştir
+272,Müşteri: Lanet olası canlı bir ajanla konuşmak için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+273,Müşteri: Teslimat adresimi değiştirmek için desteğe ihtiyacım var,nakliye adresini değiştirme
+274,Müşteri: Öğenizden birkaçını sipariş etmek istiyorum,yer sırası
+275,Müşteri: Bir kayıtla ilgili sorunları bildirmeme yardımcı olun,Kayıt sorunları
+276,Müşteri: uhas ile olan deneyimim şikayette bulunmak için kötü bir yardım oldu,şikayet
+277,Müşteri: ur ödeme modalitelerini kontrol etmek için yardım isteyin,ödeme yöntemlerini kontrol edin
+278,Müşteri: Bir kayıt sorunu hakkında bilgi vermeme yardımcı olun,Kayıt sorunları
+279,Müşteri: ücretsiz sayım hakkındaki bilgileri güncelle,Hesabı düzenle
+280,Müşteri: Online ödemelerle troublleri bildirmeye çalışıyorum,ödeme sorunu
+281,Müşteri: nerede ur iş karşı bir müşteri iddia loca,şikayet
+282,Müşteri: Müşteri hizmetlerine ne zaman ulaşabileceğimi nereden kontrol edebilirim?,müşteri hizmetleri ile iletişime geçin
+283,Müşteri: Pro hesabındaki ayrıntıları değiştirmek,Hesabı düzenle
+284,Müşteri: Nasıl şikayette bulunacağımı bilmiyorum,şikayet
+285,Müşteri: Faturayı indirmek için yardım istiyorum #85632,fatura al
+286,Müşteri: iade durumunu kontrol edin,parça geri ödeme
+287,Müşteri: Gold hesabımın kaldırılmasıyla ilgili sorunlarım var,hesabı sil
+288,Müşteri: Bayan Hawkings'ten faturaları alın,fatura al
+289,Müşteri: Paketimin ne zaman geleceğini görmek için ne yapmam gerekiyor?,teslim süresi
+290,Müşteri: Standart hesap kullanımı,hesabı değiştir
+291,"Müşteri: Teslimat adresimi ayarlamam gerekiyor, yardıma ihtiyacım var",nakliye adresi kurmak
+292,Müşteri: Kayıtlarla ilgili bir hatayı bildirmek için yardıma ihtiyacım var,Kayıt sorunları
+293,Müşteri: 732201349959 satın almak için bir şey eklememe yardım edin,sırayı değiştir
+294,Müşteri: Canlı bir ajanla iletişime geçmek mümkün mü?,İnsan Ajanı ile iletişime geçin
+295,Müşteri: Başka bir gönderim adresi gönderme sorunlarım var,nakliye adresi kurmak
+296,Müşteri: Birisiyle sohbet etmek için uneed yardımını anlamıyorum,İnsan Ajanı ile iletişime geçin
+297,Müşteri: 1200 dolar tazminat bekliyorum,parça geri ödeme
+298,Müşteri: Müşteri desteği ile ne zaman iletişime geçebileceğimi görün,müşteri hizmetleri ile iletişime geçin
+299,"Müşteri: Seni anlamıyorum, biriyle iletişime geçmek için yardıma ihtiyacım var",İnsan Ajanı ile iletişime geçin
+300,Müşteri: Bir kayıtla ilgili bir hatayı bildirmek için yardıma ihtiyacım var,Kayıt sorunları
+301,Müşteri: Meksika'ya gönderiyor musunuz?,teslimat seçenekleri
+302,Müşteri: Ekim ayından itibaren faturaları alın,fatura al
+303,Müşteri: Hangi durumlarda paramı geri isteyebilirim?,geri ödeme politikasını kontrol edin
+304,Müşteri: 350 dolarlık bir geri ödeme için gidiyorum,parça geri ödeme
+305,Müşteri: Hangi durumlarda reimbhursements isteyebileceğimi görmem gerekiyor,geri ödeme politikasını kontrol edin
+306,Müşteri: Düzenleme siparişi ile ilgili yardıma ihtiyacım var 1135422617735602,sırayı değiştir
+307,Müşteri: 00004587345 satın almak için nasıl bir şey ekleyebilirim?,sırayı değiştir
+308,Müşteri: siparişin ETA'sını görmeme yardım edebilir misiniz 1135422617735602,parça sırası
+309,Müşteri: Pro hesabındaki detalis değiştirme,Hesabı düzenle
+310,Müşteri: Müşteri hizmetlerine ne zaman ulaşabileceğimi kontrol etmeye yardımcı olun,müşteri hizmetleri ile iletişime geçin
+311,Müşteri: Adresimi düzenlemem gerekiyor,nakliye adresini değiştirme
+312,Müşteri: Erken sonlandırma ücretlerini kontrol etmek için yardım istiyorum,İptal ücretini kontrol et
+313,Müşteri: PIN kodu sıfırlama hakkında bilgi verir misiniz?,Parolayı kurtar
+314,Müşteri: ücretsiz hesaptaki verileri güncelle,Hesabı düzenle
+315,Müşteri: Bir ödeme sorunu bildirmek için yardım isteyemem,ödeme sorunu
+316,Müşteri: yardım istemek sipariş takip 1135422617735602,parça sırası
+317,Müşteri: erken sonlandırma ücretini kontrol etmek için yardıma ihtiyaç var,İptal ücretini kontrol et
+318,Müşteri: Biriyle konuşmak için yardım istiyorum,İnsan Ajanı ile iletişime geçin
+319,Müşteri: Bir tüketici iddiasında bulunmak için ne yapmam gerektiğini bilmiyorum,şikayet
+320,Müşteri: Geri ödeme politikanızı nasıl görebilirim?,geri ödeme politikasını kontrol edin
+321,Müşteri: Teslimat adresimi değiştirmem gerekiyor,nakliye adresini değiştirme
+322,Müşteri: 1499 dolarlık bir tazminat bekliyorum,parça geri ödeme
+323,Müşteri: Adresi düzenleme hakkında nereden bilgi edinebilirim?,nakliye adresini değiştirme
+324,Müşteri: siparişin bazı maddelerini değiştirmek istiyorum 732201349959 bana yardım edin,sırayı değiştir
+325,Müşteri: Faturayı indirmek için ne yapmam gerektiğini bilmiyorum #85632,fatura al
+326,Müşteri: Bir kayıt sorununu bildiren yardıma ihtiyacım var,Kayıt sorunları
+327,Müşteri: Bir tüketici iddiasında bulunmak mümkün mü?,şikayet
+328,"Müşteri: Henüz kayıtlı değilim, bir Platin hesabı açmam gerekiyor",hesap oluştur
+329,Müşteri: Hesabımın PIN'ini kurtarma konusunda yardıma ihtiyacım var,Parolayı kurtar
+330,Müşteri: Erken sonlandırma cezalarını nasıl kontrol edebilirim?,İptal ücretini kontrol et
+331,Müşteri: Bir öğeyi nasıl edinebilirim bilmiyorum,yer sırası
+332,Müşteri: David Miller'dan fatura almak,fatura al
+333,Müşteri: acn i Macaristan'dan sipariş,teslimat seçenekleri
+334,Müşteri: Altın hesabı nerede değiştireceğim?,hesabı değiştir
+335,Müşteri: Bayan Hawkings'ten faturalarımı nereden indirebilirim?,fatura al
+336,Müşteri: platin hesabı oluştur,hesap oluştur
+337,"Müşteri: Lanet olası bir Platin hesabına ihtiyacım var, açabilir miyim?",hesap oluştur
+338,Müşteri: Delivbery adresimi değiştirmeye çalışan destek istiyorum,nakliye adresini değiştirme
+339,Müşteri: ur şirketi için geri bildirimimi nasıl gönderebilirim bilmiyorum,incele
+340,Müşteri: Bir ürünü siparişten kaldırmak mümkün mü 732201349959?,sırayı değiştir
+341,"Müşteri: Geri ödemelerin ne kadar sürdüğünü görmeliyim, bana yardım edin",geri ödeme politikasını kontrol edin
+342,Müşteri: Ürünümün ne zaman geleceğini kontrol etmem gerekiyor,teslim süresi
+343,Müşteri: sipariş değiştirme 370795561790,sırayı değiştir
+344,Müşteri: PIN kodu kurtarma hakkında bilgi,Parolayı kurtar
+345,Müşteri: Faturamı indirmek için ne yapmam gerektiğini bilmiyorum #85632,fatura al
+346,Müşteri: Nerede para iadesi talep ediyorum,geri ödeme alın
+347,Müşteri: yeni bir teslimat adresi göndermek için yardım isteyin,nakliye adresi kurmak
+348,Müşteri: Faturamı almam gerekiyor #85632 Biraz yardım alabilir miyim,fatura al
+349,Müşteri: Ödeme ile ilgili bir sorunu bildirmek için assidance istiyorum,ödeme sorunu
+350,Müşteri: 1499 dolar tazminat bekliyorum,parça geri ödeme
+351,Müşteri: nakliye adresini değiştirme sorunları,nakliye adresini değiştirme
+352,"Müşteri: Bazı eşyalardan alışveriş yapmam gerekiyor, yardıma ihtiyacım var",yer sırası
+353,Müşteri: 1499 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+354,Müşteri: Anlamıyorum ui canlı bir ajanla iletişime geçmek istiyor,İnsan Ajanı ile iletişime geçin
+355,Müşteri: 350 dolarlık bir tazminat bekliyorum,parça geri ödeme
+356,Müşteri: Çevrimiçi ödemelerle ilgili bir hatayı çözmek için yardım istiyorum,ödeme sorunu
+357,Müşteri: Premium bir hesabı silmek için ne yapmam gerekiyor?,hesabı sil
+358,Müşteri: 370795561790 satın almayı iptal etmek için ne yapmam gerekiyor?,Siparişi iptal et
+359,Müşteri: Teslimat adresi değişikliği hakkında nereden bilgi alabilirim?,nakliye adresini değiştirme
+360,Müşteri: iptal ücretini kontrol etmek için yardım,İptal ücretini kontrol et
+361,Müşteri: Profilimin PIN'ini kurtarmak için yardıma ihtiyacım var,Parolayı kurtar
+362,Müşteri: Şirketiniz için geri bildirimimi nereye gönderebilirim?,incele
+363,Müşteri: Birkaç ürün satın almak için ne yapacağımı bilmiyorum,yer sırası
+364,"Müşteri: Kullanıcı hesabımın PIN'ini unuttum, kurtarmama yardım edin",Parolayı kurtar
+365,Müşteri: Teslimat adresini nasıl değiştireceğimi bilmiyorum,nakliye adresini değiştirme
+366,"Müşteri: İptal cezalarını görmeliyim, yardıma ihtiyacım var",İptal ücretini kontrol et
+367,Müşteri: changingg satın alma 00123842 yardım gerekiyor,sırayı değiştir
+368,Müşteri: Ödeme yöntemlerini nerede kontrol ederim?,ödeme yöntemlerini kontrol edin
+369,Müşteri: Fesih ücretini görmeme yardımcı olabilir misiniz?,İptal ücretini kontrol et
+370,"Müşteri: Bu öğeyi istemiyorum, siparişi nerede iptal edebilirim 370795561790?",Siparişi iptal et
+371,Müşteri: Paramın geri ödemelerini nasıl alacağımı bilmiyorum,geri ödeme alın
+372,Müşteri: Hizmetleriniz için geri bildirim bırakmanın bir yolu var mı?,incele
+373,Müşteri: Adresi güncelleme hakkında bilgi arıyorum,nakliye adresini değiştirme
+374,Müşteri: Bay Jones'tan faturamı bulmak için ne yapacağımı bilmiyorum.,faturayı kontrol et
+375,Müşteri: Şirketiniz hakkında nasıl geri bildirim bırakacağımı bilmiyorum,incele
+376,Müşteri: Paranın geri ödenmesi için yardım istiyorum,geri ödeme alın
+377,Müşteri: Para iadesi talep eden yardım istiyorum,geri ödeme alın
+378,Müşteri: Bir ürünü satın alma işleminden silemiyorum 00123842,sırayı değiştir
+379,Müşteri: neden ikincil nakliye adresini geçerli olarak ayarlayamıyorum,nakliye adresi kurmak
+380,Müşteri: Faturamı nasıl görebilirim bilmiyorum #001008,faturayı kontrol et
+381,Müşteri: Detroit'ten sipariş verebilir miyim?,teslimat seçenekleri
+382,Müşteri: ur şirketi hakkında fikir bırakmak için yardıma ihtiyaç var,incele
+383,Müşteri: ur siktiğimin para iade garantisini görmek için yardıma ihtiyacım var,geri ödeme politikasını kontrol edin
+384,Müşteri: Faturamı kontrol etmek için assistantance'a ihtiyacım var #00108,faturayı kontrol et
+385,Müşteri: bir ürün için geri bildirim göndermek mümkün mü,incele
+386,Müşteri: Hangi durumlarda iade edilmeyi isteyebileceğimi kontrol etmeme yardımcı olun,geri ödeme politikasını kontrol edin
+387,Müşteri: Birisiyle konuşmama yardım eder misin?,İnsan Ajanı ile iletişime geçin
+388,Müşteri: Freemium hesabındaki bilgileri düzenle,Hesabı düzenle
+389,Müşteri: 732201349959 satın almak için bir makale nasıl eklenir,sırayı değiştir
+390,Müşteri: kayıtlarla ilgili bir sorunun bildirilmesi için yardım isteyin,Kayıt sorunları
+391,Müşteri: Yeni kanlı bir pro hesap açmakta sorun yaşar,hesap oluştur
+392,"Müşteri: Hangi ödeme yöntemlerinin mevcut olduğunu kontrol etmek istiyorum, bana yardım edin",ödeme yöntemlerini kontrol edin
+393,Müşteri: Nakliye adresini düzeltmek için yardıma ihtiyacım var,nakliye adresini değiştirme
+394,Müşteri: Kullanıcımın anahtarını nasıl sıfırlayacağımı bilmiyorum,Parolayı kurtar
+395,Müşteri: şirket bülteninize abone olmama yardımcı olun,bülten aboneliği
+396,Müşteri: tazminat almama yardımcı olabilir,geri ödeme alın
+397,Müşteri: Fatura #001008'i aramama yardım edebilir misiniz?,faturayı kontrol et
+398,Müşteri: Japonya'ya nakliye,teslimat seçenekleri
+399,Müşteri: Yeni gönderim adresini göndermekte sorun var,nakliye adresi kurmak
+400,Müşteri: bana bir teslimat reklamı değişikliği hakkında bilgi verebilir misiniz?,nakliye adresini değiştirme
+401,Müşteri: Boğaya hızlı bir bakış veren yardım istiyorum #85632,faturayı kontrol et
+402,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görmek için yardım,geri ödeme politikasını kontrol edin
+403,Müşteri: ur haber bültenine kaydolmak hakkında bilgi almak istiyorum,bülten aboneliği
+404,Müşteri: sipariş 00004587345 durumu,parça sırası
+405,Müşteri: Bir kayıtla bir hatayı nasıl bildirebilirim bilmiyorum,Kayıt sorunları
+406,Müşteri: Müşteri desteğine hangi saatlerde ulaşabileceğimi görmek için yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+407,Müşteri: sipariş vermek istiyorum birkaç öğe bana yardım edin,yer sırası
+408,Müşteri: bir ürün hakkında bir inceleme bırakmak için yardıma ihtiyaç var,incele
+409,Müşteri: Kuruluşunuza karşı şikayette bulunmama yardım edin,şikayet
+410,"Müşteri: Satın almamın ne zaman geleceğini görmek istiyorum, yardıma ihtiyacım var",teslim süresi
+411,Müşteri: bir hizmet için fikir yazmak için yardım istemek,incele
+412,Müşteri: Siparişten lanet bir öğeyi silmek istiyorum 732201349959,sırayı değiştir
+413,Müşteri: nakliye adresini değiştirmeye çalışan yardım,nakliye adresini değiştirme
+414,Müşteri: David Miller'dan fatura al,fatura al
+415,Müşteri: İkincil bir gönderim adresi kuramıyorum,nakliye adresi kurmak
+416,Müşteri: ur şirket hakkında bazı geri bildirimler göndermeme yardımcı olabilir misiniz?,incele
+417,Müşteri: Anna Freeman'dan faturayı aramama yardım et,faturayı kontrol et
+418,Müşteri: Dublin'e teslimatlar,teslimat seçenekleri
+419,Müşteri: ur hizmetleri için geri bildirim göndermem gerekiyor,incele
+420,Müşteri: Sevkiyatımın ne zaman geleceğini kontrol etmeye çalışıyorum.,teslim süresi
+421,Müşteri: erken çıkış ücretlerini kontrol etmek gerekir,İptal ücretini kontrol et
+422,Müşteri: dosya müşteri şikayeti işinizin agaisnt,şikayet
+423,Müşteri: Standart hesaptaki bilgileri düzenleme,Hesabı düzenle
+424,Müşteri: Faturaları Anna Freeman'dan nasıl indirebilirim bilmiyorum,fatura al
+425,Müşteri: Bay Jones'tan gelen faturaları nerede kontrol edebilirim?,faturayı kontrol et
+426,Müşteri: Online ödeme ile ilgili bir sorunun bildirilmesi için yardıma ihtiyacım var,ödeme sorunu
+427,Müşteri: Siparişin mevcut durumunu kontrol etmeme yardım edin 370795561790,parça sırası
+428,Müşteri: Yeni altın hesabı açmak,hesap oluştur
+429,Müşteri: Para iade politikanızı kontrol etmeye yardımcı olun,geri ödeme politikasını kontrol edin
+430,Müşteri: 00004587345 satın almak için bir miktar eklemeniz gerekiyor,sırayı değiştir
+431,Müşteri: Kurumsal haber bültenine abone olmak mümkün mü?,bülten aboneliği
+432,"Müşteri: Faturayı görmek istiyorum #001008, bana yardım et",faturayı kontrol et
+433,Müşteri: Teslimat adresini değiştiremiyorum,nakliye adresini değiştirme
+434,Müşteri: Online ödeme ile ilgili bir sorunu çözmek,ödeme sorunu
+435,Müşteri: 299 $ iade,geri ödeme alın
+436,Müşteri: Müşteri yardımını ne zaman arayabileceğimi kontrol edebilir miyim?,müşteri hizmetleri ile iletişime geçin
+437,Müşteri: Profesyonel profili kullanmam gerekiyor,hesabı değiştir
+438,Müşteri: Nişanlım için altın acount açın,hesap oluştur
+439,Müşteri: 00004587345 siparişi vermek için bir makale eklemek için yardım istiyorum,sırayı değiştir
+440,Müşteri: ur şirket bültenine abonelikten çıkmak için yardım,bülten aboneliği
+441,Müşteri: Altın hesabı değiştirme,Hesabı düzenle
+442,Müşteri: Bir asistanla konuşmak için ne yapmam gerektiğini bilmiyorum,İnsan Ajanı ile iletişime geçin
+443,Müşteri: Finlandiya'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+444,Müşteri: Hesabımın PIN'ini geri alamıyorum,Parolayı kurtar
+445,Müşteri: Ürününüzün bir kısmını satın almak zorundayım,yer sırası
+446,Müşteri: Premium hesabı güncelle,Hesabı düzenle
+447,Müşteri: 1135422617735602 satın almanın ETA'sını kontrol etmem gerekiyor,parça sırası
+448,Müşteri: 370795561790 sipariş vermek için bazı öğelerin reklamını yapmak için yardım istemek,sırayı değiştir
+449,Müşteri: İkincil gönderim adresimi nereden girebilirim?,nakliye adresi kurmak
+450,Müşteri: İptal cezasını görmeliyim,İptal ücretini kontrol et
+451,Müşteri: Birisiyle sohbet edemiyorum,İnsan Ajanı ile iletişime geçin
+452,Müşteri: Platin hesabı kapat,hesabı sil
+453,"Müşteri: 732201349959 satın almayı düzeltmek istiyorum, nasıl yapabilirim?",sırayı değiştir
+454,Müşteri: Standart hesaptaki verileri düzenle,Hesabı düzenle
+455,Müşteri: ur ürünleri için nasıl yorum bırakabileceğimi bilmiyorum,incele
+456,Müşteri: ur bülten alma hakkında bilgi bulmak,bülten aboneliği
+457,Müşteri: Online ödeme ile hataları çözmeye yardımcı olur,ödeme sorunu
+458,Müşteri: İkincil teslimat adresini gönderemiyorum,nakliye adresi kurmak
+459,Müşteri: Lanet olası ücretsiz hesabı kapatmama yardım eder misin?,hesabı sil
+460,Müşteri: coaim yapmak,şikayet
+461,Müşteri: teslimat adresini değiştirmeme yardım et,nakliye adresini değiştirme
+462,Müşteri: Siparişi ne kadar sürede bekleyebileceğimi görmek istiyorum,teslim süresi
+463,"Müşteri: Müşteri desteği ile konuşmak istiyorum, nasıl yapabilirim?",müşteri hizmetleri ile iletişime geçin
+464,"Müşteri: Lanet bir Freemium hesabım yok, kayıt yaptırabilir miyim?",hesap oluştur
+465,Müşteri: Ücretsiz hesaba geçmek için yardım istiyorum,hesabı değiştir
+466,Müşteri: uwas ile ilgili deneyim korkunç nasıl kanlı bir iddiada bulunurum,şikayet
+467,Müşteri: düzenlemePlatinum hesabı,Hesabı düzenle
+468,"Müşteri: Ödemelerle ilgili lanet bir sorunu bildirmem gerekiyor, bana yardım edin",ödeme sorunu
+469,Müşteri: Kullanıcı hesabımın pimini sıfırlamak için yardıma ihtiyacım var,Parolayı kurtar
+470,Müşteri: Gold profilini kullanmak için yardım,hesabı değiştir
+471,Müşteri: Makalenizden birkaçını sipariş etmek için ne yapacağımı bilmiyorum,yer sırası
+472,Müşteri: Lanet bir indirim talep etmeme yardım edebilir misin?,geri ödeme alın
+473,Müşteri: ödeme sorunu raporlama,ödeme sorunu
+474,Müşteri: Teslimat adresimi değiştiren hatalarım var,nakliye adresini değiştirme
+475,Müşteri: Kızım için bir Altın hesabı oluşturmak için yardıma ihtiyacım var,hesap oluştur
+476,Müşteri: Faturamı indirmek için ne yapmam gerektiğini bilmiyorum #001008,fatura al
+477,Müşteri: rapor ödeme sorunu,ödeme sorunu
+478,Müşteri: altın hesabındaki verileri düzenle,Hesabı düzenle
+479,Müşteri: Tazminat talep etmeye çalışıyorum,geri ödeme alın
+480,Müşteri: Premium hesaba geçiş,hesabı değiştir
+481,Müşteri: Ücretsiz hesaptaki ayrıntıları değiştirin,Hesabı düzenle
+482,Müşteri: Freemium profili nasıl kullanılır,hesabı değiştir
+483,Müşteri: Profesyonel hesaba geçmek için ne yapmam gerektiğini bilmiyorum,hesabı değiştir
+484,Müşteri: Siparişi iptal etmek için yardım istiyorum 1135422617735602,Siparişi iptal et
+485,Müşteri: Tüketici talebinde bulunabilir miyim?,şikayet
+486,Müşteri: değişim satın alma 1135422617735902,sırayı değiştir
+487,Müşteri: Tro check ur kabul edilen ödeme yöntemlerim var yardıma ihtiyacım var,ödeme yöntemlerini kontrol edin
+488,"Müşteri: Bir makale için 160 dolar ödedim, geri ödeme almaya çalışıyorum",geri ödeme alın
+489,Müşteri: Satın alma işlemini iptal etmeme yardım et 00123842,Siparişi iptal et
+490,Müşteri: 1200 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+491,Müşteri: Sevkiyat yöntemlerini nasıl kontrol edebilirim?,teslimat seçenekleri
+492,Müşteri: Müşteri desteğini ne zaman arayabileceğimi kontrol etmek için yardım,müşteri hizmetleri ile iletişime geçin
+493,Müşteri: Faturayı nasıl göreceğimi bilmiyorum #001008,faturayı kontrol et
+494,Müşteri: 1135422617735602 satın alma işlemini iptal etmeme yardım et,Siparişi iptal et
+495,Müşteri: Farklı bir teslimat adresi girmeye çalışıyorum,nakliye adresi kurmak
+496,Müşteri: Bay Smith'in faturalarını görmek için yardım istiyorum.,faturayı kontrol et
+497,Müşteri: Unutulan pin kodumla preoblemler var,Parolayı kurtar
+498,Müşteri: Ürününüzün birkaçını nasıl sipariş edebilirim bilmiyorum,yer sırası
+499,Müşteri: Freemium hesabı oluşturmak için yardıma ihtiyacım var,hesap oluştur
+500,Müşteri: Pro hesabına değiştirmek için ne yapacağımı bilmiyorum,hesabı değiştir
+501,Müşteri: İkincil teslimat adresine girişte sorunlar var,nakliye adresi kurmak
+502,Müşteri: Profil erişim anahtarımı geri yüklemek için ne yapacağımı bilmiyorum,Parolayı kurtar
+503,Müşteri: 370795561790 satın alma işlemini iptal etmek için yardım istiyorum,Siparişi iptal et
+504,Müşteri: Detroit'e mi gönderiyorsunuz?,teslimat seçenekleri
+505,Müşteri: Sevkiyatın ne kadar sürdüğünü kontrol etmem gerekiyor,teslim süresi
+506,Müşteri: Müşteri hizmetleri ile konuşmak için yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+507,Müşteri: Geri ödemelerin beni ne kadar sürdüğünü kontrol etmek istiyorum,geri ödeme politikasını kontrol edin
+508,"Müşteri: Kabul edilen ödeme yöntemlerinizi kontrol etmem gerekiyor, bana yardım edin",ödeme yöntemlerini kontrol edin
+509,Müşteri: Faturayı almak için arıyorum #37777,fatura al
+510,Müşteri: ur kurumsal bültenine kaydolmak için yardıma ihtiyacım var,bülten aboneliği
+511,Müşteri: ödeme modalitelerini listelemek için yardım istemek,ödeme yöntemlerini kontrol edin
+512,Müşteri: Pro hesabındaki verilerin güncellenmesi,Hesabı düzenle
+513,Müşteri: Faturayı nasıl bulabilirim bilmiyorum #85632,faturayı kontrol et
+514,Müşteri: Standart bir hesap oluşturmak istiyorum,hesap oluştur
+515,Müşteri: Freemium hesabındaki verileri düzenle,Hesabı düzenle
+516,Müşteri: ur şirket bültenine abone olmak mümkün mü?,bülten aboneliği
+517,Müşteri: Siparişe öğe ekle 00004587345,sırayı değiştir
+518,Müşteri: Philadelphia'ya gönderiler,teslimat seçenekleri
+519,Müşteri: Ücretsiz profili kullanmaya yardımcı olun,hesabı değiştir
+520,Müşteri: Premium hesap oluşturma konusunda yardıma ihtiyacım var,hesap oluştur
+521,Müşteri: Bazı ürünler satın almak istiyorum,yer sırası
+522,Müşteri: Bayan Hawkings'ten faturamı nasıl bulurum?,faturayı kontrol et
+523,Müşteri: Kullanıcı profilimin şifresini geri yüklemek için yardım,Parolayı kurtar
+524,Müşteri: 1499 dolarlık bir restituton bekliyorum,parça geri ödeme
+525,Müşteri: Ürünümün ne zaman geleceğini nerede görebilirim?,teslim süresi
+526,Müşteri: ücretsiz hesaptaki ayrıntıları düzeltin,Hesabı düzenle
+527,Müşteri: Kayıt sorunları hakkında bilgi vermeliyim,Kayıt sorunları
+528,Müşteri: ur işine karşı bir müşteri iddiasında nasıl bulunurum,şikayet
+529,Müşteri: Fesih ücretini kontrol etmeme yardım eder misiniz?,İptal ücretini kontrol et
+530,Müşteri: Pro hesabımın kaldırılması hakkında bilgi,hesabı sil
+531,"Müşteri: Para iade politikanızı görmek istiyorum, yardıma ihtiyacım var",geri ödeme politikasını kontrol edin
+532,Müşteri: Hesabımın PIN'ini nasıl alabilirim?,Parolayı kurtar
+533,Müşteri: Hangi durumlarda paramı geri talep edebileceğimi görmeye çalışıyorum,geri ödeme politikasını kontrol edin
+534,Müşteri: bir müşteri reclamation yapma yardım,şikayet
+535,Müşteri: gelin için Freemium hesabını aç,hesap oluştur
+536,Müşteri: İşletmenize karşı talepte bulunmaya çalışıyorum,şikayet
+537,Müşteri: Hangi nakliye yöntemlerinin orada olduğunu nasıl göreceğimi bilmiyorum,teslimat seçenekleri
+538,Müşteri: Freemium hesabımı iptal etmek için ne yapmam gerekiyor?,hesabı sil
+539,Müşteri: Biriyle nasıl konuşabilirim bilmiyorum,İnsan Ajanı ile iletişime geçin
+540,Müşteri: Geri ödemelerin ne kadar sürdüğünü görmek zorundayım,geri ödeme politikasını kontrol edin
+541,Müşteri: Şirket haber bülteni aboneliğini nasıl iptal edebilirim?,bülten aboneliği
+542,Müşteri: Lanet olası bir kayıt sorunu hakkında bilgi vermeme yardım eder misin?,Kayıt sorunları
+543,Müşteri: Dublin'den sipariş verebilir miyim,teslimat seçenekleri
+544,Müşteri: Bay Jones'un faturasını nerede arıyorum?,faturayı kontrol et
+545,Müşteri: Bir proboem'i ödeme ile bilgilendirmeme yardımcı olabilir misiniz?,ödeme sorunu
+546,Müşteri: satın almadan birkaç öğe silmek istiyorum 00123842 bana yardım et,sırayı değiştir
+547,Müşteri: Online ödeme ile hataları bildirmek için yardıma ihtiyacım var,ödeme sorunu
+548,Müşteri: birkaç ur öğe satın almak için yardım,yer sırası
+549,Müşteri: Makalemin ne zaman geleceğini kontrol etmek istiyorum,teslim süresi
+550,Müşteri: Bir operatörle iletişim kurmaya çalışıyorum,İnsan Ajanı ile iletişime geçin
+551,Müşteri: Kullanıcımın pwd'sini sıfırlamaya çalışıyorum,Parolayı kurtar
+552,Müşteri: kanlı ürünümü ne kadar sürede bekleyebileceğimi görmek için yardım,teslim süresi
+553,Müşteri: Standart bir hesaba ihtiyacım var onu yaratabilir,hesap oluştur
+554,Müşteri: Nereye lanet bir yorum bırakayım?,incele
+555,Müşteri: ABD'den sipariş verebilir miyim,teslimat seçenekleri
+556,Müşteri: Birkaç lanet ürün sipariş etmek için ne yapmam gerektiğini bilmiyorum,yer sırası
+557,Müşteri: Teslimat adresinin güncellenmesi hakkında bilgi almak istiyorum,nakliye adresini değiştirme
+558,Müşteri: Standart hesabımı iptal etmek için ne yapmam gerekiyor?,hesabı sil
+559,Müşteri: Müşteri reklâmını düzenlemek için yardım,şikayet
+560,Müşteri: Siparişi iptal etmekle ilgili bir sorunum var 370795561790,Siparişi iptal et
+561,Müşteri: Siparişi iptal etmek zorundayım 00004587345,Siparişi iptal et
+562,Müşteri: Bay Smith'ten faturayı nasıl alacağımı bilmiyorum.,fatura al
+563,Müşteri: David Miller'dan faturaları kontrol etmek,faturayı kontrol et
+564,Müşteri: Kullanıcı hesabım PIN'i kurtarmaya çalışıyorum,Parolayı kurtar
+565,Müşteri: 370795561790 satın almayı nasıl iptal edeceğimi bilmiyorum,Siparişi iptal et
+566,Müşteri: nakliye adresimi düzenlemeyi destekleyin,nakliye adresini değiştirme
+567,Müşteri: ur kurumsal newsltter nasıl alınır,bülten aboneliği
+568,"Müşteri: Freemium hesabını asla kullanmam, silmeme yardım edin",hesabı sil
+569,Müşteri: Kaydolma ile ilgili bir hatayı nereden bildirebilirim?,Kayıt sorunları
+570,Müşteri: Bir asistanla ne yapacağımı bilmiyorum,İnsan Ajanı ile iletişime geçin
+571,Müşteri: Yeni teslimat adresini ayarlayan bir hatam var,nakliye adresi kurmak
+572,Müşteri: Müşteri desteğini aramama yardım edin,müşteri hizmetleri ile iletişime geçin
+573,Müşteri: şirket bültenini alın,bülten aboneliği
+574,Müşteri: Sipariş iptali,Siparişi iptal et
+575,Müşteri: siparişin ETA'sını görmek için yardıma ihtiyacınız var 00004587345,parça sırası
+576,Müşteri: Ödeme seçeneklerini listelemek için yardıma ihtiyacım var,ödeme yöntemlerini kontrol edin
+577,Müşteri: Platin hesabında veri değişimi,Hesabı düzenle
+578,Müşteri: Siparişten bir şey çıkarmak 732201349959,sırayı değiştir
+579,Müşteri: 732201349959 satın almayı iptal etmek için yardım istiyorum,Siparişi iptal et
+580,"Müşteri: Yanlış bir adres gönderdim, düzeltebilir misiniz?",nakliye adresini değiştirme
+581,Müşteri: Seattle'a deliriyor musunuz?,teslimat seçenekleri
+582,Müşteri: Premium cacount iptal ediliyor,hesabı sil
+583,Müşteri: Bazı makalelerden alışveriş yapmak için ne yapmam gerektiğini bilmiyorum,yer sırası
+584,Müşteri: siparişimin gelmesi için ne kadar süre gerektiğini kontrol eden yardım,teslim süresi
+585,Müşteri: Ürününüzün bir kısmını satın almak için yardıma ihtiyacınız var,yer sırası
+586,Müşteri: Parolamı nasıl geri alabilirim bilmiyorum,Parolayı kurtar
+587,Müşteri: Geri ödeme durumumu kontrol edebilir miyim?,parça geri ödeme
+588,Müşteri: Bay Jones'tan fatura al,fatura al
+589,Müşteri: ur şirketi için bir fikir bırakmaya çalışıyorum,incele
+590,Müşteri: ücretsiz hesabı kullanmak için yardıma ihtiyaç duyar,hesabı değiştir
+591,Müşteri: Kayıp bir pwd hakkında bir soru var,Parolayı kurtar
+592,Müşteri: Bülteninize kaydolmaya çalışıyorum,bülten aboneliği
+593,Müşteri: Kuruluşunuza karşı nerede şikayette bulunulur?,şikayet
+594,Müşteri: Yeni teslimat adresini giren hatalar var,nakliye adresi kurmak
+595,Müşteri: Kayıtlarla ilgili sorunları bildirmeme yardımcı olun,Kayıt sorunları
+596,Müşteri: 1135422617735602 satın alma durumunu kontrol etmek için bana yardım edin,parça sırası
+597,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görmem gerekiyor,geri ödeme politikasını kontrol edin
+598,Müşteri: Teslimat adresimi ayarlamaya çalıştığımda eror mesajları alıyorum,nakliye adresi kurmak
+599,Müşteri: acceling sipariş 00123842,Siparişi iptal et
+600,Müşteri: ödeme sorunu,ödeme sorunu
+601,Müşteri: 00123842 güncel durumunu satın almayı nasıl kontrol edebilirim?,parça sırası
+602,Müşteri: Platin hesabı nerede açarım,hesap oluştur
+603,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görmek için yardım istiyorum,geri ödeme politikasını kontrol edin
+604,"Müşteri: Bu makale için 1200 dolar ödedim, bir indirim alıyorum.",geri ödeme alın
+605,Müşteri: ur şirket bültenine abone olmadan yardım istiyorum,bülten aboneliği
+606,Müşteri: Ödeme ile ilgili bir sorunu bildirmek istiyorum,ödeme sorunu
+607,Müşteri: Müşteri hizmetlerini hangi saatlerde arayabileceğimi görebilir miyim?,müşteri hizmetleri ile iletişime geçin
+608,Müşteri: Adresi güncellemeye çalışan destek istiyorum,nakliye adresini değiştirme
+609,Müşteri: Ödeme modalitelerini nasıl listeleyebilirim?,ödeme yöntemlerini kontrol edin
+610,"Müşteri: Markanızla ilgili deneyim korkunçtu, bir şikayette bulunun",şikayet
+611,Müşteri: Müşteri yardımı ile konuşmak için yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+612,Müşteri: 11 ay önce fatura almak,fatura al
+613,Müşteri: Do you ship to Dublin,teslimat seçenekleri
+614,Müşteri: 299 dolar tazminat bekliyorum,parça geri ödeme
+615,"Müşteri: Bazı eşyalar kazanmam gerekiyor, yardım alabilir miyim?",yer sırası
+616,Müşteri: ur availabe ödeme modalitelerini nerede görebilirim,ödeme yöntemlerini kontrol edin
+617,Müşteri: 1499 dolar geri ödeme,geri ödeme alın
+618,Müşteri: pro hesabı kullanmak,hesabı değiştir
+619,Müşteri: Siparişi bulmak zorundayım 1135422617735902 yardımcı olabilir misiniz mw,parça sırası
+620,Müşteri: platin hesabı düzenleme,Hesabı düzenle
+621,"Müşteri: Seni anlamıyorum, biriyle konuşmak istiyorum",İnsan Ajanı ile iletişime geçin
+622,Müşteri: 1200 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+623,Müşteri: İzin verilen ödeme yöntemlerini görmek için ne yapacağımı bilmiyorum,ödeme yöntemlerini kontrol edin
+624,Müşteri: Bir hizmet için geri bildirim göndermeme yardımcı olabilir misiniz?,incele
+625,Müşteri: Erken çıkış cezalarını kontrol etmek istiyorum,İptal ücretini kontrol et
+626,Müşteri: Online ödemelerle ilgili bir sorunu çözmek için yardıma ihtiyacım var,ödeme sorunu
+627,Müşteri: Bir makale satın almak zorundayım,yer sırası
+628,Müşteri: Kayıtlarla ilgili bir sorunu nerede bildirebilirim?,Kayıt sorunları
+629,Müşteri: Adresi düzenlemek için ne yapmam gerektiğini bilmiyorum,nakliye adresini değiştirme
+630,Müşteri: Tazminat talep etmeye çalışıyorum,geri ödeme alın
+631,Müşteri: Siparişi nasıl iptal edebilirim bilmiyorum 00123842,Siparişi iptal et
+632,Müşteri: Adresimi düzenleme hakkında bilgi verin,nakliye adresini değiştirme
+633,Müşteri: Kullanıcı PIN kodumu geri almam gerekiyor,Parolayı kurtar
+634,"Müşteri: Seni anlamıyorum, biriyle konuşmam gerek",İnsan Ajanı ile iletişime geçin
+635,Müşteri: Kullanıcımı nasıl kurtarabilirim pwd,Parolayı kurtar
+636,Müşteri: Ücretsiz hesaba geç,hesabı değiştir
+637,Müşteri: Kurumsal haber bülteni aboneliğini iptal etmem gerekiyor,bülten aboneliği
+638,"Müşteri: Bir teslimat adresi girmem gerekiyor, bana yardım edin",nakliye adresi kurmak
+639,Müşteri: Ücretsiz hesaba geçmeye çalışıyorum,hesabı değiştir
+640,Müşteri: Macaristan'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+641,Müşteri: ur şirketine karşı bir müşteri iddiasında bulunmaya çalışıyorum,şikayet
+642,Müşteri: Paketin gelmesi için ne kadar zaman gerektiğini görmeliyim,teslim süresi
+643,Müşteri: Müşteri hizmetlerini ne zaman arayabileceğimi söyleyebilir misiniz?,müşteri hizmetleri ile iletişime geçin
+644,Müşteri: Valencia'ya teslim ediyor musunuz?,teslimat seçenekleri
+645,Müşteri: Ödeme seçeneklerini nerede kontrol edebilirim?,ödeme yöntemlerini kontrol edin
+646,Müşteri: fatura kontrol #12588,faturayı kontrol et
+647,Müşteri: Bay Smith'in faturalarını bulamıyorum,faturayı kontrol et
+648,Müşteri: Canlı bir ajanla iletişime geçmek için ne yapmam gerektiğini bilmiyorum,İnsan Ajanı ile iletişime geçin
+649,Müşteri: nakliye adresi sorunu,nakliye adresi kurmak
+650,"Müşteri: İkincil teslimat adresim geçerli değil, yardıma ihtiyacım var",nakliye adresi kurmak
+651,Müşteri: Anna Freeman'dan faturamı gönderin,fatura al
+652,Müşteri: Deloivery adresimi düzeltmek için yardım istiyorum,nakliye adresini değiştirme
+653,Müşteri: Freemium hesabındaki bilgileri değiştirme,Hesabı düzenle
+654,Müşteri: Hangi lanet gönderi seçeneklerini sunduğunuzu nerede görebilirim?,teslimat seçenekleri
+655,Müşteri: Profilimin erişim anahtarını almak için yardıma ihtiyacım var,Parolayı kurtar
+656,Müşteri: öğeyi siparişten çıkarın 00123842,sırayı değiştir
+657,Müşteri: Haber bülteni aboneliğimi iptal etmeme yardımcı olabilir misiniz?,bülten aboneliği
+658,Müşteri: Standart hesabı kullan,hesabı değiştir
+659,Müşteri: Müşteri desteğine hangi saatlerde ulaşabileceğimi kontrol etmek için yardım istiyorum,müşteri hizmetleri ile iletişime geçin
+660,"Müşteri: Şirket bülteninizi almam gerekiyor, yardıma ihtiyacım var",bülten aboneliği
+661,Müşteri: Premium hesabı sil,hesabı sil
+662,Müşteri: 350 $ iade bekliyorum,parça geri ödeme
+663,Müşteri: İzin verilen ödeme seçeneklerini değiştirmek istiyorum,ödeme yöntemlerini kontrol edin
+664,Müşteri: Tüketici ıslahı yapmak istiyorum,şikayet
+665,"Müşteri: Yanlış bir adres seçtim, güncellememe yardımcı olabilir misiniz?",nakliye adresini değiştirme
+666,Müşteri: Müşteri reklâmını düzenlemek için yardım istiyorum,şikayet
+667,Müşteri: Teslimat adresimi düzeltmeme yardım edebilir misiniz?,nakliye adresini değiştirme
+668,Müşteri: Bir konu hakkında kayıt ile bilgi vermek mümkün mü?,Kayıt sorunları
+669,Müşteri: Nişanlım için Premium bir hesap alamıyorum,hesap oluştur
+670,Müşteri: Faturamı almama yardım eder misin #85632?,fatura al
+671,Müşteri: ur ürününün bir kısmını satın almak için ne yapmam gerektiğini bilmiyorum,yer sırası
+672,Müşteri: Premium hesaba geçebilir miyim?,hesabı değiştir
+673,Müşteri: myprofile şifresini nasıl geri yükleyeceğimi bilmiyorum,Parolayı kurtar
+674,Müşteri: Anna Freeman'dan faturamı indirmek için yardıma ihtiyacım var,fatura al
+675,Müşteri: Siparişi iptal etme,Siparişi iptal et
+676,Müşteri: Para çekme ücretini kontrol etmek için yardıma ihtiyacım var,İptal ücretini kontrol et
+677,"Müşteri: Teslimat seçeneklerini kontrol etmek istiyorum, yardıma ihtiyacım var",teslimat seçenekleri
+678,Müşteri: 350 dolar tazminat bekliyorum,parça geri ödeme
+679,Müşteri: Ürünleriniz için geri bildirim gönderme yöntemi var mı?,incele
+680,Müşteri: Kızım için bir Altın hesabı açmama yardım et,hesap oluştur
+681,Müşteri: Teslimat adresini nasıl düzenleyeceğimi bilmiyorum,nakliye adresini değiştirme
+682,Müşteri: Müşteri yardımı ile konuşmak için ne yapmam gerekiyor?,müşteri hizmetleri ile iletişime geçin
+683,Müşteri: Bir insan ajanla iletişime geçmeliyim,İnsan Ajanı ile iletişime geçin
+684,Müşteri: 1499 dolar tazminat bekliyorum,parça geri ödeme
+685,Müşteri: altın hesabındaki verileri değiştirme,Hesabı düzenle
+686,Müşteri: Siparişi iptal etmek için yardım istiyorum 370795561790,Siparişi iptal et
+687,Müşteri: İşinize karşı bir ıslah davası açmanıza yardımcı olur,şikayet
+688,Müşteri: Farklı bir teslimat adresi nasıl girilir bilmiyorum,nakliye adresi kurmak
+689,Müşteri: 299 dolar iade,geri ödeme alın
+690,Müşteri: Birkaç siktiğimin eşyasını sipariş etmeme yardım et,yer sırası
+691,Müşteri: faturamı almak için yardıma ihtiyacım var #85632,fatura al
+692,Müşteri: Satın alma işlemini iptal etmek için yardıma ihtiyacım var 732201349959,Siparişi iptal et
+693,Müşteri: Bazı ürünler satın almak için ne yapmam gerektiğini bilmiyorum,yer sırası
+694,Müşteri: premium hesaba değiştirmeye yardımcı olun,hesabı değiştir
+695,Müşteri: Geri ödemelerin ne kadar sürdüğünü kontrol etmek için yardım istiyorum,geri ödeme politikasını kontrol edin
+696,Müşteri: Faturaları Anna Freeman'dan almak istiyorum,fatura al
+697,Müşteri: Platin hesabı oluştur,hesap oluştur
+698,Müşteri: Parselin gelmesi ne kadar sürer kontrol etmek istiyorum,teslim süresi
+699,Müşteri: Ödemelerle ilgili sorunları bildirmek için yardıma ihtiyacım var,ödeme sorunu
+700,Müşteri: Para iade politikanızı kontrol edin,geri ödeme politikasını kontrol edin
+701,Müşteri: 160 dolar geri ödeme,geri ödeme alın
+702,"Müşteri: Markanızla ilgili deneyimim kötüydü, lanet bir şikayette bulunun",şikayet
+703,"Müşteri: Lanet şifremi geri almak istiyorum, bunu nasıl yapacağım?",Parolayı kurtar
+704,Müşteri: Mevcut ödeme yöntemlerini kontrol etmeye çalışıyorum,ödeme yöntemlerini kontrol edin
+705,Müşteri: Lanet olası erken çıkış ücretlerini nasıl iptal edebilirim?,İptal ücretini kontrol et
+706,Müşteri: Custmoer servisine hangi saatlerde ulaşabileceğimi kontrol etmem gerekiyor,müşteri hizmetleri ile iletişime geçin
+707,"Müşteri: Hangi sevkiyat seçeneklerine sahip olduğumu, nasıl yapacağımı kontrol etmem gerekiyor?",teslimat seçenekleri
+708,Müşteri: Pro hesabına nerede değiştirebilirim?,hesabı değiştir
+709,Müşteri: Hangi nakliye yöntemlerini seçebileceğimi görmek için yardım istiyorum,teslimat seçenekleri
+710,Müşteri: siparişin durumu 00123842,parça sırası
+711,Müşteri: ödeme modalitelerini kontrol etmek için bana yardımcı olabilir misiniz?,ödeme yöntemlerini kontrol edin
+712,Müşteri: ürün hakkında nasıl geri bildirim gönderirim,incele
+713,Müşteri: 1200 $ geri ödeme bekliyorum,parça geri ödeme
+714,Müşteri: Canlı bir ajanla konuşmak için yardıma ihtiyacınız var,İnsan Ajanı ile iletişime geçin
+715,Müşteri: David Miller'dan faturaları indirmeme yardım eder misiniz?,fatura al
+716,Müşteri: güncelleme siparişi 1135422617735902,sırayı değiştir
+717,Müşteri: Lanet olası müşteri hizmetleriyle nasıl konuşurum?,müşteri hizmetleri ile iletişime geçin
+718,Müşteri: Şirketinize karşı bir müşteri reklâmını nerede yapabilirsiniz?,şikayet
+719,Müşteri: Online ödeme ile hataları çözmek için yardım istemek,ödeme sorunu
+720,Müşteri: Hangi gönderi seçeneklerine sahip olduğumu görmek mümkün mü?,teslimat seçenekleri
+721,Müşteri: Müşteri hizmetleriyle hangi saatlerde iletişim kurabileceğimi görmeliyim,müşteri hizmetleri ile iletişime geçin
+722,Müşteri: faturayı indirmek için ne yapmam gerekiyor #001008?,fatura al
+723,Müşteri: yeni bir teslimat adresi nasıl girilir,nakliye adresi kurmak
+724,Müşteri: fatura #85632 indiren yardım istiyorum,fatura al
+725,Müşteri: birkaç ur öğesini nereden edinirsiniz,yer sırası
+726,Müşteri: Hangi sevkıyat yöntemlerini sunduğunuzu nasıl kontrol edebilirim?,teslimat seçenekleri
+727,Müşteri: Faturamı almama yardım edebilir misin #37777,fatura al
+728,Müşteri: Ürünümü ne kadar sürede bekleyebileceğimi görmek için bana yardım edin,teslim süresi
+729,Müşteri: Öğemi ne kadar sürede bekleyebileceğimi görmem gerekiyor,teslim süresi
+730,Müşteri: profesyonel bir hesabın kapatılmasına yardımcı olmak,hesabı sil
+731,Müşteri: Bir kayıtla ilgili sorunları nasıl bildireceğimi bilmiyorum,Kayıt sorunları
+732,Müşteri: Standart bir hesap açın,hesap oluştur
+733,Müşteri: Faturalara hızlıca bir göz atayım mı Bay Smith?,faturayı kontrol et
+734,Müşteri: Bazı lanet eşyaları satın almak için ne yapmam gerektiğini bilmiyorum,yer sırası
+735,Müşteri: kanlı ücretsiz hesabımı kapatmam lazım yardıma ihtiyacım var,hesabı sil
+736,Müşteri: Paramın siktiğimin tazminatlarını nerede talep ediyorum?,geri ödeme alın
+737,"Müşteri: 160 dolarlık bir indirim bekliyorum, zaten işlendi mi?",parça geri ödeme
+738,Müşteri: ur serviks hakkında kanlı bir fikir bırakmak istiyorum,incele
+739,Müşteri: 00123842 durumunu satın al,parça sırası
+740,Müşteri: loca consumerclaim,şikayet
+741,Müşteri: lanet müşteri desteği ile takl için yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+742,Müşteri: kurumsal haber bülteninden aboneliğimi kaldırmama yardım et,bülten aboneliği
+743,Müşteri: erken sonlandırma ücretlerini kontrol etmeye yardımcı olur,İptal ücretini kontrol et
+744,Müşteri: ur şirketine karşı şikayette bulunmak istiyorum,şikayet
+745,"Müşteri: Artık altın hesabımı kullanmıyorum, nasıl kapatabilirim?",hesabı sil
+746,Müşteri: Kaydolma ile ilgili bir sorunu bildirmek zorundayım,Kayıt sorunları
+747,Müşteri: Freemium hesabımın kaldırılmasıyla ilgili bir sorum var,hesabı sil
+748,Müşteri: Adresi değiştirmek için yardım istiyorum,nakliye adresini değiştirme
+749,Müşteri: Para tazminatı istemek için ne yapmam gerekiyor?,geri ödeme alın
+750,Müşteri: Başka bir nakliye adresi girmek için ne yapmam gerekiyor,nakliye adresi kurmak
+751,Müşteri: Bu ürün için 299 $ ödedim nasıl geri ödeme alınır,geri ödeme alın
+752,Müşteri: İptal ücretlerini nerede görebilirim?,İptal ücretini kontrol et
+753,Müşteri: İkincil bir gönderim adresi göndermek için yardıma ihtiyacım var,nakliye adresi kurmak
+754,Müşteri: Online ödeme ile ilgili sorunları bildirmek için yardım istiyorum,ödeme sorunu
+755,Müşteri: Siparişin ETA'sını görmek için yardım isteyin 732201349959,parça sırası
+756,Müşteri: Satın almamın ne zaman geleceğini nasıl kontrol edebilirim bilmiyorum,teslim süresi
+757,Müşteri: Standart hesaba geç,hesabı değiştir
+758,Müşteri: Bir operatörle konuşmak için yardım istiyorum,İnsan Ajanı ile iletişime geçin
+759,Müşteri: mevcut ödeme yöntemlerini görmeye yardımcı olun,ödeme yöntemlerini kontrol edin
+760,Müşteri: Paramın geri ödemesini talep etmek için yardım istiyorum,geri ödeme alın
+761,Müşteri: Faturayı nasıl bulurum bilmiyorum #85632,faturayı kontrol et
+762,Müşteri: sipariş ETA kontrol 370795561790,parça sırası
+763,Müşteri: Kayıtla ilgili bir hatayı nasıl bildirebilirim bilmiyorum,Kayıt sorunları
+764,Müşteri: açık Platin acount,hesap oluştur
+765,Müşteri: Bir teslimat adresi ayarlamama yardım eder misin?,nakliye adresi kurmak
+766,Müşteri: Siparişi iptal etmek için yardıma ihtiyacı var 732201349959,Siparişi iptal et
+767,Müşteri: Kayıt sorunlarını nasıl bildirebiliriz?,Kayıt sorunları
+768,Müşteri: birkaç ürün satın almama yardım et,yer sırası
+769,"Müşteri: Bülteni almam gerekiyor, bana yardım edebilir misiniz?",bülten aboneliği
+770,Müşteri: Mevcut ödeme yöntemlerinizi kontrol etmek için yardıma ihtiyacım var,ödeme yöntemlerini kontrol edin
+771,Müşteri: Hangi gönderi seçeneklerine sahip olduğumu görmek için bana yardımcı olabilir misiniz?,teslimat seçenekleri
+772,Müşteri: ur kuruluşuna karşı nerede şikayette bulunabilirim,şikayet
+773,Müşteri: David Miller'dan fatura kontrolü,faturayı kontrol et
+774,Müşteri: Online ödeme ile ilgili sorun bildiren,ödeme sorunu
+775,Müşteri: Başka bir hesaba geçiş,hesabı değiştir
+776,Müşteri: öğemi ne kadar sürede bekleyebileceğimi kontrol etmek için yardım isteyin,teslim süresi
+777,Müşteri: Standart hesabımı kapatmak için ne yapmam gerektiğini bilmiyorum,hesabı sil
+778,Müşteri: ur hizmetleri için geri bildirimimi nereye gönderebilirim,incele
+779,Müşteri: chat wth birisi,İnsan Ajanı ile iletişime geçin
+780,Müşteri: pro acxcount'daki verilerin düzeltilmesi,Hesabı düzenle
+781,Müşteri: Ödeme ile ilgili bir sorunu bildirmek için yardım istiyorum,ödeme sorunu
+782,"Müşteri: Hizmetinizle ilgili deneyimim kötüydü, talepte bulunun",şikayet
+783,Müşteri: Müşteri hizmetleri ile konuşmama yardım edebilir misiniz?,müşteri hizmetleri ile iletişime geçin
+784,Müşteri: Çekilme cezalarını kontrol etmek için yardım istiyorum,İptal ücretini kontrol et
+785,Müşteri: Bir makale satın al,yer sırası
+786,Müşteri: kayıt hatasını nerede bildirebilirim,Kayıt sorunları
+787,"Müşteri: Satın almamın ne zaman geleceğini görmek zorundayım, bana yardım edin",teslim süresi
+788,Müşteri: Bir ürün hakkında yorum bırakmama yardım eder misiniz?,incele
+789,Müşteri: Kullanıcı hesabı anahtarımı sıfırlamak için yardım istiyorum,Parolayı kurtar
+790,Müşteri: Standart bir hesabı nasıl iptal edebilirim?,hesabı sil
+791,"Müşteri: Sen yardımcı değilsin, bir insan ajanla konuşmak istiyorum",İnsan Ajanı ile iletişime geçin
+792,Müşteri: erken çıkış ücretini görmek için bana yardımcı olabilir misiniz?,İptal ücretini kontrol et
+793,Müşteri: Para iadesi almak için yardım istiyorum,geri ödeme alın
+794,Müşteri: Lanet olası erken sonlandırma ücretlerini kontrol etmeme yardım et,İptal ücretini kontrol et
+795,Müşteri: David Miller'dan faturaları almak için yardıma ihtiyacım var,fatura al
+796,Müşteri: Valencia'ya nakliye,teslimat seçenekleri
+797,Müşteri: Hizmetleriniz için geri bildirim göndermek için yardım istiyorum,incele
+798,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görmeye çalışıyorum,geri ödeme politikasını kontrol edin
+799,Müşteri: Kullanıcı profilimin erişim anahtarını sıfırlayamıyorum,Parolayı kurtar
+800,Müşteri: Altın hesaba geçemiyorum,hesabı değiştir
+801,Müşteri: Ödemeyle ilgili bir sorunu bildirmeme yardım eder misiniz?,ödeme sorunu
+802,Müşteri: Siparişi iptal etmek için yardım istemek 370795561790,Siparişi iptal et
+803,Müşteri: Siparişin birkaç ürününü değiştiremem 00123842,sırayı değiştir
+804,"Müşteri: Kullanıcı açamıyorum, kayıt hataları hakkında bilgi veremiyorum",Kayıt sorunları
+805,Müşteri: Standart hesaptaki verilerin güncellenmesi,Hesabı düzenle
+806,Müşteri: Bana çekilme cezasını gösterebilir misin?,İptal ücretini kontrol et
+807,Müşteri: Freemium hesabını nasıl kaldıracağımı bilmiyorum,hesabı sil
+808,Müşteri: Premium hesaba geçmeme yardım edin,hesabı değiştir
+809,Müşteri: Ücretsiz bir hesap açın,hesap oluştur
+810,Müşteri: 00004587345 satın almayı nerede iptal edersiniz?,Siparişi iptal et
+811,Müşteri: Altın hesaba geçiş,hesabı değiştir
+812,"Müşteri: Ödeme yöntemlerini görmek istiyorum, bana yardım edin",ödeme yöntemlerini kontrol edin
+813,Müşteri: ur şirketi hakkında geri bildirim göndermek için yardım isteyin,incele
+814,Müşteri: i hsve Platinum profilini nasıl kullanacağım,hesabı değiştir
+815,Müşteri: Premium hesaba nasıl geçiş yapabilirim bilmiyorum,hesabı değiştir
+816,Müşteri: Teslimat adresimi nasıl değiştirebileceğimi bilmiyorum,nakliye adresini değiştirme
+817,Müşteri: müşteri desteğini arayan yardıma ihtiyaç duyar,müşteri hizmetleri ile iletişime geçin
+818,Müşteri: Adresimi güncelleyebilir miyim?,nakliye adresini değiştirme
+819,Müşteri: Lanet bir makale alışverişinde yardıma ihtiyacım var,yer sırası
+820,Müşteri: premium hesap kaldırma hakkında bilgi alabilir miyim?,hesabı sil
+821,Müşteri: Ürünleriniz hakkında nasıl fikir yazabileceğimi bilmiyorum,incele
+822,Müşteri: Ücretsiz hesap açma hakkında bilgi istiyorum,hesap oluştur
+823,Müşteri: Standart hesaptaki ayrıntıları düzenlemek,Hesabı düzenle
+824,Müşteri: makalenizden birkaçını sipariş etmeme yardımcı olun,yer sırası
+825,Müşteri: Bir ürün için inceleme bırakmak için bir e-posta var mı?,incele
+826,Müşteri: Hangi durumlarda geri ödeme isteyebileceğimi kontrol etmek için yardıma ihtiyacım var,geri ödeme politikasını kontrol edin
+827,Müşteri: satın alma iptal 732201349959,Siparişi iptal et
+828,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi gösterir misiniz?,geri ödeme politikasını kontrol edin
+829,Müşteri: Ödeme sorunlarını bildirmek için ne yapacağımı bilmiyorum,ödeme sorunu
+830,Müşteri: Kızım için standart bir hesap açmaya çalışıyorum,hesap oluştur
+831,Müşteri: Lanet parselimin gelmesi ne kadar sürer kontrol edebilir miyim?,teslim süresi
+832,Müşteri: Siparişin durumunu görmeye çalışıyorum 00004587345,parça sırası
+833,Müşteri: Ücretsiz hesaba değiştirme,hesabı değiştir
+834,Müşteri: Müşteri şikayeti yapmak için ne yapmam gerektiğini bilmiyorum,şikayet
+835,Müşteri: Ödeme hatası hakkında bilgi vermeye çalışıyorum,ödeme sorunu
+836,Müşteri: premium hesabı değiştirmek,Hesabı düzenle
+837,"Müşteri: Lanet olası bir altın hesabım yok, nasıl açabilirim?",hesap oluştur
+838,Müşteri: ur refun politikasını kontrol etmek bana yardımcı olabilir,geri ödeme politikasını kontrol edin
+839,Müşteri: satın alma iptal hakkında soru 00004587345,Siparişi iptal et
+840,Müşteri: Geri ödemelerin genellikle ne kadar sürdüğünü gösterebilir misiniz?,geri ödeme politikasını kontrol edin
+841,Müşteri: Platin hesabımı kapatmak için ne yapacağımı bilmiyorum,hesabı sil
+842,Müşteri: Sipariş vermek için bir şey ekleyin 00123842,sırayı değiştir
+843,Müşteri: yardım güncelleme satın alma 00123842,sırayı değiştir
+844,Müşteri: İzin verilen ödeme yöntemlerini listelemek istiyorum nasıl yaparım,ödeme yöntemlerini kontrol edin
+845,Müşteri: Bir Gold hesabı oluşturmak için ne yapmam gerektiğini bilmiyorum,hesap oluştur
+846,Müşteri: Liverpool'a nakliye,teslimat seçenekleri
+847,Müşteri: hw satın almayı iptal edebilir miyim 1135422617735602,Siparişi iptal et
+848,Müşteri: Siparişin ETA'sını görmeye çalışıyorum 00123842,parça sırası
+849,Müşteri: Bir insan ajanla konuşmam gerekiyor,İnsan Ajanı ile iletişime geçin
+850,Müşteri: Ödemelerle ilgili bir sorunun bildirilmesi için yardıma ihtiyacım var,ödeme sorunu
+851,Müşteri: 350 dolarlık bir indirim bekliyorum,parça geri ödeme
+852,Müşteri: Erken çıkış ücretlerini görmem gerekiyor,İptal ücretini kontrol et
+853,Müşteri: Premium hesapların açılması hakkında daha fazla bilgi verebilir misiniz?,hesap oluştur
+854,Müşteri: Son satın alma işleminden fatura almak,fatura al
+855,Müşteri: Ürünümü ne kadar sürede bekleyebileceğimi kontrol etmek için yardıma ihtiyacım var,teslim süresi
+856,Müşteri: Hangi durumlarda geri ödeme isteyebileceğimi görmek için yardıma ihtiyacım var,geri ödeme politikasını kontrol edin
+857,Müşteri: Ücretsiz hesabımın iptali hakkında bilgi istiyorum,hesabı sil
+858,Müşteri: Geri ödeme politikanızı nasıl kontrol edebilirim bilmiyorum,geri ödeme politikasını kontrol edin
+859,Müşteri: Karım için Platin hesabı oluşturmama yardım edebilir misiniz?,hesap oluştur
+860,Müşteri: Kayıt hatasını bildirmek için yardım istiyorum,Kayıt sorunları
+861,Müşteri: gelin için standart hesap oluşturun,hesap oluştur
+862,"Müşteri: 299 $ geri ödeme bekliyorum, işlem yapıldı mı?",parça geri ödeme
+863,Müşteri: Kullanıcı oluşturma sorunlarını bildirme,Kayıt sorunları
+864,"Müşteri: Artık Premium hesabımı istemiyorum, nasıl geri kazanabilirim?",hesabı sil
+865,Müşteri: Bazı ur öğelerini satın almak için ne yapmam gerektiğini bilmiyorum,yer sırası
+866,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görebilir miyim?,geri ödeme politikasını kontrol edin
+867,Müşteri: siparişten bazı öğeleri kaldırmanız gerekiyor 370795561790,sırayı değiştir
+868,"Müşteri: Bu sipariş için 350 dolar ödedim, tazminatıma ihtiyacım var",geri ödeme alın
+869,Müşteri: Bay Smith'in faturalarını göster,faturayı kontrol et
+870,Müşteri: Para iadesi almak,geri ödeme alın
+871,Müşteri: Hangi koşullar altında geri ödeme talep edebileceğimi göster,geri ödeme politikasını kontrol edin
+872,Müşteri: Lanet olası ödeme yöntemlerine bakmam lazım. Yardıma ihtiyacım var.,ödeme yöntemlerini kontrol edin
+873,Müşteri: Teslimat adresini düzeltmek için yardıma ihtiyacım var,nakliye adresini değiştirme
+874,Müşteri: 350 dolarlık bir tazminat bekliyorum,parça geri ödeme
+875,Müşteri: Bay Jones'tan faturayı almak için arıyorum,fatura al
+876,Müşteri: ur hizmetleri için nasıl yorum yazabilirim,incele
+877,Müşteri: Bir isue'yu ödeme ile raporlamak için yardım istiyorum,ödeme sorunu
+878,Müşteri: Müşteri desteğine ne zaman ulaşabileceğimi kontrol etmeme yardımcı olun,müşteri hizmetleri ile iletişime geçin
+879,Müşteri: Pro hesabındaki ayrıntıları düzenlemek,Hesabı düzenle
+880,Müşteri: Platin hesabı sonlandırma sorunları,hesabı sil
+881,Müşteri: pro hesabı silme,hesabı sil
+882,Müşteri: Başka bir gönderim adresi gönderebilir miyim?,nakliye adresi kurmak
+883,Müşteri: David Miller'dan faturaları al,fatura al
+884,Müşteri: Faturayı Anna Freeman'dan nasıl alabilirim bilmiyorum,fatura al
+885,Müşteri: Anna Freeman'dan faturaları indirmek için arıyorum,fatura al
+886,Müşteri: Müşteri yardımının hangi saatlerde mevcut olduğunu nerede kontrol edeceğim,müşteri hizmetleri ile iletişime geçin
+887,Müşteri: Bayan Hawkings'ten siktiğimin bils'lerini nasıl indirebilirim?,fatura al
+888,Müşteri: Nişanlım için platin hesabı nerede açarım?,hesap oluştur
+889,Müşteri: Başka bir gönderim adresi göndermek için yardıma ihtiyacım var,nakliye adresi kurmak
+890,Müşteri: Şirket haber bülteni aboneliğim hakkında bilgi istiyorum,bülten aboneliği
+891,Müşteri: Platin hesabındaki bilgileri güncellemek,Hesabı düzenle
+892,Müşteri: 299 dolar iade bekliyorum,parça geri ödeme
+893,Müşteri: ur para iade garantisi görmek için yardım isteyin,geri ödeme politikasını kontrol edin
+894,Müşteri: Kayıt sorunları hakkında bilgi vermek istiyorum,Kayıt sorunları
+895,Müşteri: inovice #001008'i bulmak istiyorum yardıma ihtiyacım var,faturayı kontrol et
+896,Müşteri: Adresimi güncellemem gerekiyor,nakliye adresini değiştirme
+897,Müşteri: Bülten aboneliğini iptal etmek için ne yapmam gerekiyor?,bülten aboneliği
+898,"Müşteri: Para çekme cezasını görmeliyim, nasıl yapabilirim?",İptal ücretini kontrol et
+899,Müşteri: Faturaya nasıl hızlı bir bakış atabilirim bilmiyorum #12588,faturayı kontrol et
+900,Müşteri: ik para çekme ücretini görmek için yardım istiyor,İptal ücretini kontrol et
+901,Müşteri: Müşteri desteğinin ne zaman mevcut olduğunu görmeye yardımcı olun,müşteri hizmetleri ile iletişime geçin
+902,Müşteri: Dublin'den sipariş vermek mümkün mü?,teslimat seçenekleri
+903,Müşteri: Premium hesabı kullanmak için yardım isteyin,hesabı değiştir
+904,Müşteri: 1499 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+905,"Müşteri: Ödeme yapamam, ödeme sorunları hakkında bilgi vermek zorundayım",ödeme sorunu
+906,"Müşteri: Şikayette bulunmak istiyorum, nasıl yapılır?",şikayet
+907,Müşteri: Bir teslimat adresi girmekte sorun var,nakliye adresi kurmak
+908,Müşteri: Ücretsiz hesabı iptal etmek için yardım istiyorum,hesabı sil
+909,Müşteri: Bana erken çıkış ücretini göster,İptal ücretini kontrol et
+910,Müşteri: Yaptığım son lanet olası alışverişi istemiyorum iptal edebilir miyim,Siparişi iptal et
+911,Müşteri: ur hizmetleri için geri bildirimimi göndermeme yardımcı olabilir misiniz?,incele
+912,"Müşteri: Profil oluşturamıyorum, kayıt hatalarını bildirebilir miyim?",Kayıt sorunları
+913,Müşteri: Hangi durumlarda geri ödeme talebinde bulunabilirim?,geri ödeme politikasını kontrol edin
+914,Müşteri: Teslimat adresimi düzenlemeye çalışırken sorunlarım var,nakliye adresini değiştirme
+915,Müşteri: Bültene olan lanet aboneliğimi iptal etmeye çalışıyorum,bülten aboneliği
+916,Müşteri: ur şirketi hakkında kanlı geri bildirim gönderme konusunda yardım,incele
+917,Müşteri: Bayan Hawkings'ten faturayı kontrol edin,faturayı kontrol et
+918,Müşteri: Ödemelerle ilgili bir sorunu nerede bildirebilirim?,ödeme sorunu
+919,"Müşteri: Başka bir nakliye adresi girmem gerekiyor, nasıl yapabilirim?",nakliye adresi kurmak
+920,Müşteri: Ödemelerle ilgili sorun,ödeme sorunu
+921,Müşteri: Karım için Platin hesabı açmayı biliyorum,hesap oluştur
+922,Müşteri: David Miller'dan faturalarımı almak için yardım,fatura al
+923,Müşteri: Teslimat adresini nasıl düzeltebilirim bilmiyorum,nakliye adresini değiştirme
+924,Müşteri: Erken çıkış ücretlerini görmek için ne yapmam gerektiğini bilmiyorum,İptal ücretini kontrol et
+925,Müşteri: Kabul edilen ödeme yöntemlerinizi görmeme yardımcı olabilir misiniz?,ödeme yöntemlerini kontrol edin
+926,Müşteri: PIN kodu sıfırlamamla ilgili bir sorum var,Parolayı kurtar
+927,Müşteri: Bir kayıtla ilgili sorunları nasıl bilgilendireceğimi bilmiyorum,Kayıt sorunları
+928,Müşteri: siparişin et görmek için yardıma ihtiyaç 732201349959,parça sırası
+929,Müşteri: Lanet olası nakliye adresini düzeltmem gerekiyor,nakliye adresini değiştirme
+930,Müşteri: Bir kişiyle konuşmak için ne yapmam gerektiğini bilmiyorum,İnsan Ajanı ile iletişime geçin
+931,Müşteri: sipariş durumunu kontrol 732201349959,parça sırası
+932,Müşteri: Online ödeme ile ilgili bir sorunu bildirmek için yardıma ihtiyacım var,ödeme sorunu
+933,Müşteri: Altın hesap iptalleriyle ilgili sorun,hesabı sil
+934,Müşteri: platin profilini kullanmak için yardım,hesabı değiştir
+935,Müşteri: Mevcut ödeme seçeneklerini nasıl kontrol edebilirim?,ödeme yöntemlerini kontrol edin
+936,Müşteri: Birisiyle konuşmak için yardıma ihtiyacınız var,İnsan Ajanı ile iletişime geçin
+937,Müşteri: ur ürününün bir kısmını kazanmak için yardım istemek,yer sırası
+938,Müşteri: Bay Jones'tan fatura kontrolü,faturayı kontrol et
+939,Müşteri: Müşteri reklâmını yapmak için yardım istemek,şikayet
+940,Müşteri: Biriyle konuşmam lazım,İnsan Ajanı ile iletişime geçin
+941,Müşteri: Bir kayıt sorununu bildirmek için ne yapmam gerekiyor?,Kayıt sorunları
+942,Müşteri: Müşteri hizmetleri ile konuşma konusunda yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+943,Müşteri: Pro hesabındaki ayrıntıları güncellemek,Hesabı düzenle
+944,Müşteri: Para iade garantinizi kontrol edemiyorum,geri ödeme politikasını kontrol edin
+945,Müşteri: Haber bültenine nasıl kaydolabilirim bilmiyorum,bülten aboneliği
+946,Müşteri: müşteri destek e-postası,müşteri hizmetleri ile iletişime geçin
+947,Müşteri: Farklı bir teslimat adresi kurmak için yardım istiyorum,nakliye adresi kurmak
+948,Müşteri: Bir temsilciyle iletişime geçmeme yardım eder misiniz?,İnsan Ajanı ile iletişime geçin
+949,Müşteri: geri ödeme $160,geri ödeme alın
+950,Müşteri: Bir operatörle konuşmanız gerekir,İnsan Ajanı ile iletişime geçin
+951,Müşteri: Geri ödemelerin ne kadar sürdüğünü görmek için yardıma ihtiyacım var,geri ödeme politikasını kontrol edin
+952,Müşteri: 00004587345 sipariş vermek için birkaç ürün eklemeye çalışıyorum,sırayı değiştir
+953,Müşteri: Kullanıcı profilimin PIN'ini kurtarmaya çalışıyorum,Parolayı kurtar
+954,Müşteri: birkaç ürün alışverişinde bana yardımcı olabilir misiniz?,yer sırası
+955,Müşteri: David Miller'dan fatura alın,fatura al
+956,Müşteri: Siparişi iptal etmek için yardıma ihtiyacım var 370795561790,Siparişi iptal et
+957,Müşteri: iade durumunu kontrol edin,parça geri ödeme
+958,Müşteri: Yeni ücretsiz hesap açma,hesap oluştur
+959,Müşteri: Platin hesabı oluşturmakla ilgili bir sorunum var,hesap oluştur
+960,Müşteri: Parayı geri almak,geri ödeme alın
+961,Müşteri: 350 dolar indirim,geri ödeme alın
+962,Müşteri: Hangi sevkiyat yöntemlerinin mevcut olduğunu görmek için yardıma ihtiyacım var,teslimat seçenekleri
+963,Müşteri: Kuruluşunuza karşı tüketici iddiasında bulunmama yardım edin,şikayet
+964,Müşteri: altın hesabı kapat,hesabı sil
+965,Müşteri: 350 dolar indirim,geri ödeme alın
+966,Müşteri: 350 dolar iade,geri ödeme alın
+967,"Müşteri: Erken çıkış cezalarını kontrol etmem gerekiyor, bana yardım edebilir misiniz?",İptal ücretini kontrol et
+968,Müşteri: Siparişimin ne zaman geleceğini nasıl görebileceğimi bilmiyorum,teslim süresi
+969,Müşteri: 370795561790 durumunu satın görmek için yardım,parça sırası
+970,Müşteri: 299 dolar tazminat bekliyorum,parça geri ödeme
+971,Müşteri: sipariş için bazı makaleler ekleyebilir miyim 00004587345,sırayı değiştir
+972,Müşteri: Bir insan ajanla iletişim kurmaya çalışıyorum,İnsan Ajanı ile iletişime geçin
+973,Müşteri: Geri ödememin durumunu nasıl göreceğimi bilmiyorum,parça geri ödeme
+974,Müşteri: Ücretsiz cacount'a nasıl geçiş yapabilirim bilmiyorum,hesabı değiştir
+975,Müşteri: Hep bir kişiyle konuşmalıyım,İnsan Ajanı ile iletişime geçin
+976,"Müşteri: Kanlı iadeyi takip etmek istiyorum, bana yardım edin",parça geri ödeme
+977,Müşteri: Faturamı almak için yardım istiyorum #12588,fatura al
+978,Müşteri: Macaristan'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+979,Müşteri: nakliye adresini girmek için yardıma ihtiyaç var,nakliye adresi kurmak
+980,Müşteri: Geri ödeme nasıl talep edilir?,geri ödeme alın
+981,Müşteri: Ödeme yöntemlerini nasıl göreceğimi bilmiyorum,ödeme yöntemlerini kontrol edin
+982,Müşteri: Lanet olası kurumsal bülteninizi almak için yardıma ihtiyacım var,bülten aboneliği
+983,Müşteri: Ödeme ile problpemlere nasıl haber vereceğimi bilmiyorum,ödeme sorunu
+984,Müşteri: ücretsiz prfoile kullanmak için yardım,hesabı değiştir
+985,Müşteri: Ödemelerle ilgili sorunları raporlamak,ödeme sorunu
+986,Müşteri: Tüketici şikayetinde bulunmama yardım et,şikayet
+987,Müşteri: 732201349959 siparişe bir öğe ekleme konusunda yardıma ihtiyacım var,sırayı değiştir
+988,Müşteri: Teslimat adresi göndermeme yardım edebilir misiniz?,nakliye adresi kurmak
+989,Müşteri: Freemium hesabına değiştir,hesabı değiştir
+990,Müşteri: Platinum profilini kullanabilir miyim?,hesabı değiştir
+991,Müşteri: ücretsiz müşteri hizmetleri telefon numarası var,müşteri hizmetleri ile iletişime geçin
+992,Müşteri: Teslimat adresini nasıl göndereceğimi bilmiyorum,nakliye adresi kurmak
+993,Müşteri: Canlı bir ajanla konuşmak için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+994,Müşteri: İşletmenize karşı bir açıklama yapmama yardımcı olun,şikayet
+995,Müşteri: Paramın iadesini nasıl isteyebilirim?,geri ödeme alın
+996,Müşteri: Kuruluşunuza karşı tüketici iddiasında bulunmaya yardımcı olmak,şikayet
+997,Müşteri: ur para iade politikasını görmek için yardıma ihtiyaç var,geri ödeme politikasını kontrol edin
+998,Müşteri: Bir sorun hakkında bir kayıtla bildirimde bulunmaya çalışıyorum,Kayıt sorunları
+999,Müşteri: Tüketici reklâmını nasıl dosyalayacağımı bilmiyorum,şikayet
+1000,Müşteri: Bay Smith'ten faturalarımı indirmek için ne yapacağımı bilmiyorum.,fatura al
+1001,"Müşteri: Ben lanet bir satın alma yapmak istiyorum, bana yardımcı olabilir misiniz?",yer sırası
+1002,Müşteri: nakliye adresini ayarlama hatası var,nakliye adresi kurmak
+1003,Müşteri: profilimi yeniden düzenlememe yardım et pwd,Parolayı kurtar
+1004,"Müşteri: Yardımcı olmuyorsun, biriyle konuşmak için yardım istiyorum",İnsan Ajanı ile iletişime geçin
+1005,Müşteri: Ben 00004587345 satın iptal ile ilgili bir sorun var,Siparişi iptal et
+1006,Müşteri: Bir fvew ur ürünü kazanmaya çalışıyorum,yer sırası
+1007,Müşteri: yeni kanlı standart hesap,hesap oluştur
+1008,Müşteri: bir hizmet hakkında bazı geri bildirimler göndermek için yardım isteyin,incele
+1009,Müşteri: Siparişi iptal etmeme yardım edin 1135422617735602,Siparişi iptal et
+1010,Müşteri: müşteri hizmetleri ile takling yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+1011,Müşteri: premium hesaptaki bilgileri düzenleme,Hesabı düzenle
+1012,Müşteri: çekilme cezalarını kontrol etmek için yardım,İptal ücretini kontrol et
+1013,Müşteri: standart hesaptaki bilgileri sirrect,Hesabı düzenle
+1014,Müşteri: müşteri desteği ile hangi saatlerde iletişim kurabileceğimi kontrol etmek için bana ulaşın,müşteri hizmetleri ile iletişime geçin
+1015,Müşteri: 299 dolarlık lanet bir tazminattan muaf tutuyorum,parça geri ödeme
+1016,Müşteri: Ödemelerle ilgili hataları bildirmeye çalışıyorum,ödeme sorunu
+1017,Müşteri: Hangi ödeme seçeneklerinin kabul edildiğini kontrol etmek için yardıma ihtiyacım var,ödeme yöntemlerini kontrol edin
+1018,Müşteri: Sevkiyat için seçenekleri kontrol etmem gerekiyor,teslimat seçenekleri
+1019,Müşteri: 1200 dolar tazminat bekliyorum,parça geri ödeme
+1020,Müşteri: Freemium hesabına nasıl değiştirebilirim?,hesabı değiştir
+1021,Müşteri: Müşteri desteği ile hangi saatlerde iletişim kurabileceğimi nereden kontrol edebilirim?,müşteri hizmetleri ile iletişime geçin
+1022,Müşteri: Müşteri desteğine ne zaman ulaşabileceğimi kontrol etmek zorundayım,müşteri hizmetleri ile iletişime geçin
+1023,Müşteri: Canlı bir ajanla konuşmak için yardım istiyorum,İnsan Ajanı ile iletişime geçin
+1024,Müşteri: Müşteri hizmetinin ne zaman mevcut olduğunu kontrol etmek istiyorum,müşteri hizmetleri ile iletişime geçin
+1025,Müşteri: 350 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+1026,Müşteri: Şirketiniz için inceleme bırakmak,incele
+1027,Müşteri: Siparişin bir maddesini değiştirmek için yardım istemek 00004587345,sırayı değiştir
+1028,Müşteri: Faturayı aramak için azsistansa ihtiyacım var #85632,faturayı kontrol et
+1029,Müşteri: Erken fesih pealtilerini kontrol etmem gerekiyor,İptal ücretini kontrol et
+1030,Müşteri: 1200 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+1031,Müşteri: Kayıp bir pedsword hakkında bir sorunuz var,Parolayı kurtar
+1032,Müşteri: İzin verilen ödeme yöntemlerinizi nasıl görebilirim?,ödeme yöntemlerini kontrol edin
+1033,Müşteri: Lanet olası kayıt problemlerini nerede bildireceğimi kaydedemiyorum,Kayıt sorunları
+1034,Müşteri: Freemium hesabını istemiyorum iptal etmek için yardıma ihtiyacım var,hesabı sil
+1035,Müşteri: adresimi değiştirmeye çalışan desteğe ihtiyaç duyar,nakliye adresini değiştirme
+1036,Müşteri: Siparişten bir öğe nasıl kaldırılır 370795561790,sırayı değiştir
+1037,"Müşteri: Kayıt yaptıramıyorum, kayıt hataları hakkında nasıl bilgi verebilirim?",Kayıt sorunları
+1038,Müşteri: Müşteri hizmetleri ile konuşmak için yardım istiyorum,müşteri hizmetleri ile iletişime geçin
+1039,Müşteri: Teslimat yöntemlerini görmem gerekiyor,teslimat seçenekleri
+1040,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol edebilir miyim?,geri ödeme politikasını kontrol edin
+1041,Müşteri: Nasıl geri ödeme talep edeceğimi bilmiyorum,geri ödeme alın
+1042,Müşteri: erken çıkış ücretlerini kontrol etmek için yardım,İptal ücretini kontrol et
+1043,Müşteri: Siparişi iptal etmek gerekiyor 370795561790,Siparişi iptal et
+1044,Müşteri: Freemium hesabına değiştirme yardımı,hesabı değiştir
+1045,Müşteri: Şirketinize karşı bir müşteri iddiasında nasıl bulunabilirim?,şikayet
+1046,Müşteri: Kullanıcımın erişim anahtarını kurtarma yardımı,Parolayı kurtar
+1047,Müşteri: David Miller'dan gelen faturaları kontrol etmek için yardıma ihtiyaç var,faturayı kontrol et
+1048,Müşteri: ödemelerle ilgili sorunların ihlali için bana yardımcı olabilir,ödeme sorunu
+1049,Müşteri: Ne yapmam gerektiğini bilmiyorum bir düzeltme dosyası,şikayet
+1050,Müşteri: ur kabul edilen ödeme modalitelerini görmek için yardım isteyin,ödeme yöntemlerini kontrol edin
+1051,Müşteri: Pro hesabına geçiş,hesabı değiştir
+1052,"Müşteri: 299 dolarlık bir tazminat bekliyorum, işlenmiş mi?",parça geri ödeme
+1053,Müşteri: Bülten aboneliğimin durumunu kontrol edemiyorum,bülten aboneliği
+1054,Müşteri: hata oluşturma bildirimi accojnt,Kayıt sorunları
+1055,Müşteri: Freemium hesabına nasıl değiştirebilirim?,hesabı değiştir
+1056,Müşteri: geri ödeme $160,geri ödeme alın
+1057,Müşteri: Siparişin tahmini süresine bakın 370795561790,parça sırası
+1058,Müşteri: Mevcut ödeme seçeneklerini görmek için ne yapmam gerekiyor?,ödeme yöntemlerini kontrol edin
+1059,Müşteri: Lanet bir geri ödeme almak için bu makale için 160 $ ödedim,geri ödeme alın
+1060,Müşteri: Philadelphia'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+1061,Müşteri: ur şirket bültenini nasıl alabilirim bilmiyorum,bülten aboneliği
+1062,Müşteri: Bir insanla konuşmak için ne yapacağımı bilmiyorum,İnsan Ajanı ile iletişime geçin
+1063,Müşteri: 732201349959 sipariş etmek için nasıl birkaç öğe ekleyebilirim?,sırayı değiştir
+1064,Müşteri: Para iadesi için yardım istiyorum,geri ödeme alın
+1065,Müşteri: Lanet olası platin sayımı kapatmak için yardım istiyorum,hesabı sil
+1066,Müşteri: Kullanıcı anahtarımı kurtarmak için ne yapacağımı bilmiyorum,Parolayı kurtar
+1067,Müşteri: fesih ücretini kontrol etmek için yardım,İptal ücretini kontrol et
+1068,Müşteri: Altın hesabı nasıl oluşturabilirim?,hesap oluştur
+1069,Müşteri: lanet olası yeni bir nakliye adresi kurma sorunu,nakliye adresi kurmak
+1070,Müşteri: pro hesabındaki ayrıntıları düzeltin,Hesabı düzenle
+1071,Müşteri: purhase 00123842 iptal,Siparişi iptal et
+1072,Müşteri: Fesih ücretlerini kontrol etmek için yardım istiyorum,İptal ücretini kontrol et
+1073,Müşteri: sipariş 00123842 durumunu kontrol edin,parça sırası
+1074,Müşteri: ödeme ile ilgili bir sorunu çözmek için yardıma ihtiyaç,ödeme sorunu
+1075,Müşteri: mevcut ödeme seçeneklerinin listelenmesine yardımcı olun,ödeme yöntemlerini kontrol edin
+1076,Müşteri: Birisiyle Konuşmaya Yardım Edin,İnsan Ajanı ile iletişime geçin
+1077,Müşteri: Ödeme yöntemlerinizi listelemek istiyorum,ödeme yöntemlerini kontrol edin
+1078,Müşteri: Online ödeme ile ilgili bir sorunu çözmek için yardım isteyin,ödeme sorunu
+1079,Müşteri: Ücretsiz hesap olarak değiştirme,hesabı değiştir
+1080,Müşteri: Kullanıcı hesabım PIN kodunu sıfırlamak için ne yapacağımı bilmiyorum,Parolayı kurtar
+1081,Müşteri: Altına geçmek için ne yapmam gerektiğini bilmiyorum,hesabı değiştir
+1082,Müşteri: Ödeme sorunları hakkında nereye bilgi verilir?,ödeme sorunu
+1083,Müşteri: Ödeme ile ilgili bir hatayı nasıl bildirebilirim?,ödeme sorunu
+1084,Müşteri: Bülten aboneliğinden çıkmaya çalışıyorum,bülten aboneliği
+1085,"Müşteri: Geri ödeme politikanızı kontrol etmeliyim, yardıma ihtiyacım var",geri ödeme politikasını kontrol edin
+1086,Müşteri: teslimatın ne kadar sürdüğünü kontrol etmeye yardımcı olur,teslim süresi
+1087,Müşteri: Faturalarımı Bay Smith'ten nasıl indirebilirim bilmiyorum.,fatura al
+1088,Müşteri: Farklı bir teslimat adresi kurmak mümkün mü?,nakliye adresi kurmak
+1089,Müşteri: faturayı indirmem gerekiyor #125888 Bunu nasıl yaparım,fatura al
+1090,Müşteri: Pwd'mi nerede geri yükleyeceğimi unuttum,Parolayı kurtar
+1091,Müşteri: Bir Gold hesabının terminatoin ile ilgili bir problemim var,hesabı sil
+1092,Müşteri: Ürününüzün birkaçını edinmeme yardımcı olun,yer sırası
+1093,Müşteri: Talepte bulunmak için ne yapmam gerekiyor?,şikayet
+1094,Müşteri: Ücretsiz hesabı kapatmak için ne yapmam gerekiyor?,hesabı sil
+1095,Müşteri: iptal cezasını kontrol etmek istiyorum yardıma ihtiyacım var,İptal ücretini kontrol et
+1096,Müşteri: Kullanıcımın PIN kodunu kurtarmak için yardım istiyorum,Parolayı kurtar
+1097,Müşteri: Online kayıtla ilgili bir hata yaşıyorum,Kayıt sorunları
+1098,Müşteri: Online ödemelerde hata,ödeme sorunu
+1099,Müşteri: Farklı bir kullanıcı hesabı kullanmak istiyorsanız bana yardım edin,hesabı değiştir
+1100,Müşteri: kayıt sorunlarının bildirilmesine yardımcı olmak,Kayıt sorunları
+1101,Müşteri: Toronto'ya gönderiler,teslimat seçenekleri
+1102,Müşteri: ürünleriniz hakkında bazı geri bildirimler göndermeye yardımcı olur,incele
+1103,Müşteri: sipariş ver,yer sırası
+1104,Müşteri: Satın alma işlemini iptal etmek için yardım istiyorum 732201349959,Siparişi iptal et
+1105,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görmek için yardıma ihtiyacım var,geri ödeme politikasını kontrol edin
+1106,Müşteri: Bülten aboneliğimi nasıl iptal edebilirim?,bülten aboneliği
+1107,Müşteri: Platin hesabı açmakla ilgili bir sorum var,hesap oluştur
+1108,Müşteri: Bazı ürünleri satın almak için yardıma ihtiyacım var,yer sırası
+1109,Müşteri: Şirketiniz hakkında bir yorum bırakabilir miyim?,incele
+1110,Müşteri: teslimat adresini ayarlamak için yardım istemek,nakliye adresi kurmak
+1111,Müşteri: Şirket bültenine nereden abone olurum?,bülten aboneliği
+1112,Müşteri: Yanlış bir gönderim adresi güncellemesi gönderdim,nakliye adresini değiştirme
+1113,Müşteri: Lanet olası kayıt hatalarını bildirmeme yardım edebilir misiniz?,Kayıt sorunları
+1114,Müşteri: Canlı bir ajanla konuşmak için yardım,İnsan Ajanı ile iletişime geçin
+1115,"Müşteri: Teslimat adresimi değiştirmem gerekiyor, nasıl yapabilirim?",nakliye adresini değiştirme
+1116,Müşteri: Ödeme ile ilgili bir sorunu nerede bildirebilirim?,ödeme sorunu
+1117,Müşteri: Liverpool'a sevkiyatlar,teslimat seçenekleri
+1118,Müşteri: Haber bültenini almama yardım edebilir misiniz?,bülten aboneliği
+1119,Müşteri: Tüketici şikayeti için yardım istiyorum,şikayet
+1120,Müşteri: Para çekme ücretlerini nerede kontrol edeceğim,İptal ücretini kontrol et
+1121,Müşteri: Yeni teslimat adresi ayarlama konusunda yardıma ihtiyacım var,nakliye adresi kurmak
+1122,Müşteri: iptal suçlamalarını görmek istiyorum,İptal ücretini kontrol et
+1123,"Müşteri: Ürününüzün birkaçını devre dışı bırakmak istiyorum, nasıl yapılır?",yer sırası
+1124,Müşteri: Bir hizmet hakkında bir fikir yazmak istiyorum nasıl yapabilirim,incele
+1125,Müşteri: Müşteri yardımı ile konuşmak için yardım,müşteri hizmetleri ile iletişime geçin
+1126,Müşteri: Müşteri hizmetlerini aramak için ne yapmam gerektiğini bilmiyorum,müşteri hizmetleri ile iletişime geçin
+1127,Müşteri: pro hesaba geçiş,hesabı değiştir
+1128,Müşteri: İkincil nakliye adresini nereye gönderebilirim?,nakliye adresi kurmak
+1129,Müşteri: 370795561790 geçerli durumunu satın nasıl görebilirim,parça sırası
+1130,Müşteri: Hesabımın PIN'ini kurtarmak için yardıma ihtiyacım var,Parolayı kurtar
+1131,Müşteri: Siparişi iptal etmekle ilgili bir sorum var 00123842,Siparişi iptal et
+1132,Müşteri: Öğenin ne kadar sürede bana yardım edebileceğini kontrol etmek istiyorum,teslim süresi
+1133,Müşteri: adresi güncellemeye çalışan yardım,nakliye adresini değiştirme
+1134,Müşteri: Bir ajanla nasıl konuşulacağını bilmiyorum,İnsan Ajanı ile iletişime geçin
+1135,Müşteri: sipariş 732201349959 durumuna bakın,parça sırası
+1136,Müşteri: Hizmetleriniz için bir inceleme yazma konusunda yardıma ihtiyacınız var,incele
+1137,Müşteri: Paramın iadesini nasıl talep edeceğimi bilmiyorum.,geri ödeme alın
+1138,"Müşteri: Bir hata yaptım, siparişin düzeltilmesine yardımcı oldum 00004587345",sırayı değiştir
+1139,Müşteri: Öğenizin bir kısmını sipariş etmeme yardımcı olabilir misiniz?,yer sırası
+1140,Müşteri: Eşim için standart bir hesap oluşturmama yardım eder misiniz?,hesap oluştur
+1141,Müşteri: Ürününüzün bir kısmını satın almak için ne yapmam gerektiğini bilmiyorum,yer sırası
+1142,Müşteri: Para iadesi talebi,geri ödeme alın
+1143,Müşteri: Bir Gold hesabının iptali ile ilgili sorunlarım var,hesabı sil
+1144,Müşteri: Premium hesaba geçmem gerekiyor,hesabı değiştir
+1145,Müşteri: Nasıl yapılacağını müşteri yardımı ile konuşmalıyım,müşteri hizmetleri ile iletişime geçin
+1146,Müşteri: Şirket bülteninizi almak için ne yapmam gerekiyor?,bülten aboneliği
+1147,Müşteri: Bayan Hawkings'in faturasını bulmam gerek.,faturayı kontrol et
+1148,Müşteri: nakliye adresimi ayarlamak için yardıma ihtiyacım var,nakliye adresi kurmak
+1149,Müşteri: Eşim için premium bir hesap açmak için yardıma ihtiyacım var,hesap oluştur
+1150,Müşteri: Freemium hesabı nasıl oluşturabilirim bilmiyorum,hesap oluştur
+1151,Müşteri: Kabul edilen ödeme yöntemlerini görmeye çalışıyorum,ödeme yöntemlerini kontrol edin
+1152,Müşteri: Farklı bir teslimat adresi oluşturma sorunu,nakliye adresi kurmak
+1153,Müşteri: Teslimatımı ne kadar sürede bekleyebileceğimi görmek için yardıma ihtiyacım var,teslim süresi
+1154,"Müşteri: Bazı ürünler sipariş ettim, satın almayı iptal edin 732201349959",Siparişi iptal et
+1155,Müşteri: Paramın bir tazminatını almaya çalışıyorum,geri ödeme alın
+1156,Müşteri: para iadesi talep etmek gerekir,geri ödeme alın
+1157,"Müşteri: Nakliye adresini girmem gerekiyor, nasıl yapılır?",nakliye adresi kurmak
+1158,Müşteri: Standart hesabın güncellenmesi,Hesabı düzenle
+1159,Müşteri: Satın alma 00004587345'in çeşitli ürünlerini değiştirmem gerekiyor,sırayı değiştir
+1160,Müşteri: ur bültenine abone olmak istiyorum,bülten aboneliği
+1161,Müşteri: 1135422617735602 satın almayı iptal etmek için yardım istiyorum,Siparişi iptal et
+1162,Müşteri: 299 dolar tazminat bekliyorum,parça geri ödeme
+1163,Müşteri: Şirket bültenini nasıl alacağımı bilmiyorum,bülten aboneliği
+1164,Müşteri: Değiştirilen teslimat adresi bana yardımcı olabilir misiniz?,nakliye adresini değiştirme
+1165,"Müşteri: Lanet olası kullanıcı hesabı erişim anahtarımı sıfırlamak istiyorum, bana yardım edin",Parolayı kurtar
+1166,Müşteri: Başka bir hesap kullanın,hesabı değiştir
+1167,Müşteri: Hangi durumlarda paramı geri talep edebileceğimi görün,geri ödeme politikasını kontrol edin
+1168,Müşteri: satın alma durumunu kontrol edin 1135422617735602,parça sırası
+1169,Müşteri: Platinum hesabına nasıl değiştirebilirim bilmiyorum,hesabı değiştir
+1170,Müşteri: Paymnet yöntemlerinizi listelemek istiyorum,ödeme yöntemlerini kontrol edin
+1171,"Müşteri: Yardımcı olmuyorsun, canlı bir ajanla nasıl konuşulur?",İnsan Ajanı ile iletişime geçin
+1172,Müşteri: Satın alma ile ilgili birkaç maddeyi değiştirmem gerekiyor 370795561790,sırayı değiştir
+1173,Müşteri: Platin hesabı iptal etmek için ne yapmam gerektiğini bilmiyorum,hesabı sil
+1174,Müşteri: Somone ile konuşmaya çalışıyorum,İnsan Ajanı ile iletişime geçin
+1175,Müşteri: öğemi ne kadar sürede bekleyebileceğimi kontrol etmeme yardımcı olun,teslim süresi
+1176,Müşteri: Geri ödeme istemek zorundayım,geri ödeme alın
+1177,Müşteri: Bazı lanet eşyaları satın almak için ne yapmam gerektiğini bilmiyorum,yer sırası
+1178,"Müşteri: Ödeme yöntemlerinizi görmem gerekiyor, bana yardım edebilir misiniz?",ödeme yöntemlerini kontrol edin
+1179,Müşteri: David Miller'dan faturalarımı kontrol etmek için ne yapmam gerekiyor?,faturayı kontrol et
+1180,Müşteri: Eşim için standart bir hesap oluşturmaya çalışıyorum,hesap oluştur
+1181,Müşteri: Standart hesaptaki verileri değiştirme,Hesabı düzenle
+1182,Müşteri: Şirket bültenine aboneliğimi nasıl iptal ederim,bülten aboneliği
+1183,Müşteri: Premium hesapların açılması hakkında bilgi istiyorum,hesap oluştur
+1184,Müşteri: Paranın geri ödenmesini nasıl alabilirim bilmiyorum,geri ödeme alın
+1185,Müşteri: gelin için açık standart hesap,hesap oluştur
+1186,Müşteri: Platin hesabındaki bilgileri düzenleme,Hesabı düzenle
+1187,Müşteri: Platin hesabındaki ayrıntıları düzeltin,Hesabı düzenle
+1188,Müşteri: Bir operatörle sohbet etmek için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+1189,Müşteri: Ücretsiz hesabımı nasıl silebilirim,hesabı sil
+1190,Müşteri: İptal penzltilerini görmek için yardım istiyorum,İptal ücretini kontrol et
+1191,Müşteri: Siparişi iptal etmek için ne yapacağımı bilmiyorum 1135422617735602,Siparişi iptal et
+1192,Müşteri: kontrol siparişi 1135422617735902 durumu,parça sırası
+1193,Müşteri: Bazı ürünler kazanmama yardım et,yer sırası
+1194,Müşteri: Siparişin bir maddesini değiştiremem 1135422617735902,sırayı değiştir
+1195,Müşteri: Müşteri desteğini ne zaman alabileceğimi görmek için yardım almak istiyorum,müşteri hizmetleri ile iletişime geçin
+1196,Müşteri: Online ödeme ile ilgili bir sorunu bildirmek için yardıma ihtiyacım var,ödeme sorunu
+1197,Müşteri: Müşteri hizmetlerine hangi saatlerde ulaşabileceğimi nerede görebilirim?,müşteri hizmetleri ile iletişime geçin
+1198,Müşteri: hte freemium hesabı kullanmak istiyorum bana yardımcı olacak,hesabı değiştir
+1199,Müşteri: siparişin ETA kontrol 1135422617735602,parça sırası
+1200,Müşteri: ur geri ödeme politikasını kontrol etmeme yardımcı olabilir misiniz?,geri ödeme politikasını kontrol edin
+1201,Müşteri: Neeed yardım siparişimin ne zaman geleceğini kontrol ediyor,teslim süresi
+1202,"Müşteri: Hiç yardımcı olmuyorsun, biriyle konuşmak için yardım istiyorum",İnsan Ajanı ile iletişime geçin
+1203,Müşteri: Bir asistanla nasıl konuşabilirim,İnsan Ajanı ile iletişime geçin
+1204,Müşteri: gönderim adresi gönderme sorunları,nakliye adresi kurmak
+1205,Müşteri: sipariş iptal 732201349959,Siparişi iptal et
+1206,Müşteri: Müşteri yardımı ile iletişime geçin,müşteri hizmetleri ile iletişime geçin
+1207,Müşteri: bana müşteri yardımı ile hangi saatlerde iletişime geçebileceğimi suhow,müşteri hizmetleri ile iletişime geçin
+1208,Müşteri: 370795561790 satın alma iptali hakkında quesdtion,Siparişi iptal et
+1209,Müşteri: nakliye adresini düzenleyen sondalar var,nakliye adresini değiştirme
+1210,Müşteri: ur makalesinin bir kısmını satın almak için ned yardımı,yer sırası
+1211,Müşteri: Öğemin ne zaman geleceğini görmeme yardımcı olur musunuz?,teslim süresi
+1212,Müşteri: Bay Smith'in faturalarına bakın,faturayı kontrol et
+1213,Müşteri: Platin hesabında veri değişimi,Hesabı düzenle
+1214,Müşteri: sipariş iptali ile ilgili bir sorunuz var 00004587345,Siparişi iptal et
+1215,Müşteri: Bayan Hawkings'ten faturamı aramama yardım eder misiniz?,faturayı kontrol et
+1216,Müşteri: Bir reklâmım var,şikayet
+1217,Müşteri: Altın hesabı kullanmama yardım edebilir misiniz?,hesabı değiştir
+1218,Müşteri: Pro hesabı oluşturma sorunu,hesap oluştur
+1219,Müşteri: kullanıcı profilimin geçişini geri alma yardımı,Parolayı kurtar
+1220,Müşteri: Satın alma durumunu yakalamaya çalışıyorum 00123842,parça sırası
+1221,Müşteri: Birisiyle konuşmak için yardım istiyorum,İnsan Ajanı ile iletişime geçin
+1222,Müşteri: Hangi nakliye yöntemlerine sahip olduğumu nasıl kontrol edeceğimi bilmiyorum,teslimat seçenekleri
+1223,Müşteri: Bir temsilciye konuşma yardımı,İnsan Ajanı ile iletişime geçin
+1224,"Müşteri: Mevcut ödeme yöntemlerinizi listelemem gerekiyor, bana yardım edin",ödeme yöntemlerini kontrol edin
+1225,Müşteri: Öğemin ne zaman geleceğini görmek için ne yapacağımı bilmiyorum,teslim süresi
+1226,Müşteri: sipariş 1135422617735602 güncel durumunu kontrol etmek için bana yardım edin,parça sırası
+1227,Müşteri: Kayıt sorunu hakkında bilgi veremem,Kayıt sorunları
+1228,"Müşteri: Teslimatın ne kadar sürdüğünü görmek istiyorum, yardıma ihtiyacım var",teslim süresi
+1229,Müşteri: Karım için platin bir hesap oluşturmam gerekiyor bana yardım edin,hesap oluştur
+1230,"Müşteri: Bir hesap oluşturamıyorum, bir kayıt sorununu bildirmem gerekiyor",Kayıt sorunları
+1231,"Müşteri: Altın hesabı kullanmıyorum, nasıl iptal edebilirim?",hesabı sil
+1232,Müşteri: Müşteri desteği ile konuşmak için ne yapmam gerekiyor?,müşteri hizmetleri ile iletişime geçin
+1233,Müşteri: Kurumsal haber bülteni aboneliğimi iptal etmeye çalışıyorum,bülten aboneliği
+1234,Müşteri: Neden lanet olası bir teslimat adresi ayarlamadım?,nakliye adresi kurmak
+1235,Müşteri: Satın alma yerini bulmak için yardım istiyorum 00123842,parça sırası
+1236,Müşteri: Teslimat adresimi düzeltmem gerekiyor,nakliye adresini değiştirme
+1237,Müşteri: Hesaptaki bilgileri düzenle,Hesabı düzenle
+1238,Müşteri: Altın hesabındaki bilgileri düzeltmek,Hesabı düzenle
+1239,Müşteri: Ücretsiz hesabı kullanmak için yardım istemek,hesabı değiştir
+1240,Müşteri: Şirket bülteninize abone olmama yardımcı olur musunuz?,bülten aboneliği
+1241,Müşteri: Bir operatörle konuşmaya çalışıyorum,İnsan Ajanı ile iletişime geçin
+1242,Müşteri: Siparişimin ne zaman geleceğini görmek için yardım istiyorum,teslim süresi
+1243,Müşteri: Şirketiniz hakkında bir inceleme bırakacak mıydınız?,incele
+1244,Müşteri: Fatura #12588'e hızlı bir şekilde bakmama yardımcı olabilir misiniz?,faturayı kontrol et
+1245,Müşteri: makalenin gelmesi için ne kadar zaman gerektiğini görmek gerekir,teslim süresi
+1246,Müşteri: Hesabımın lanet pwd'sini kaybettim geri yüklemek için yardıma ihtiyacım var,Parolayı kurtar
+1247,Müşteri: öğemin gelmesi ne kadar sürer bize nasıl,teslim süresi
+1248,Müşteri: Birisiyle konuşmak için yardım istiyorum,İnsan Ajanı ile iletişime geçin
+1249,Müşteri: Makalemi ne kadar sürede bekleyebileceğimi kontrol etmeme yardımcı olur musunuz?,teslim süresi
+1250,Müşteri: Ereksiyon ücretini nasıl görebilirim bilmiyorum,İptal ücretini kontrol et
+1251,Müşteri: başka bir pro hesap,hesap oluştur
+1252,Müşteri: Erken sonlandırma cezasını kontrol etmek için yardıma ihtiyacım var,İptal ücretini kontrol et
+1253,Müşteri: sipariş 370795561790 mevcut durumu görmek istiyorum,parça sırası
+1254,Müşteri: 1499 dolar indirim bekliyorum,parça geri ödeme
+1255,Müşteri: standart hesabı düzenleme,Hesabı düzenle
+1256,Müşteri: düzenleme siparişi 732201349959,sırayı değiştir
+1257,Müşteri: Sevkiyatımın ne zaman geleceğini görmek için yardıma ihtiyacım var,teslim süresi
+1258,Müşteri: geri bildirimimi göndermek için yardım,incele
+1259,Müşteri: Platin hesabı silmek için ne yapmam gerekiyor?,hesabı sil
+1260,Müşteri: Bir asistanla sohbet etmek için ne yapmam gerekiyor?,İnsan Ajanı ile iletişime geçin
+1261,"Müşteri: Para çekme ücretini görmem gerekiyor, yardım alabilir miyim?",İptal ücretini kontrol et
+1262,Müşteri: icannot bir Freemium hesabı açma,hesap oluştur
+1263,Müşteri: Ödemelerle ilgili sorunu raporlamak,ödeme sorunu
+1264,Müşteri: Hangi ödeme yöntemlerine izin verildiğini kontrol etmek için yardım isteyin,ödeme yöntemlerini kontrol edin
+1265,Müşteri: Coroorate bültenini almak için yardıma ihtiyacım var,bülten aboneliği
+1266,Müşteri: Freemium hesabını kapat,hesabı sil
+1267,"Müşteri: Kanlı hesabımı düzenlemek istiyorum, nasıl yapabilirim?",Hesabı düzenle
+1268,Müşteri: Altın hesabı değiştirmek için ne yapmam gerekiyor?,hesabı değiştir
+1269,"Müşteri: Lanet olası erken çıkış ücretlerini kontrol etmek istiyorum, bana yardım eder misiniz?",İptal ücretini kontrol et
+1270,Müşteri: Tüketici iddiasında bulunmak için yardım istiyorum,şikayet
+1271,Müşteri: 160 dolarlık bir indirim bekliyorum,parça geri ödeme
+1272,Müşteri: Ödemelerle ilgili hataları bildirmek için ne yapacağımı bilmiyorum,ödeme sorunu
+1273,Müşteri: Bay Smith'in faturasını görmek istiyorum,faturayı kontrol et
+1274,Müşteri: Ben eaqrly çıkış cezası kontrol etmek zorunda nasıl yapabilirim,İptal ücretini kontrol et
+1275,Müşteri: Bay Jones'tan faturaları kontrol etmek,faturayı kontrol et
+1276,Müşteri: Freemium hesabındaki bilgileri güncellemek,Hesabı düzenle
+1277,Müşteri: Öğenizden birkaçını kazanmam gerekiyor,yer sırası
+1278,Müşteri: Faturamı alabilir miyim rfom Anna Freeman,fatura al
+1279,Müşteri: Bana hangi durumlarda paramı isteyebileceğimi göster bacxk,geri ödeme politikasını kontrol edin
+1280,Müşteri: Ödeme sorunlarını bildirmek için yardım istiyorum,ödeme sorunu
+1281,Müşteri: ur bülteninden subscribe'nin nasıl kaldırılacağını bilmiyorum,bülten aboneliği
+1282,Müşteri: pro hesabı kullan,hesabı değiştir
+1283,Müşteri: Çevrimiçi ödemelerle ilgili bir sorunu çözmek için yardım istiyorum,ödeme sorunu
+1284,Müşteri: Lanet olası iptal ücretlerini görmeme yardım et,İptal ücretini kontrol et
+1285,Müşteri: Toronto'ya teslim ediyor musunuz?,teslimat seçenekleri
+1286,Müşteri: Purhase 370795561790 iptal et,Siparişi iptal et
+1287,Müşteri: ur hizmetleri için bazı geri bildirimler göndermek için yardım istiyorum,incele
+1288,Müşteri: Adresimi değiştirmem gerekiyor,nakliye adresini değiştirme
+1289,Müşteri: Ödeme hatalarını bildirmem gerekiyor,ödeme sorunu
+1290,Müşteri: Faturayı görmek için ne yapmam gerektiğini bilmiyorum #12588,faturayı kontrol et
+1291,Müşteri: Bir ürünü siparişten çıkarmak için yardım istiyorum 00004587345,sırayı değiştir
+1292,Müşteri: Anahtar sıfırlama ile ilgili sorunlarım var,Parolayı kurtar
+1293,Müşteri: premium hesaptaki verileri düzenleyin,Hesabı düzenle
+1294,Müşteri: İşletmenize karşı bir müşteri iddiasında bulunmaya yardım,şikayet
+1295,Müşteri: Lanet olası paramın ödenmesini talep etmeliyim.,geri ödeme alın
+1296,Müşteri: bilgileri düzenle o premium hesap,Hesabı düzenle
+1297,"Müşteri: Faturamı kaybettim #001008, bana postalayabilir misiniz?",fatura al
+1298,Müşteri: Tazminat talep etmeye çalışıyorum,geri ödeme alın
+1299,Müşteri: nerede cancfel sipariş 1135422617735602,Siparişi iptal et
+1300,Müşteri: hesap erişim anahtarımı geri almama yardım et,Parolayı kurtar
+1301,Müşteri: yakın platin hesabı,hesabı sil
+1302,Müşteri: Öğemin ne zaman geleceğini kontrol etmek için yardıma ihtiyacım var,teslim süresi
+1303,Müşteri: Siparişi bulmak için yardım istiyorum 00123842,parça sırası
+1304,Müşteri: Mevcut ödeme seçeneklerini nerede kontrol edebilirim?,ödeme yöntemlerini kontrol edin
+1305,Müşteri: Faturalarımı Bay Jones'tan bulmam gerek.,faturayı kontrol et
+1306,Müşteri: Online ödeme ile ilgili sorunlar hakkında bilgi vermek,ödeme sorunu
+1307,Müşteri: Haber bülteninden nerede abonelikten çıkabilirim?,bülten aboneliği
+1308,Müşteri: Altın hesabı değiştirmek için yardım ister,hesabı değiştir
+1309,Müşteri: 370795561790 satın almak için yardıma ihtiyacım var,parça sırası
+1310,Müşteri: 1200 dolar iade,geri ödeme alın
+1311,Müşteri: satın alma güncellemek gerekir 00004587345,sırayı değiştir
+1312,Müşteri: Parola kurtarma ile ilgili sorunlarım var,Parolayı kurtar
+1313,Müşteri: Kullanıcı profili parolamı sıfırlamak için yardım istiyorum,Parolayı kurtar
+1314,Müşteri: Mart ayından itibaren fatura alın,fatura al
+1315,Müşteri: sipariş durumunu kontrol edin 1135422617735602,parça sırası
+1316,Müşteri: Unutulmuş geçiş hakkında bilgi,Parolayı kurtar
+1317,Müşteri: Ücretsiz bir hesabın silinmesiyle ilgili bir sorum var,hesabı sil
+1318,Müşteri: Altın hesabı iptal,hesabı sil
+1319,Müşteri: Freemium hesabımı açmıyorum kapatmak zorundayım,hesabı sil
+1320,Müşteri: Hangi ödeme seçeneklerini kabul ettiğinizi kontrol etmek mümkün mü?,ödeme yöntemlerini kontrol edin
+1321,Müşteri: Bir ürün hakkında geri bildirim bırakmaya çalışıyorum,incele
+1322,Müşteri: ur şirketi hakkında bir rview bırakmam gerekiyor yardıma ihtiyacım var,incele
+1323,Müşteri: Faturayı almaya çalışıyorum #37777,fatura al
+1324,Müşteri: Hangi lanet nakliye yöntemlerinin mevcut olduğunu kontrol etmek için arıyorum,teslimat seçenekleri
+1325,Müşteri: altın hesabı açmak,hesap oluştur
+1326,Müşteri: Faturamı kontrol etmem gerekiyor #12588 Biraz yardım alabilir miyim,faturayı kontrol et
+1327,Müşteri: Bayan Hawkings'ten faturayı indirmek istiyorum yardıma ihtiyacım var,fatura al
+1328,Müşteri: Lanet olası yeni swhipping adresini göndermekte bir sorunum var,nakliye adresi kurmak
+1329,Müşteri: Freemium hesap silmeleri hakkında nereden bilgi edinebilirim?,hesabı sil
+1330,Müşteri: Bir kayıt sorunu hakkında nasıl haber vermem gerekiyor,Kayıt sorunları
+1331,Müşteri: geri ödeme 350 $,geri ödeme alın
+1332,Müşteri: Platinum hesabımı iptal etmek için yardım aldım,hesabı sil
+1333,Müşteri: Müşteri hizmetlerini ne zaman arayabileceğimi kontrol etmek için yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+1334,Müşteri: Müşteri desteğine konuşma konusunda yardıma ihtiyacım var,müşteri hizmetleri ile iletişime geçin
+1335,Müşteri: Sevkiyat adresimin güncellenmesinde sorun yaşıyorum,nakliye adresini değiştirme
+1336,Müşteri: Bir hizmet hakkında inceleme bırakmak için bir bölüm var mı?,incele
+1337,Müşteri: Bülteninize abonelikten çıkmak istiyorum,bülten aboneliği
+1338,Müşteri: 370795561790 numaralı siparişten bazı öğeleri nasıl kaldırabilirim?,sırayı değiştir
+1339,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol etmeye yardımcı olun,geri ödeme politikasını kontrol edin
+1340,Müşteri: şirket bülteninizden aboneliğinizi kaldırma konusunda yardıma ihtiyacınız var,bülten aboneliği
+1341,Müşteri: Erken fesih cezalarını kontrol etme yardımı,İptal ücretini kontrol et
+1342,Müşteri: bana nakliye adresimin düzenlenmesi hakkında daha fazla bilgi verin,nakliye adresini değiştirme
+1343,Müşteri: sipariş durumunu kontrol 00123842,parça sırası
+1344,Müşteri: Bir operatörle iletişime geçmek için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+1345,Müşteri: Ben bir platin hesabı oluşturmak için hae,hesap oluştur
+1346,Müşteri: Gold hesabındaki verilerin güncellenmesi,Hesabı düzenle
+1347,Müşteri: 1200 dolar tazminat bekliyorum,parça geri ödeme
+1348,Müşteri: Arrie'ye teslimatımın ne kadar sürdüğünü görmek için arıyorum,teslim süresi
+1349,Müşteri: 350 $ geri ödeme bekliyorum,parça geri ödeme
+1350,Müşteri: Yardıma ihtiyacım olan ödeme seçeneklerini görmek istiyorum,ödeme yöntemlerini kontrol edin
+1351,Müşteri: Oğlumun paketi nasıl bekleyebileceğini nasıl kontrol edeceğimi bilmiyorum,teslim süresi
+1352,Müşteri: ur şirketine karşı bir müşteri reclaimation dosyalama yardım istiyorum,şikayet
+1353,Müşteri: 00004587345 satın almayı iptal etmeme yardımcı olabilir misiniz?,Siparişi iptal et
+1354,Müşteri: sipariş düzenleme 00004587345,sırayı değiştir
+1355,Müşteri: Adresi değiştirmekte zorlanıyorum,nakliye adresini değiştirme
+1356,Müşteri: ur newsletter aboneliğinden çıkmanız gerekiyor bana yardımcı olacak,bülten aboneliği
+1357,Müşteri: Faturayı almak için yardım istiyorum #37777,fatura al
+1358,Müşteri: 00123842 güncel durumunu satın nasıl görebilirim?,parça sırası
+1359,Müşteri: Geri ödeme istemek için bana yardım edin,geri ödeme alın
+1360,Müşteri: Macaristan'a shippoing,teslimat seçenekleri
+1361,Müşteri: Hangi durumlarda paramı geri talep edebileceğimi görmek için yardım,geri ödeme politikasını kontrol edin
+1362,"Müşteri: Ödeme seçeneklerini kontrol etmek istiyorum, bana yardımcı olabilir misiniz?",ödeme yöntemlerini kontrol edin
+1363,Müşteri: hangi ödeme yöntemlerinin mevcut olduğunu kontrol etmek için yardıma ihtiyaç var,ödeme yöntemlerini kontrol edin
+1364,Müşteri: Nakliyenin ne kadar sürdüğünü görmek için yardıma ihtiyacım var,teslim süresi
+1365,Müşteri: Bir asistanla sohbet etmek için ne yapmam gerektiğini bilmiyorum,İnsan Ajanı ile iletişime geçin
+1366,Müşteri: sipariş bir makale 00004587345 iswap olabilir,sırayı değiştir
+1367,Müşteri: Teslimatın ne kadar sürdüğünü görmeme yardımcı olun,teslim süresi
+1368,Müşteri: Hangi durumlarda yeniden emzirilmeyi talep edebileceğimi kontrol etmeye yardımcı olun,geri ödeme politikasını kontrol edin
+1369,"Müşteri: Hiç yardımcı olmuyorsunuz, bir temsilciyle iletişime geçin",İnsan Ajanı ile iletişime geçin
+1370,Müşteri: Seattle'dan sipariş vermek mümkün,teslimat seçenekleri
+1371,Müşteri: faturayı kontrol etmek için yardım istemek #12588,faturayı kontrol et
+1372,Müşteri: satın alma iptal 00123842,Siparişi iptal et
+1373,Müşteri: Platin hesabı açmak için ne yapmam gerekiyor?,hesap oluştur
+1374,Müşteri: Birkaç öğe kazanmaya çalışıyorum,yer sırası
+1375,Müşteri: Bülten aboneliğini iptal etmeye çalışıyorum,bülten aboneliği
+1376,Müşteri: Anahtar sıfırlama hakkında bilgi bulmaya çalışıyorum,Parolayı kurtar
+1377,Müşteri: şirket bültenine abone olun,bülten aboneliği
+1378,Müşteri: Ben canot kayıt nasıl lanet kayıt sorunları hakkında bilgilendirmek,Kayıt sorunları
+1379,Müşteri: Reclamation dosyası açmak istiyorum,şikayet
+1380,Müşteri: faturayı bul #001008,faturayı kontrol et
+1381,Müşteri: Pro profilini kullanmama yardım et,hesabı değiştir
+1382,"Müşteri: Müşteri desteği ile iletişime geçmeliyim, yardıma ihtiyacım var",müşteri hizmetleri ile iletişime geçin
+1383,Müşteri: Nakliye adresimin güncellenmesi için yardıma ihtiyacım var,nakliye adresini değiştirme
+1384,Müşteri: Kurumsal haber bülteni aboneliğini iptal edemem,bülten aboneliği
+1385,Müşteri: teslimat adresini gönderme sorunları,nakliye adresi kurmak
+1386,Müşteri: Mevcut ödeme yöntemlerini listelemek için yardım istiyorum,ödeme yöntemlerini kontrol edin
+1387,Müşteri: nakliye adresi geçerli değil,nakliye adresi kurmak
+1388,Müşteri: ur şirketine karşı tüketici talebinde bulunmak için yardım istiyorum,şikayet
+1389,Müşteri: Adresimi düzenlemeye çalışan sorunlar var,nakliye adresini değiştirme
+1390,Müşteri: Pro hesabı açma sorunu,hesap oluştur
+1391,Müşteri: Bir asistanla konuşun,İnsan Ajanı ile iletişime geçin
+1392,Müşteri: sipariş 370795561790 durumu,parça sırası
+1393,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol etmeme yardımcı olun,geri ödeme politikasını kontrol edin
+1394,Müşteri: Paramın bir tazminatını istemeye çalışıyorum,geri ödeme alın
+1395,Müşteri: Ücretsiz profili kullanabilir miyim?,hesabı değiştir
+1396,Müşteri: Yor işine karşı bir iddiada bulunmam gerekiyor,şikayet
+1397,Müşteri: altın hesabında daat güncelleme,Hesabı düzenle
+1398,Müşteri: Ödeme hatalarını nerede bildirebilirim,ödeme sorunu
+1399,Müşteri: yeni gönderim adresimi nasıl kuracağımı bilmiyorum,nakliye adresi kurmak
+1400,Müşteri: Paramı geri almak istiyorum,geri ödeme alın
+1401,"Müşteri: Kullanıcımı düzenlemem gerekiyor, bana yardım eder misiniz?",Hesabı düzenle
+1402,Müşteri: Siparişi bulamıyorum 370795561790,parça sırası
+1403,Müşteri: Faturama hızlı bir şekilde bakmak için yardıma ihtiyacım var #001008,faturayı kontrol et
+1404,Müşteri: Ödeme yöntemleriniz nelerdir?,ödeme yöntemlerini kontrol edin
+1405,Müşteri: Ödemelerle ilgili kanlı sorunları çözmek için yardıma ihtiyacım var,ödeme sorunu
+1406,Müşteri: Bir nakliye adresi kurma sorunu yaşıyorum,nakliye adresi kurmak
+1407,Müşteri: Pro hesabı kapatmak için ne yapmam gerektiğini bilmiyorum,hesabı sil
+1408,Müşteri: Online kayıt ile ilgili sorunlar hakkında bilgi vermek,Kayıt sorunları
+1409,Müşteri: ur item howe kazanmak gerekir bunu yapabilirim,yer sırası
+1410,Müşteri: Geri ödeme talep etmek için ne yapmam gerekiyor?,geri ödeme alın
+1411,Müşteri: Kullanıcı parolamı geri yükleyemiyorum,Parolayı kurtar
+1412,Müşteri: 1200 dolarlık bir tazminatın işlenmesini bekliyor,parça geri ödeme
+1413,Müşteri: İkincil nakliye adresini kurmakta sorun yaşıyorum,nakliye adresi kurmak
+1414,Müşteri: siparişin kürnet durumunu kontrol etme yardımı 732201349959,parça sırası
+1415,Müşteri: Bir asistanla konuşmak için yardım istiyorum,İnsan Ajanı ile iletişime geçin
+1416,"Müşteri: 00004587345 sipariş vermek istiyorum, nasıl yapabilirim?",parça sırası
+1417,Müşteri: Pro profili nasıl kullanılır,hesabı değiştir
+1418,Müşteri: ödemeler ile ilgili sorunların bildirilmesine yardımcı olmak,ödeme sorunu
+1419,Müşteri: Kullanıcı PIN'imi sıfırlamam gerekiyor,Parolayı kurtar
+1420,Müşteri: Nakliye adresini değiştirmeye çalışırken yardıma ihtiyacım var,nakliye adresini değiştirme
+1421,Müşteri: ur kabul edilen ödeme seçeneklerini nasıl görebilirim bilmiyorum,ödeme yöntemlerini kontrol edin
+1422,Müşteri: ödeme yöntemlerini görmek gerekir,ödeme yöntemlerini kontrol edin
+1423,Müşteri: Ödeme ile ilgili bir hata bildirmem gerekiyor,ödeme sorunu
+1424,Müşteri: lanet olası kabul edilen ödeme modalitelerini listelemek için yardım istiyorum,ödeme yöntemlerini kontrol edin
+1425,Müşteri: hangi ödeme ödeme yöntemlerinin mevcut olduğunu kontrol etmeye yardımcı olur,ödeme yöntemlerini kontrol edin
+1426,Müşteri: Biriyle nasıl sohbet edilir,İnsan Ajanı ile iletişime geçin
+1427,Müşteri: Siparişi iptal etmek mümkün mü 1135422617735602?,Siparişi iptal et
+1428,Müşteri: İşinize karşı bir açıklama yapabilir miyim?,şikayet
+1429,Müşteri: David Miller'dan fatura arayın,faturayı kontrol et
+1430,Müşteri: Anahtarımı geri yüklememe yardım eder misiniz?,Parolayı kurtar
+1431,Müşteri: Parselimin ne zaman geleceğini kontrol etmek için yardıma ihtiyacım var,teslim süresi
+1432,Müşteri: pro hesap oluşturma,hesap oluştur
+1433,Müşteri: Teslimat adresi nerede kurulur?,nakliye adresi kurmak
+1434,Müşteri: 160 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+1435,Müşteri: Kabul ödeme yöntemlerinizi kontrol etme yardımı,ödeme yöntemlerini kontrol edin
+1436,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi görmeliyim,geri ödeme politikasını kontrol edin
+1437,Müşteri: Çekilme cezalarını görmeme yardım et,İptal ücretini kontrol et
+1438,Müşteri: 00004587345 satın almanın ETA'sını görmeme yardımcı olabilir misiniz?,parça sırası
+1439,Müşteri: Kabul edilen paymnt seçeneklerini göster,ödeme yöntemlerini kontrol edin
+1440,"Müşteri: Teslimat adresim değişti, değiştirebilir misiniz?",nakliye adresini değiştirme
+1441,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol etmeliyim,geri ödeme politikasını kontrol edin
+1442,Müşteri: bir ürün için inceleme bırakılacak yer,incele
+1443,Müşteri: Platin hesabının silinmesiyle ilgili sorunlar,hesabı sil
+1444,Müşteri: erken çıkış cezası görmek için bana yardımcı olabilir,İptal ücretini kontrol et
+1445,Müşteri: Liverpool'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+1446,Müşteri: Bay Smith'ten faturalarımı indirmem gerekiyor nasıl yaparım,fatura al
+1447,"Müşteri: Kurumsal haber bültenine abone olmam gerekiyor, bana yardım edin",bülten aboneliği
+1448,Müşteri: Seattle'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+1449,Müşteri: Nakliye süresi hakkında bilgiye ihtiyacım var,teslim süresi
+1450,Müşteri: Standart hesabımı oluşturmada yardım,hesap oluştur
+1451,Müşteri: Kullanıcımın erişim anahtarını almaya çalışıyorum,Parolayı kurtar
+1452,Müşteri: Hangi ödeme yöntemlerini kabul ettiğinizi kontrol etmeye yardımcı olun,ödeme yöntemlerini kontrol edin
+1453,Müşteri: Müşteri sevgisine hangi saatlerde ulaşabileceğimi kontrol etmeme yardımcı olabilir misiniz?,müşteri hizmetleri ile iletişime geçin
+1454,Müşteri: Adres güncellemesi hakkında bilgi bulmaya çalışıyorum,nakliye adresini değiştirme
+1455,Müşteri: Bir öğeyi satın almak için ne yapmam gerektiğini bilmiyorum,yer sırası
+1456,Müşteri: İzin verilen ödeme seçeneklerini görmek için yardıma ihtiyacınız var,ödeme yöntemlerini kontrol edin
+1457,Müşteri: Siparişi kontrol et 00123842 Mevcut durum,parça sırası
+1458,Müşteri: eşi için yeni platin hesabı oluşturma,hesap oluştur
+1459,Müşteri: Para çekme cezasını kontrol edebilir miyim?,İptal ücretini kontrol et
+1460,Müşteri: Para iade politikanızı kontrol etmek için yardıma ihtiyacım var,geri ödeme politikasını kontrol edin
+1461,Müşteri: ur geri ödeme politikasını görmek için ne yapmam gerektiğini bilmiyorum,geri ödeme politikasını kontrol edin
+1462,Müşteri: ur kuruluşuna karşı tüketici şikayeti,şikayet
+1463,Müşteri: Kaydolma ile ilgili sorunları nasıl bildirebilirim?,Kayıt sorunları
+1464,Müşteri: Kaydolma ile ilgili sorunları bildirmek için ne yapmam gerekiyor?,Kayıt sorunları
+1465,Müşteri: Teslimat adresini nerede güncelleyebilirim?,nakliye adresini değiştirme
+1466,Müşteri: Faturayı indirmek için yardıma ihtiyacım var #12588,fatura al
+1467,Müşteri: siparişin ETA kontrol etmek için wanmt yardım 732201349959,parça sırası
+1468,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol etmeye yardımcı olun,geri ödeme politikasını kontrol edin
+1469,Müşteri: nereden satın almayı iptal edebilirim 370795561790,Siparişi iptal et
+1470,Müşteri: Yor şirketine karşı tüketici şikayetinde bulunmama yardım et,şikayet
+1471,"Müşteri: Adresi değiştirmem gerekiyor, bana yardım edin",nakliye adresini değiştirme
+1472,Müşteri: Yeni gönderim adresimi nasıl girebilirim?,nakliye adresi kurmak
+1473,"Müşteri: Bazı ürünler satın almak istiyorum, yardım alabilir miyim?",yer sırası
+1474,Müşteri: ur acceted ödeme modalitelerini listelemek için yardıma ihtiyacım var,ödeme yöntemlerini kontrol edin
+1475,Müşteri: iptal ücretini görmek için yardım isteyin,İptal ücretini kontrol et
+1476,Müşteri: ur hizmetleri hakkında bir inceleme yazmak için yardıma ihtiyacım var,incele
+1477,Müşteri: izleme satın alma 00123842,parça sırası
+1478,Müşteri: Gold hesabını sil,hesabı sil
+1479,Müşteri: Paramın bir tazminatını talep etmeme yardımcı olabilir misiniz?,geri ödeme alın
+1480,Müşteri: nakliye dönemleri hakkında ineed bilgi nasıl alabilirim,teslim süresi
+1481,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol etmeye çalışıyorum,geri ödeme politikasını kontrol edin
+1482,Müşteri: ücretsiz hesap hakkında doğru bilgi,Hesabı düzenle
+1483,"Müşteri: Kaydedilen hataları yaşıyorum, bana yardımcı olabilir misiniz?",Kayıt sorunları
+1484,"Müşteri: Nakliyenin ne kadar sürdüğünü görmek istiyorum, bana yardım edin",teslim süresi
+1485,Müşteri: Yeni premium hesap açmak,hesap oluştur
+1486,Müşteri: Bir insan ajana yardım talkign ihtiyacım var,İnsan Ajanı ile iletişime geçin
+1487,Müşteri: Ödeme ile ilgili hataları bildirmek için yardıma ihtiyaç duyar,ödeme sorunu
+1488,Müşteri: Bazı ur öğelerini satın almak için yardıma ihtiyacım var,yer sırası
+1489,Müşteri: Pro profilini kullanmama yardım edebilir misiniz?,hesabı değiştir
+1490,Müşteri: Bir ürünle ilgili geri bildirimimi sunmaya çalışıyorum,incele
+1491,Müşteri: Bayan Hawkings'in siktiğimin faturalarını bulmak için yardıma ihtiyacım var,faturayı kontrol et
+1492,"Müşteri: 299 dolar tazminat bekliyorum, işlem gördü mü?",parça geri ödeme
+1493,Müşteri: Lanet olası para iadesi için yardım istiyorum,geri ödeme alın
+1494,Müşteri: Satın almak istemiyorum 732201349959,Siparişi iptal et
+1495,"Müşteri: Müşteri hizmetlerini aramam gerekiyor, nasıl yapılır?",müşteri hizmetleri ile iletişime geçin
+1496,Müşteri: 1200 dolar tazminat bekliyorum,parça geri ödeme
+1497,Müşteri: Kabul edilen ödeme seçeneklerini görmek için ne yapmam gerekiyor?,ödeme yöntemlerini kontrol edin
+1498,Müşteri: 1499 $ geri ödeme bekliyorum,parça geri ödeme
+1499,Müşteri: Yeni teslimat adresimi göndermekte sorun yaşıyorum,nakliye adresi kurmak
+1500,Müşteri: Fatura #37777'yi bulmama yardım eder misiniz?,faturayı kontrol et
+1501,Müşteri: sipariş eta görmek için yardım 732201349959,parça sırası
+1502,Müşteri: Başka bir nakliye adresini nasıl girebilirim,nakliye adresi kurmak
+1503,Müşteri: 160 dolar tazminat bekliyorum,parça geri ödeme
+1504,Müşteri: Siparişi iptal etmek için yardıma ihtiyacım var 370795561790,Siparişi iptal et
+1505,Müşteri: Siparişten birkaç lanet makale çıkarabilir miyim 00004587345,sırayı değiştir
+1506,Müşteri: Standart hesap sonlandırmaları ile ilgili sorunlar,hesabı sil
+1507,Müşteri: ücretsiz hesaptaki verileri düzenleme,Hesabı düzenle
+1508,Müşteri: Faturamı Anna Freeman'dan indirmeye çalışıyorum,fatura al
+1509,Müşteri: Para çekme ücretlerini nasıl kontrol edebilirim?,İptal ücretini kontrol et
+1510,Müşteri: Siparişin ETA'sını görmem gerekiyor 732201349959 Yardıma ihtiyacım var,parça sırası
+1511,"Müşteri: Müşteri hizmetleriyle konuşmalıyım, bana yardım edin",müşteri hizmetleri ile iletişime geçin
+1512,Müşteri: Siparişe bir şey ekleyin,sırayı değiştir
+1513,Müşteri: Altın hesabımı kaldırmak mümkün mü?,hesabı sil
+1514,Müşteri: opena altın hesabı,hesap oluştur
+1515,Müşteri: Kurumsal bülteninize nasıl kaydolurum?,bülten aboneliği
+1516,Müşteri: Pro hesabındaki doğru bilgiler,Hesabı düzenle
+1517,Müşteri: yardım satın alma iptal 00123842,Siparişi iptal et
+1518,Müşteri: Herhangi bir erken çıkış ücreti var mı?,İptal ücretini kontrol et
+1519,Müşteri: Bay Smith'ten faturaları indirmek için yardım istiyorum,fatura al
+1520,Müşteri: profilimdeki bilgileri nasıl yapacağıma dair bilgi edinmem gerekiyor,Hesabı düzenle
+1521,Müşteri: Müşteri desteği ile nasıl iletişime geçebilirim?,müşteri hizmetleri ile iletişime geçin
+1522,Müşteri: 1200 dolarlık bir tazminat bekliyorum,parça geri ödeme
+1523,Müşteri: Standart hesaba nasıl değişebileceğimi bilmiyorum,hesabı değiştir
+1524,Müşteri: Müşteri hizmetleri ile konuşma asistini istiyorum,müşteri hizmetleri ile iletişime geçin
+1525,Müşteri: Faturayı nasıl bulurum bilmiyorum #85632,faturayı kontrol et
+1526,Müşteri: ur geri ödeme politikasını kontrol etmek istiyorum biraz yardım alabilir miyim,geri ödeme politikasını kontrol edin
+1527,Müşteri: Paketimi ne kadar sürede bekleyebileceğimi kontrol etmeme yardımcı olur musunuz?,teslim süresi
+1528,Müşteri: Kullanıcı pinimi kurtarmak mümkün mü,Parolayı kurtar
+1529,Müşteri: Hangi ödeme seçeneklerinin mevcut olduğunu görmek zorundayım,ödeme yöntemlerini kontrol edin
+1530,Müşteri: 350 $ iade bekliyorum,parça geri ödeme
+1531,Müşteri: Kayıtlarla ilgili bir sorunu nasıl bildireceğimi bilmiyorum,Kayıt sorunları
+1532,Müşteri: satın alma değişikliği 00123842,sırayı değiştir
+1533,Müşteri: 160 dolar tazminat bekliyorum,parça geri ödeme
+1534,Müşteri: siparişin durumunu kontrol etmek,parça sırası
+1535,"Müşteri: Lanet olası bir kullanıcı hesabım yok, bir tane oluşturmama yardım edin",hesap oluştur
+1536,Müşteri: Birkaç ur öğesini nasıl kazanabileceğimi bilmiyorum,yer sırası
+1537,Müşteri: Freemium hesabının değiştirilmesi,Hesabı düzenle
+1538,Müşteri: Erken fesih ücretini görmek için ne yapacağımı bilmiyorum,İptal ücretini kontrol et
+1539,Müşteri: 160 dolar tazminat bekliyorum,parça geri ödeme
+1540,Müşteri: Bir kayıtla hataları nasıl bildirebilirim bilmiyorum,Kayıt sorunları
+1541,Müşteri: Kayıp anahtar hakkında nasıl bilgi edinebilirim?,Parolayı kurtar
+1542,Müşteri: 299 dolarlık bir iade bekliyorum işlendi,parça geri ödeme
+1543,Müşteri: Adresimi nerede değiştirebilirim?,nakliye adresini değiştirme
+1544,Müşteri: Mevcut ödeme yöntemlerinizi görmek için yardıma ihtiyacım var,ödeme yöntemlerini kontrol edin
+1545,Müşteri: Nerede pro hesap oluşturmak için?,hesap oluştur
+1546,Müşteri: acn uhelp bana Anna Freeman'dan faturamı indirmek için,fatura al
+1547,Müşteri: Erken çıkış ücretini nasıl göreceğimi bilmiyorum,İptal ücretini kontrol et
+1548,Müşteri: Adresimi değiştirmeye çalışan bir sorun var,nakliye adresini değiştirme
+1549,Müşteri: Treh ödeme yöntemlerini görmeme yardımcı olabilir misiniz?,ödeme yöntemlerini kontrol edin
+1550,Müşteri: Ürününüzün bir kısmını satın almama yardımcı olabilir misiniz?,yer sırası
+1551,Müşteri: Ben assikstance bir ajan ile konuşmak istiyorum,İnsan Ajanı ile iletişime geçin
+1552,Müşteri: Online ödemelerle ilgili sorunları çözmek için yardım istiyorum,ödeme sorunu
+1553,Müşteri: takip siparişi 370795561790,parça sırası
+1554,Müşteri: 1135422617735602 satın alma yerini bulmak mümkün olacak mı?,parça sırası
+1555,Müşteri: Düzenle info o freemium account,Hesabı düzenle
+1556,Müşteri: Faturamı Bayan Hawkings'ten nasıl alacağımı bilmiyorum,fatura al
+1557,Müşteri: ikincil teslimat adresimi göndermek için yardım isteyin,nakliye adresi kurmak
+1558,Müşteri: Kayıt hatasını bildirmek için ne yapmam gerekiyor?,Kayıt sorunları
+1559,Müşteri: Premium hesap açma ile ilgili sorunlar,hesap oluştur
+1560,Müşteri: Nişanlım için altın bir hesap aç,hesap oluştur
+1561,"Müşteri: 350 dolar geri ödeme bekliyorum, işlem gördü mü?",parça geri ödeme
+1562,"Müşteri: Makalemin ne zaman geleceğini, nasıl yapacağımı kontrol etmem gerekiyor.",teslim süresi
+1563,Müşteri: Bir kayıt hatasından haberdar etmeye çalışıyorum,Kayıt sorunları
+1564,Müşteri: 00004587345 satın alma lanet bir ürün takas nasıl,sırayı değiştir
+1565,Müşteri: Premium hesabı kapatmak için ne yapmam gerekiyor?,hesabı sil
+1566,Müşteri: Bülteninize aboneliğimi iptal etmek için yardım isteyin,bülten aboneliği
+1567,Müşteri: satın alma iptali ile ilgili sorunlar 370795561790,Siparişi iptal et
+1568,Müşteri: Oredr 00123842 durumunu görmem gerekiyor yardıma ihtiyacım var,parça sırası
+1569,Müşteri: Faturayı indirmek için ne yapmam gerektiğini bilmiyorum #37777,fatura al
+1570,Müşteri: Gold hesabındaki ayrıntıları tarayarak,Hesabı düzenle
+1571,Müşteri: Fesih ücretini kontrol etmek için ne yapmam gerektiğini bilmiyorum,İptal ücretini kontrol et
+1572,"Müşteri: Ürünü ne kadar sürede bekleyebileceğimi kontrol etmem gerekiyor, bana yardım edin",teslim süresi
+1573,Müşteri: Müşteri yardımını ne zaman çağırabileceğimi gösterin,müşteri hizmetleri ile iletişime geçin
+1574,Müşteri: Pro hesabımı iptal etmek için ne yapacağımı bilmiyorum,hesabı sil
+1575,Müşteri: Kuruluşunuza karşı bir müşteri iddiasını nasıl dosyalarım?,şikayet
+1576,Müşteri: Nasıl dosya talep edebilirim?,şikayet
+1577,Müşteri: Siparişin ETA'sını görmek için yardıma ihtiyacım var 00004587345,parça sırası
+1578,Müşteri: Erken sonlandırma cezasını nasıl kontrol edebilirim?,İptal ücretini kontrol et
+1579,Müşteri: Ödemelerle ilgili bir sorunu bildirmek zorundayım,ödeme sorunu
+1580,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol edin,geri ödeme politikasını kontrol edin
+1581,Müşteri: Talepte bulunmak için yardıma ihtiyacım var,şikayet
+1582,Müşteri: Bay Jones'tan fatura almak,fatura al
+1583,"Müşteri: Faturaları Bayan Hawkings'ten almam gerek, bana yardım et",fatura al
+1584,Müşteri: 299 dolarlık lanet bir indirim bekliyorum,parça geri ödeme
+1585,Müşteri: 299 dolarlık bir indirim bekliyorum,parça geri ödeme
+1586,Müşteri: faturayı kontrol et,faturayı kontrol et
+1587,Müşteri: 1200 dolar geri ödeme,geri ödeme alın
+1588,Müşteri: Ücretsiz hesaba geçiş,hesabı değiştir
+1589,Müşteri: Sevkiyatımın ne zaman geleceğini nasıl kontrol edeceğim?,teslim süresi
+1590,Müşteri: Son satın alma işleminden fatura alın,fatura al
+1591,Müşteri: Teslimat poeriod hakkında bilmek istiyorum,teslim süresi
+1592,Müşteri: ürünleriniz için bazı geri bildirimler göndermeme yardımcı olun,incele
+1593,Müşteri: fesih cezalarını kontrol etme,İptal ücretini kontrol et
+1594,Müşteri: Bültene abone olmaya çalışıyorum,bülten aboneliği
+1595,Müşteri: öğe satın almak,yer sırası
+1596,Müşteri: $160 indirim,geri ödeme alın
+1597,Müşteri: Nakliye yöntemlerini kontrol etmem gerekiyor,teslimat seçenekleri
+1598,Müşteri: şirket bültenine aboneliğimi iptal etmeme yardım et,bülten aboneliği
+1599,Müşteri: hesabımın şifresini nerede geri yükleyebilirim,Parolayı kurtar
+1600,Müşteri: Anna Freeman'dan fatura alın,fatura al
+1601,Müşteri: Japonya'ya udeliver yapın,teslimat seçenekleri
+1602,Müşteri: Başka bir teslimat adresi ayarlamam gerekiyor,nakliye adresi kurmak
+1603,Müşteri: satın alma bazı öğeleri değiştirmek için yardım 00123842,sırayı değiştir
+1604,Müşteri: faturamı aramak için yardım istiyorum #37777,faturayı kontrol et
+1605,Müşteri: Kayıt sorunlarını bildirmek için yardım istiyorum,Kayıt sorunları
+1606,Müşteri: Kayıtlarla ilgili bir sorunu bildiremem,Kayıt sorunları
+1607,Müşteri: 160 dolarlık bir indirim bekliyorum,parça geri ödeme
+1608,Müşteri: faturamı bulmak için yardım istiyorum frm Mr. Jones,faturayı kontrol et
+1609,Müşteri: Kaydolmam için desteğe ihtiyacım var,Kayıt sorunları
+1610,Müşteri: Siparişin durumunu görmeme yardım edin 732201349959,parça sırası
+1611,Müşteri: Şirketinize karşı bir açıklama yapmak için arıyorum,şikayet
+1612,"Müşteri: Bir kullanıcı oluşturamıyorum, oturum açma sorunlarını bildirmeme yardımcı olabilir",Kayıt sorunları
+1613,Müşteri: 1135422617735602 satın alma iptali ile ilgili yardım,Siparişi iptal et
+1614,Müşteri: ur kuruluşuna karşı bir müşteri iddiasında bulunmak için yardım istemek,şikayet
+1615,Müşteri: Sevkiyatımı ne kadar sürede bekleyebileceğimi bilmiyorum,teslim süresi
+1616,Müşteri: Faturayı almak için ne yapmam gerektiğini bilmiyorum #85632,fatura al
+1617,Müşteri: Bir sorunu kayıtla nasıl bildireceğimi bilmiyorum,Kayıt sorunları
+1618,Müşteri: kayıt,hesap oluştur
+1619,Müşteri: Birisiyle iletişime geçmek için yardım,İnsan Ajanı ile iletişime geçin
+1620,Müşteri: Siparişte bir ürünü kaçırdım 370795561790,sırayı değiştir
+1621,Müşteri: 299 $ geri ödeme bekliyorum,parça geri ödeme
+1622,Müşteri: PIN kodumu geri almak için yardım,Parolayı kurtar
+1623,Müşteri: Para iadelerini nasıl talep ederim,geri ödeme alın
+1624,Müşteri: Bir asistanla sohbet etmek mümkün mü?,İnsan Ajanı ile iletişime geçin
+1625,Müşteri: standart hesaptaki verileri değiştirme,Hesabı düzenle
+1626,Müşteri: Ödeme ile ilgili sorunları raporlamak,ödeme sorunu
+1627,Müşteri: 1499 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+1628,Müşteri: Paramın iadesini nasıl isteyebilirim?,geri ödeme alın
+1629,Müşteri: Hizmetleriniz için fikir bırakmak için yardıma ihtiyacınız var,incele
+1630,Müşteri: Kurumsal bülteninize aboneliğinizi iptal etmek için yardıma ihtiyacınız var,bülten aboneliği
+1631,Müşteri: Lanet olası ödeme yöntemlerinizi nerede görüyorum?,ödeme yöntemlerini kontrol edin
+1632,Müşteri: ur şirketine karşı bir müşteri talebinde bulunmanız gerekir,şikayet
+1633,Müşteri: Yeni bir gönderim adresi girmeme yardım edebilir misiniz?,nakliye adresi kurmak
+1634,Müşteri: 1200 dolar iade bekliyorum,parça geri ödeme
+1635,Müşteri: Kaydolma ile ilgili bir sorunum var,Kayıt sorunları
+1636,Müşteri: Erken çıkış ücretlerini kontrol etmeme yardımcı olun,İptal ücretini kontrol et
+1637,Müşteri: Pro hesabına geçmem gerekiyor,hesabı değiştir
+1638,Müşteri: Para iade politikanızı görmek istiyorum,geri ödeme politikasını kontrol edin
+1639,Müşteri: İptal cezası nedir,İptal ücretini kontrol et
+1640,Müşteri: Anna Freeman'dan faturayı kontrol etmeme yardım eder misiniz?,faturayı kontrol et
+1641,Müşteri: Kullanıcı profili şifremi nasıl geri yüklerim?,Parolayı kurtar
+1642,"Müşteri: Son teslimatımı takip etmek istiyorum, nasıl yapacağım?",parça sırası
+1643,Müşteri: yeni bir teslimat adresi göndermek için yardım,nakliye adresi kurmak
+1644,Müşteri: faturaya hızlı bir bakış atmama yardımcı olabilir #12588,faturayı kontrol et
+1645,"Müşteri: Nakliyenin ne kadar sürdüğünü görmek zorundayım, nasıl yapacağım?",teslim süresi
+1646,Müşteri: Freemium hesabındaki verileri düzenle,Hesabı düzenle
+1647,Müşteri: Ücretsiz hesaptaki ayrıntıları değiştirmek,Hesabı düzenle
+1648,Müşteri: 00004587345 sipariş etmek için bir makale eklemem gerekiyor,sırayı değiştir
+1649,"Müşteri: Freemium hesabımı kullanmıyorum, kapatmak için yardım istiyorum",hesabı sil
+1650,Müşteri: Kayıp PIN kodu ile ilgili sorun,Parolayı kurtar
+1651,Müşteri: Ödemelerle ilgili bir hatayı çözmek için yardıma ihtiyacım var,ödeme sorunu
+1652,Müşteri: 732201349959 satın alma iptali ile ilgili bir sorun var,Siparişi iptal et
+1653,Müşteri: sipariş kontrol 732201349959 durumu,parça sırası
+1654,Müşteri: Online ödeme ile ilgili sorunları nasıl bildirebilirim?,ödeme sorunu
+1655,Müşteri: Geçen ayki faturaları kontrol etmek,faturayı kontrol et
+1656,Müşteri: ikincil gönderim adresimi nasıl girebilirim,nakliye adresi kurmak
+1657,Müşteri: Birkaç ur ürününü nasıl satın alabilirim?,yer sırası
+1658,Müşteri: Bir kayıt sorununu bildireceğim bir hesap açamıyorum,Kayıt sorunları
+1659,Müşteri: Yeni ücretsiz hesap oluştur,hesap oluştur
+1660,Müşteri: faturayı kontrol et #85632,faturayı kontrol et
+1661,Müşteri: Müşteri hizmetleri ile iletişim kurmaya çalışıyorum,müşteri hizmetleri ile iletişime geçin
+1662,"Müşteri: Hangi sevkıyat yöntemlerinin mevcut olduğunu görmem gerekiyor, bana yardım edin",teslimat seçenekleri
+1663,Müşteri: Bir kayıt sorununun nerede bildirileceği,Kayıt sorunları
+1664,Müşteri: Siparişi iptal etmekle ilgili bir sorum var 00004587345,Siparişi iptal et
+1665,Müşteri: Freemium acount güncelleniyor,Hesabı düzenle
+1666,Müşteri: Siparişi nasıl iptal edebilirim bilmiyorum 00123842,Siparişi iptal et
+1667,Müşteri: Bir kayıtla ilgili sorunları bildirmek için yardım istiyorum,Kayıt sorunları
+1668,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol etmem gerekiyor,geri ödeme politikasını kontrol edin
+1669,Müşteri: satın alma 370795561790 düzenlemek istiyorum,sırayı değiştir
+1670,Müşteri: Paketimi ne kadar sürede bekleyebileceğimi kontrol etmek istiyorum,teslim süresi
+1671,Müşteri: kayıt sorunları nasıl bildirilir,Kayıt sorunları
+1672,Müşteri: Yanlış bir teslimat adresi gönderdim,nakliye adresini değiştirme
+1673,Müşteri: 1499 $ indirim,geri ödeme alın
+1674,Müşteri: Faturamı nasıl aradığımı bilmiyorum #85632,faturayı kontrol et
+1675,Müşteri: Siparişi iptal etmek için yardım 00123842,Siparişi iptal et
+1676,Müşteri: Siparişin ETA'sını nasıl görebilirim bilmiyorum 00123842,parça sırası
+1677,Müşteri: Freemium hesabındaki verileri değiştirme,Hesabı düzenle
+1678,Müşteri: Ben satın alma bir şey değiştirmeye çalışın 370795561790,sırayı değiştir
+1679,"Müşteri: Kullanıcı açamıyorum, kayıt hatalarını nasıl bildirebilirim?",Kayıt sorunları
+1680,Müşteri: şirket bülteni aboneliği,bülten aboneliği
+1681,Müşteri: Para iade garantisi görmek için ne yapacağımı bilmiyorum,geri ödeme politikasını kontrol edin
+1682,Müşteri: Canlı bir ajanla sohbet etmeme yardımcı olabilir misiniz?,İnsan Ajanı ile iletişime geçin
+1683,"Müşteri: 00123842 satın alma işleminde bazı öğeleri kaçırdım, bunları ekleyebilir miyim?",sırayı değiştir
+1684,Müşteri: Para iadesi alın,geri ödeme alın
+1685,"Müşteri: Yardımcı değilsiniz, bir operatörle konuşmak için yardım istiyorum",İnsan Ajanı ile iletişime geçin
+1686,Müşteri: Profilimin PIN'ini almak için ne yapacağımı bilmiyorum,Parolayı kurtar
+1687,Müşteri: Pro hesabımı silmek için yardım istiyorum,hesabı sil
+1688,Müşteri: Yardım istiyorum chdcking faturası #001008,faturayı kontrol et
+1689,Müşteri: Faturalarımı Bayan Hawkings'ten almak için yardım istiyorum,fatura al
+1690,Müşteri: Müşteri yardımını ne zaman arayabileceğimi görebilir miyim?,müşteri hizmetleri ile iletişime geçin
+1691,Müşteri: Detroit'ten sipariş vermek mümkün mü?,teslimat seçenekleri
+1692,Müşteri: nakliye adresimi yükseltmeme yardım edin,nakliye adresini değiştirme
+1693,Müşteri: ut şirket bültenine abone olun,bülten aboneliği
+1694,Müşteri: Müşteri hizmetleri ile konuşmama yardım edin,müşteri hizmetleri ile iletişime geçin
+1695,Müşteri: Gold hesabındaki ayrıntıları değiştirmek,Hesabı düzenle
+1696,Müşteri: Kaydolma ile ilgili bir hatayı bildirmeme yardımcı olabilir misiniz?,Kayıt sorunları
+1697,Müşteri: 00123842 satın almanın ETA'sını nasıl kontrol edebilirim?,parça sırası
+1698,Müşteri: Kabul edilen ödeme seçeneklerini listeleyen yardım istemek,ödeme yöntemlerini kontrol edin
+1699,Müşteri: i nede help to add some items to order 370795561790,sırayı değiştir
+1700,Müşteri: Sevkiyat adresini düzenlemek için destek istiyorum,nakliye adresini değiştirme
+1701,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi kontrol etmek için yardım,geri ödeme politikasını kontrol edin
+1702,"Müşteri: Kartım reddedildi, ödeme ile ilgili sorunları nasıl bildirebilirim?",ödeme sorunu
+1703,Müşteri: Ücretsiz profili kullanmak için ne yapmam gerekiyor?,hesabı değiştir
+1704,Müşteri: Liverpool'a teslim ediyor musunuz?,teslimat seçenekleri
+1705,Müşteri: 350 dolar tazminat bekliyorum,parça geri ödeme
+1706,Müşteri: ur şirketine geri bildirim göndermek için bir bölümdür,incele
+1707,Müşteri: İkincil bir teslimat adresi ayarlama hatalarım var,nakliye adresi kurmak
+1708,Müşteri: Siktiğimin para indirimlerini almak için yardım istiyorum,geri ödeme alın
+1709,Müşteri: Ödeme yöntemlerinizi nasıl görebilirim?,ödeme yöntemlerini kontrol edin
+1710,Müşteri: Satın alma işlemini iptal etmek için yardıma ihtiyacım var 732201349959,Siparişi iptal et
+1711,Müşteri: Tazminatımı ne zaman alıyorum?,geri ödeme alın
+1712,Müşteri: sipariş durumunu kontrol 370795561790,parça sırası
+1713,Müşteri: ur iş karşı müşteri iddia yapmak,şikayet
+1714,Müşteri: Siparişi göremiyorum 00123842 Mevcut durum,parça sırası
+1715,Müşteri: Faturayı nasıl alabilirim bilmiyorum #001008,fatura al
+1716,Müşteri: Bir müşteri ıslahı yapmak için ne yapmam gerektiğini bilmiyorum,şikayet
+1717,Müşteri: ur kullanılabilir ödeme modalitelerini görmek için yardım istiyorum,ödeme yöntemlerini kontrol edin
+1718,Müşteri: Paramın tazminatını nasıl talep edeceğimi bilmiyorum,geri ödeme alın
+1719,Müşteri: ur ürünleri hakkında bir inceleme yazmak için yardım istemek,incele
+1720,Müşteri: İzin verilen ödeme yöntemlerini listelememe yardımcı olabilir misiniz?,ödeme yöntemlerini kontrol edin
+1721,Müşteri: sipariş değiştirme 00123842,sırayı değiştir
+1722,"Müşteri: Bazı makaleler aldım, siparişi iptal et 370795561790",Siparişi iptal et
+1723,Müşteri: Nakliye süresi hakkında bilgi arıyorum,teslim süresi
+1724,Müşteri: Hesap pin kodumu kurtarmak için ne yapacağımı bilmiyorum,Parolayı kurtar
+1725,"Müşteri: Profesyonel hesaba geçmek istiyorum, yardıma ihtiyacım var",hesabı değiştir
+1726,Müşteri: Lanet ücretsiz hesabı nasıl sileceğimi bilmiyorum,hesabı sil
+1727,Müşteri: 370795561790 satın alma konusunda yardım istiyorum,parça sırası
+1728,Müşteri: 00004587345 satın almayı iptal etmeme yardımcı olabilir misiniz?,Siparişi iptal et
+1729,"Müşteri: Paramın iadesini almak istiyorum, yardıma ihtiyacım var",geri ödeme alın
+1730,Müşteri: Ürününüzün birkaç tanesini satın almak istiyorum,yer sırası
+1731,"Müşteri: 299 dolarlık bir tazminat bekliyorum, zaten işlendi",parça geri ödeme
+1732,Müşteri: pwd'mi geri almak istiyorum,Parolayı kurtar
+1733,Müşteri: Meksika'ya gönderiyor musunuz?,teslimat seçenekleri
+1734,Müşteri: Mr. Smith'ten faturaya bakın,faturayı kontrol et
+1735,Müşteri: 160 dolar iade bekliyorum,parça geri ödeme
+1736,"Müşteri: Bu ürün için 1499 dolar ödedim, tazminat almaya yardımcı oldu",geri ödeme alın
+1737,Müşteri: on ay öncesinden fatura alın,fatura al
+1738,Müşteri: kullanıcı parolamı kurtarma yardımı,Parolayı kurtar
+1739,"Müşteri: 1499 dolarlık bir geri ödeme bekliyorum, işlem yapıldı mı?",parça geri ödeme
+1740,Müşteri: Geri ödememde herhangi bir haber olup olmadığını görmek için yardıma ihtiyacım var,parça geri ödeme
+1741,Müşteri: ur ürünleri için yorum yazmak,incele
+1742,Müşteri: 1135422617735602 satın almak için bazı öğeleri eklemek için yardım,sırayı değiştir
+1743,Müşteri: freemium hesabının kaldırılması,hesabı sil
+1744,Müşteri: Müşteri yardımına ne zaman ulaşabileceğimi görün,müşteri hizmetleri ile iletişime geçin
+1745,Müşteri: Valencia'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+1746,Müşteri: Premium hesaptaki bilgileri düzenleyin,Hesabı düzenle
+1747,Müşteri: Anna Freeman'dan faturaları kontrol edin,faturayı kontrol et
+1748,Müşteri: Bir ürün hakkında bir yorum bırakmak istiyorum nasıl yapabilirim,incele
+1749,Müşteri: Macaristan'a teslim ediyor musunuz?,teslimat seçenekleri
+1750,Müşteri: Geri ödeme almak zorundayım,geri ödeme alın
+1751,Müşteri: Freemium hesabı silme,hesabı sil
+1752,Müşteri: 370795561790 satın almak için bir şey eklememe yardımcı olabilir misiniz?,sırayı değiştir
+1753,Müşteri: Platin hesabı kullanmak,hesabı değiştir
+1754,"Müşteri: Paramın geri ödenmesini istiyorum, bana yardım edebilir misiniz?",geri ödeme alın
+1755,Müşteri: Bana m bülten aboneliğinin durumunu gösterebilir misiniz?,bülten aboneliği
+1756,Müşteri: Seattle'dan sipariş vermek mümkün mü?,teslimat seçenekleri
+1757,Müşteri: Bazı lanet geri bildirim göndermek için ne yapmam gerektiğini bilmiyorum,incele
+1758,Müşteri: Teslimat adresini ayarlamak için yardıma ihtiyacım var,nakliye adresi kurmak
+1759,Müşteri: Müşteri hizmetlerine ne zaman ulaşabileceğimi görmek için bana yardım edin,müşteri hizmetleri ile iletişime geçin
+1760,Müşteri: Para çekme ücretini kontrol edebilir miyim?,İptal ücretini kontrol et
+1761,Müşteri: Bir ürün için geri bildirimimi bırakmak için yardıma ihtiyacım var,incele
+1762,Müşteri: satın alma 732201349959 durumuna bakın,parça sırası
+1763,Müşteri: kurumsal haber bültenine abone olmamaya yardımcı olun,bülten aboneliği
+1764,Müşteri: 8 ay önce fatura almak,fatura al
+1765,Müşteri: bir ödeme hatasının bildirilmesine yardımcı olmak,ödeme sorunu
+1766,Müşteri: Bay Jones'tan faturaları alın,fatura al
+1767,Müşteri: 160 dolarlık bir indirim bekliyorum,parça geri ödeme
+1768,Müşteri: pro hesabı düzenleme,Hesabı düzenle
+1769,Müşteri: Biriyle nasıl sohbet edilir?,İnsan Ajanı ile iletişime geçin
+1770,Müşteri: Ücretsiz profili kullanmak mümkün mü?,hesabı değiştir
+1771,Müşteri: nakliye adresini nasıl değiştiririm,nakliye adresini değiştirme
+1772,Müşteri: Erken fesih cezasını görmeye çalışıyorum,İptal ücretini kontrol et
+1773,Müşteri: satın alma iptal 00004587345,Siparişi iptal et
+1774,Müşteri: Başka bir teslimat adresi kurmakta sorun yaşıyorum,nakliye adresi kurmak
+1775,Müşteri: Geminin ne kadar sürdüğünü kontrol etmeye çalışıyorum,teslim süresi
+1776,Müşteri: Pament modalitelerini nasıl listelerim,ödeme yöntemlerini kontrol edin
+1777,Müşteri: Bazı makaleleri satın almak için yardıma ihtiyaç var,yer sırası
+1778,Müşteri: Ücretsiz hesabımın iptali hakkında bir sorunuz varsa,hesabı sil
+1779,Müşteri: Platin hesabındaki verileri düzenle,Hesabı düzenle
+1780,"Müşteri: Nakliye yöntemlerini görmek istiyorum, bana yardımcı olabilir misiniz?",teslimat seçenekleri
+1781,Müşteri: Para iadesi almak istiyorum,geri ödeme alın
+1782,Müşteri: kayıt ile bir hata bildirmek mümkün mü,Kayıt sorunları
+1783,Müşteri: Platin hesabı silmek için ne yapmam gerekiyor,hesabı sil
+1784,Müşteri: satın alma iptal hakkında soru 732201349959,Siparişi iptal et
+1785,Müşteri: Macaristan'dan sipariş verebilir miyim,teslimat seçenekleri
+1786,Müşteri: Hesabımı geri yüklememe yardımcı olabilir misiniz?,Parolayı kurtar
+1787,Müşteri: Bir iddiada bulunmaya çalışıyorum,şikayet
+1788,Müşteri: Bazı satın alma ürünlerini değiştiremiyorum 00004587345,sırayı değiştir
+1789,Müşteri: faturayı bulmak için yardım #85632,faturayı kontrol et
+1790,Müşteri: Philadelphia'ya gönderiyor musunuz?,teslimat seçenekleri
+1791,Müşteri: 1499 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+1792,Müşteri: Yeni gönderim adresimi göndermekte sorun yaşıyorum,nakliye adresi kurmak
+1793,Müşteri: ürünleriniz için bir inceleme yazma konusunda yardıma ihtiyacınız var,incele
+1794,Müşteri: hesap erişim anahtarımı geri almama yardım et,Parolayı kurtar
+1795,Müşteri: müşteri desteğinin hangi saatlerde kullanılabilir olduğunu görmek istiyorum bana yardım edin,müşteri hizmetleri ile iletişime geçin
+1796,Müşteri: Satın alma işlemini iptal etmem gerekiyor 1135422617735602,Siparişi iptal et
+1797,Müşteri: Platin hesabı kaldırma hakkında nasıl bilgi edinebilirim?,hesabı sil
+1798,Müşteri: Bayan Hawkings'ten faturayı aramak için yardım,faturayı kontrol et
+1799,Müşteri: Kabul edilen ödeme seçeneklerini görmek için yardım,ödeme yöntemlerini kontrol edin
+1800,Müşteri: fesih ücretini kontrol etmek gerekir,İptal ücretini kontrol et
+1801,"Müşteri: Nişanlım için freemium hesabı istiyorum, nasıl açabilirim?",hesap oluştur
+1802,Müşteri: Müşteri şikayetinde bulunmam gerekiyor,şikayet
+1803,Müşteri: Ürünleriniz için bir inceleme bırakmak için yardıma ihtiyacım var,incele
+1804,Müşteri: Lanet para çekme ücretlerini nasıl görebilirim?,İptal ücretini kontrol et
+1805,Müşteri: myh satın almayı ne kadar sürede bekleyebileceğimi görmeme yardımcı olun,teslim süresi
+1806,Müşteri: Bir ürün için bazı geri bildirimler bırakmak için yardıma ihtiyacım var,incele
+1807,Müşteri: ur organizasyonuna karşı bir reclaimation konaklama yardıma ihtiyacım var,şikayet
+1808,Müşteri: Bir operatörle konuşmaya çalışıyorum,İnsan Ajanı ile iletişime geçin
+1809,Müşteri: Hangi teslimat yöntemlerini sunduğunuzu görmek için yardım istiyorum,teslimat seçenekleri
+1810,Müşteri: Ödemelerle ilgili bir sorunu bildirmek için yardıma ihtiyaç var,ödeme sorunu
+1811,Müşteri: 299 dolarlık bir indirim bekliyorum,parça geri ödeme
+1812,Müşteri: Adresi değiştirme hakkında nasıl bilgi edinebilirim?,nakliye adresini değiştirme
+1813,Müşteri: öğemin ne kadar sürede geldiğini kontrol etmeme yardımcı olun,teslim süresi
+1814,Müşteri: Ödemelerle ilgili bir sorunun bildirilmesini istiyorum,ödeme sorunu
+1815,Müşteri: Faturayı kontrol etmek için ne yapmam gerektiğini bilmiyorum #37777,faturayı kontrol et
+1816,Müşteri: Nakliye dönemlerini bulmaya çalışıyorum,teslim süresi
+1817,Müşteri: #85632 faturasını nereden indirebilirim?,fatura al
+1818,Müşteri: Gold hesabındaki doğru bilgiler,Hesabı düzenle
+1819,Müşteri: Kayıtlarla ilgili sorunlar hakkında bilgi veremem,Kayıt sorunları
+1820,Müşteri: Premium hesabı kullan,hesabı değiştir
+1821,Müşteri: 1200 dolarlık bir restituton bekliyorum,parça geri ödeme
+1822,Müşteri: Kayıtla ilgili bir sorunu bildirmek istiyorum,Kayıt sorunları
+1823,Müşteri: teslimat adresini ayarlayan hatalar,nakliye adresi kurmak
+1824,Müşteri: Hangi durumlarda geri ödeme talep edebileceğimi bana gösterebilir misiniz?,geri ödeme politikasını kontrol edin
+1825,Müşteri: Öğenizden birkaçını kazanmak için ne yapmam gerektiğini bilmiyorum,yer sırası
+1826,Müşteri: Yanlış bir teslimat adresi seçtim,nakliye adresini değiştirme
+1827,Müşteri: Lanet olası hataları çevrimiçi ödeme ile bildirmeye çalışıyorum,ödeme sorunu
+1828,Müşteri: Online ödeme ile ilgili bir sorunu bildirmek için yardıma ihtiyacım var,ödeme sorunu
+1829,Müşteri: Teslimat adresini düzeltmek için ne yapacağımı bilmiyorum,nakliye adresini değiştirme
+1830,Müşteri: Fatura #85632 hızlı bir bakış veren yardım istiyorum,faturayı kontrol et
+1831,Müşteri: Standart bir hesap kaldırma hakkında nasıl bilgi edinebilirim?,hesabı sil
+1832,Müşteri: Platin hesabı silme hakkında bilgiye ihtiyacım var,hesabı sil
+1833,Müşteri: 160 dolarlık bir geri ödeme bekliyorum,parça geri ödeme
+1834,Müşteri: geri ödeme talep eden yardıma ihtiyaç var,geri ödeme alın
+1835,Müşteri: iletişim aracısı,İnsan Ajanı ile iletişime geçin
+1836,Müşteri: Ödeme seçeneklerini nasıl kontrol edebilirim?,ödeme yöntemlerini kontrol edin
+1837,Müşteri: Siparişe öğe ekle 732201349959,sırayı değiştir
+1838,Müşteri: Şirketinize karşı bir müşteri beyanında bulunmam gerekiyor,şikayet
+1839,Müşteri: Hangi durumlarda iade edilmeyi isteyebileceğimi görmeme yardımcı olun,geri ödeme politikasını kontrol edin
+1840,Müşteri: Erken çıkış cezasının nasıl yapılacağını görmeliyim,İptal ücretini kontrol et
+1841,Müşteri: do udeliver to Dublin,teslimat seçenekleri
+1842,Müşteri: Bir hizmet için bazı geri bildirimler göndermeye çalışıyorum,incele
+1843,Müşteri: ödeme ile ilgili yardım,ödeme sorunu
+1844,"Müşteri: Hesap şifremi unuttum, geri yüklememe yardım eder misiniz?",Parolayı kurtar
+1845,Müşteri: Canlı bir ajanla konuşmak için ne yapmam gerektiğini bilmiyorum,İnsan Ajanı ile iletişime geçin
+1846,"Müşteri: Müşteri desteği ile iletişime geçmek istiyorum, bana yardım eder misiniz?",müşteri hizmetleri ile iletişime geçin
+1847,Müşteri: Hangi şartlar altında lanet bir geri ödeme isteyebilirim?,geri ödeme politikasını kontrol edin
+1848,Müşteri: Para çekme ücretini nasıl kontrol edebilirim bilmiyorum,İptal ücretini kontrol et
+1849,Müşteri: Ödeme yöntemlerinizi görmek için yardım istiyorum,ödeme yöntemlerini kontrol edin
+1850,Müşteri: Dublin'e teslim ediyor musunuz?,teslimat seçenekleri
+1851,Müşteri: parselim için teslim süresi nedir,teslim süresi
+1852,Müşteri: Hizmetleriniz için geri bildirim göndermek mümkün mü?,incele
+1853,Müşteri: Earl çıkış ücretlerini nasıl kontrol ederim?,İptal ücretini kontrol et
+1854,Müşteri: Profil şifremi geri yüklemek için yardıma ihtiyacım var,Parolayı kurtar
+1855,Müşteri: Yardım istiyorum acquirin birkaç ur öğe,yer sırası
+1856,Müşteri: ur hizmetleri için bazı geri bildirimler bırakmak için bir yönteminiz var,incele
+1857,Müşteri: Bay Smith'ten faturamı alabilir miyim?,fatura al
+1858,Müşteri: para çekme ücretini kontrol etmeme yardım et,İptal ücretini kontrol et
+1859,Müşteri: Kızım için Premium hesap açmak için yardım istiyorum,hesap oluştur
+1860,Müşteri: PIN kodu sıfırlamam hakkında bilgi verebilir misiniz?,Parolayı kurtar
+1861,"Müşteri: Erken sonlandırma ücretlerini görmek istiyorum, nasıl yapılır?",İptal ücretini kontrol et
+1862,Müşteri: Kayıtlarla ilgili hataları bildirmek istiyorum bana yardım edin,Kayıt sorunları
+1863,Müşteri: Premium hesaptaki bilgileri değiştir,Hesabı düzenle
+1864,Müşteri: Satın alınan bazı ürünleri değiştiremiyorum 00004587345,sırayı değiştir
+1865,Müşteri: Freemium hesabındaki verileri düzenle,Hesabı düzenle
+1866,Müşteri: Premium hesabı silmek için ne yapmam gerektiğini bilmiyorum,hesabı sil
+1867,Müşteri: hangi durumlarda geri ödeme isteyebilirim,geri ödeme politikasını kontrol edin
+1868,Müşteri: Müşteri desteğine hangi saatlerde ulaşabileceğimi görmek istiyorum,müşteri hizmetleri ile iletişime geçin
+1869,Müşteri: Ödeme modalitelerini listelemeye çalışıyorum,ödeme yöntemlerini kontrol edin
+1870,Müşteri: Kanlı ödeme seçeneklerini listelemek için yardıma ihtiyacım var,ödeme yöntemlerini kontrol edin
+1871,Müşteri: ur hizmetleri için bazı geri bildirimler göndermek için arıyorum,incele
+1872,Müşteri: Bazı makaleleri satın almak için yardım isteyin,yer sırası
+1873,Müşteri: Bayan Hawkings'in faturalarını bulmak için yardıma ihtiyacım var,faturayı kontrol et
+1874,Müşteri: Bir insan ajanla konuşmak için yardıma ihtiyacım var,İnsan Ajanı ile iletişime geçin
+1875,Müşteri: bir ödeme hatasından haberdar etmek için yardım,ödeme sorunu
+1876,Müşteri: Faturamı nasıl indireceğimi bilmiyorum #001008,fatura al
+1877,Müşteri: Paranın geri ödemesini nasıl alabilirim?,geri ödeme alın
+1878,Müşteri: Siparişi nerede görebilirim 370795561790 cari durum,parça sırası
+1879,Müşteri: ur şirket bülteni aboneliğinden çıkmam gerekiyor bana yardım edin,bülten aboneliği
+1880,Müşteri: 37777 numaralı faturaya hızlıca bakmama yardım eder misiniz?,faturayı kontrol et
+1881,Müşteri: bir hizmet hakkında bir incelemeyi nerede bırakabilirim?,incele
+1882,Müşteri: Platin sayımına nasıl geçilir?,hesabı değiştir
+1883,Müşteri: Fesih ücretlerini görmek için yardıma ihtiyacım var,İptal ücretini kontrol et
+1884,Müşteri: 2 satın alma işleminden fatura al,fatura al
+1885,Müşteri: Kayıt hatasını bildirmek için yardıma ihtiyacım var,Kayıt sorunları
+1886,Müşteri: nakliye adresi düzeltmesi ile ilgili bir sorun var,nakliye adresini değiştirme
+1887,Müşteri: Şirket bültenine nasıl kaydolacağımı bilmiyorum,bülten aboneliği
+1888,Müşteri: Altın bir hesap açabilir miyim?,hesap oluştur
+1889,Müşteri: faturayı almak mümkün mü #85632,fatura al
+1890,Müşteri: müşteri destek postası,müşteri hizmetleri ile iletişime geçin
+1891,Müşteri: Satın alma işlemini iptal etmem gerekiyor 732201349959,Siparişi iptal et
+1892,Müşteri: Teslimatın ne kadar sürdüğünü görmem gerekiyor,teslim süresi
+1893,Müşteri: Altın hesabımı kapatmak için yardıma ihtiyacım var,hesabı sil
+1894,Müşteri: do udeliver to Toronto,teslimat seçenekleri
+1895,Müşteri: Profil pimimi geri almak için ne yapacağımı bilmiyorum,Parolayı kurtar
+1896,Müşteri: Lanet olası geri ödemelerin ne kadar sürdüğünü görmek için yardım istiyorum,geri ödeme politikasını kontrol edin
+1897,Müşteri: Hangi durumlarda paramı geri talep edebileceğimi görmeye yardımcı olun,geri ödeme politikasını kontrol edin
+1898,Müşteri: Hangi koşullarda paramı geri isteyebilirim?,geri ödeme politikasını kontrol edin
+1899,Müşteri: Bir ödeme hatasını çözmeme yardımcı olabilir misiniz?,ödeme sorunu
+1900,Müşteri: Bana erken çıkış dışkısını göster,İptal ücretini kontrol et
+1901,Müşteri: birkaç ur prodxuct alışverişinde yardıma ihtiyaç var,yer sırası
+1902,Müşteri: Lanet Freemium profilini nasıl kullanabilirim?,hesabı değiştir
+1903,Müşteri: Profilimin geçişini nerede geri yüklerim?,Parolayı kurtar
+1904,Müşteri: ur bülteninden çıkmanız gerekiyor,bülten aboneliği
+1905,Müşteri: Farklı bir teslimat eki göndermek için yardıma ihtiyaç duyar,nakliye adresi kurmak
+1906,Müşteri: Düzenle info o free account,Hesabı düzenle
+1907,Müşteri: Bir hizmet hakkında fikir bırakmaya çalışıyorum,incele
+1908,Müşteri: Premium hesabın güncellenmesi,Hesabı düzenle
+1909,Müşteri: Kaydolma ile ilgili sorunları bildirmek için yardıma ihtiyacım var,Kayıt sorunları
+1910,Müşteri: Platin hesabın kaldırılması,hesabı sil
+1911,Müşteri: Teslimat yöntemlerini görmek için yardıma ihtiyacım var,teslimat seçenekleri
+1912,Müşteri: İzin verilen ödeme yöntemlerini nerede listeleyebilirim?,ödeme yöntemlerini kontrol edin
+1913,Müşteri: ur ürününün bir kısmını satın almak için yardıma ihtiyacım var,yer sırası
+1914,Müşteri: Kaydolma ile ilgili sorunları bildirmek için yardım istemek,Kayıt sorunları
+1915,Müşteri: 350 dolar iade bekliyorum,parça geri ödeme
+1916,Müşteri: pro hesap oluştur,hesap oluştur
+1917,Müşteri: 732201349959 satın almayı nasıl iptal edebilirim bilmiyorum,Siparişi iptal et
+1918,Müşteri: Ben bazı makale sipariş nasıl satın 00004587345 iptal,Siparişi iptal et
+1919,Müşteri: Bir inceleme nasıl yazılır bilmiyorum,incele
+1920,Müşteri: Liverpool'dan sipariş verebilir miyim?,teslimat seçenekleri
+1921,Müşteri: Bayan Hawkings'ten faturalarımı nasıl indirebilirim?,fatura al
+1922,Müşteri: premium hesabı kaldırmak,hesabı sil
+1923,Müşteri: gelin için yeni altın hesap,hesap oluştur
+1924,Müşteri: Geri ödemelerin genellikle ne kadar sürdüğünü görmek için yardım istiyorum,geri ödeme politikasını kontrol edin
+1925,Müşteri: Kullanıcımın pazssword'ünü geri almam gerekiyor,Parolayı kurtar
+1926,Müşteri: satın alma işleminin ne kadar sürdüğünü gösterin,teslim süresi
+1927,Müşteri: Ücretsiz hesaba geçmek için ne yapmam gerekiyor?,hesabı değiştir
+1928,Müşteri: Makaleyi ne kadar sürede bekleyebileceğimi görmeme yardımcı olun,teslim süresi
+1929,Müşteri: Teslimatın ne kadar sürdüğünü görmek için arıyorum,teslim süresi
+1930,Müşteri: nerede birkaç öğe sipariş ediyorum,yer sırası
+1931,Müşteri: Teslimat adresimi girmekle ilgili bir sorunum var,nakliye adresi kurmak
+1932,Müşteri: gönderi adresi gönderme sorunu,nakliye adresi kurmak
+1933,Müşteri: helpw ürününün birkaçını satın alır,yer sırası
+1934,Müşteri: Hizmetlerin ücretleri geri yüklenebilir mi?,geri ödeme politikasını kontrol edin
+1935,Müşteri: Kullanıcı PIN'imi nasıl geri yüklerim?,Parolayı kurtar
+1936,Müşteri: Freemium profilini kullanarak yardım istiyorum,hesabı değiştir
+1937,Müşteri: Fatura #001008'e hızlı bir şekilde bakmak için yardıma ihtiyacım var,faturayı kontrol et
+1938,Müşteri: #001008 faturasını bulmama yardım eder misiniz?,faturayı kontrol et
+1939,Müşteri: düzenleme hesabı,Hesabı düzenle
+1940,Müşteri: Freemium hesabını sil,hesabı sil
+1941,Müşteri: Hizmetleriniz için bir inceleme yazabilir miyim?,incele
+1942,Müşteri: sipariş 732201349959 durumunu görmek için yardım,parça sırası
+1943,Müşteri: 00004587345 nerede sipariş edilir?,parça sırası

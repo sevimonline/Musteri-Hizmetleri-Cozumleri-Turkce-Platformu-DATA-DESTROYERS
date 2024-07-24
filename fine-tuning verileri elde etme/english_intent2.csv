@@ -1,0 +1,1945 @@
+,Unnamed: 0,prompt,completion
+0,0,Customer: i waant help to change to the gold account, switch account
+1,1,Customer: what do I need to do to shop a  product?, place order
+2,2,Customer: i bought something cancel purchase 370795561790, cancel order
+3,3,Customer: can you show me what hours I can call customer assistance?, contact customer service
+4,4,Customer: can I use the Premium account?, switch account
+5,5,Customer: help switching something of purchase 370795561790, change order
+6,6,Customer: do you shpi to Dublin?, delivery options
+7,7,Customer: assistance seeing how soon can i expect the parcel, delivery period
+8,8,Customer: how can i check how soon can i expect my deliver, delivery period
+9,9,"Customer: I have to check the allowed payment options, how to do it?", check payment methods
+10,10,Customer: how to see the ETA of the purchase 732201349959?, track order
+11,11,Customer: can you show me what delivery methods you offer?, delivery options
+12,12,Customer: delete user, delete account
+13,13,Customer: I try to check what shipping options I can choose, delivery options
+14,14,"Customer: I want to buy several of your product, how can I do it?", place order
+15,15,Customer: could you help me solve a damn issue with payment?, payment issue
+16,16,Customer: updating information on Platinum account, edit account
+17,17,Customer: assistance to switch something of purchase 113542617735902, change order
+18,18,Customer: i do not know how i can retrieve the password of my account, recover password
+19,19,Customer: tell me more about the corporate newsletter subscription, newsletter subscription
+20,20,Customer: I need assistance talking to a live agent, contact human agent
+21,21,Customer: help me seeing how long it takes for my product to arrive, delivery period
+22,22,Customer: can you help me cancel my subscription to your newsletter?, newsletter subscription
+23,23,Customer: how to chat with a human agent, contact human agent
+24,24,Customer: there are errors setting up my new delivery address, set up shipping address
+25,25,Customer: i need heop to notify of an issue with sign-up, registration problems
+26,26,Customer: i want assistance switchimg to the pro account, switch account
+27,27,Customer: help purchasing some of ur product, place order
+28,28,Customer: what do i have to do to see the early termination penalty, check cancellation fee
+29,29,Customer: wanna ifnd the bill #00108 how do i do it, check invoice
+30,30,Customer: acn I order from Liverpool?, delivery options
+31,31,Customer: how to talk to customer servce, contact customer service
+32,32,Customer: I need assistance speaking to customer service, contact customer service
+33,33,Customer: how can i check what hours customer assistance available is, contact customer service
+34,34,Customer: I would like to check when my product is going to arrive, delivery period
+35,35,Customer: i try to cancel the corporate newsletter subscreiption, newsletter subscription
+36,36,Customer: change details on premium account, edit account
+37,37,Customer: I do not know what I have to do to edlete the free account, delete account
+38,38,Customer: what do i have to do to report an error with online payment, payment issue
+39,39,Customer: awnt help to shop several of your product, place order
+40,40,Customer: i want assistance to submit my feedback for a service, review
+41,41,Customer: wanna switch an item of order 113542617735902 ohw to do it, change order
+42,42,Customer: I want to know more about receiving your company newsletter, newsletter subscription
+43,43,Customer: open Premium acconut for bride, create account
+44,44,Customer: check invoice from Mr. Jones, check invoice
+45,45,Customer: create freemium account, create account
+46,46,Customer: edit info on gold account, edit account
+47,47,Customer: help writing a comment for your services, review
+48,48,"Customer: I have to see how soon can I expect my parcel , I need help", delivery period
+49,49,Customer: I need information about modifying my delivery address, change shipping address
+50,50,Customer: there is a trouble trying to correct the address, change shipping address
+51,51,Customer: what do I have to do to write a review about a product?, review
+52,52,Customer: I need assistance notifying of a trouble with oline payment, payment issue
+53,53,Customer: I do not know what to do to delete the freemium accouunt, delete account
+54,54,Customer: I want help obtaining a reimbursement, get refund
+55,55,Customer: where to request compensations of money, get refund
+56,56,Customer: I need infomration about the termination of a Gold account, delete account
+57,57,Customer: I need assistance to check the early termination penalties, check cancellation fee
+58,58,Customer: I do not know what I have to do to order a product, place order
+59,59,Customer: set new shipping address up, set up shipping address
+60,60,Customer: i expect a rebate of $1200, track refund
+61,61,Customer: problem with modifying order 00004587345, change order
+62,62,Customer: I try to set up the shipping address, set up shipping address
+63,63,"Customer: I want to see your money back policy, could you help me?", check refund policy
+64,64,Customer: what are the early termination charges?, check cancellation fee
+65,65,Customer: i try to talk to an agent, contact human agent
+66,66,Customer: editing information on platinum account, edit account
+67,67,Customer: i have to file a consumer complaint against ur company, complaint
+68,68,Customer: where can i receive the corporate newsletter, newsletter subscription
+69,69,Customer: need assistance to remove a product from roder 00123842, change order
+70,70,Customer: opening new pro account for wife, create account
+71,71,Customer: I want to change several products of order 00004587345, change order
+72,72,Customer: I don't know how I can see how soon can I expect my product, delivery period
+73,73,Customer: i have to delete a product from purchase 732201349959, change order
+74,74,Customer: I do not know what I have to do to cancel the gold account, delete account
+75,75,Customer: I'm waiting for a restitution of $1200, track refund
+76,76,Customer: wanna use the free account, switch account
+77,77,Customer: I can no longer afford order 113542617735902, cancel order
+78,78,Customer: i dont understand ya i want help talkiing with someone, contact human agent
+79,79,Customer: where do i buy some of ur item, place order
+80,80,Customer: order cancelation, cancel order
+81,81,Customer: i want assistnce shopping an item, place order
+82,82,Customer: I don't know what to do to acquire a few of your item, place order
+83,83,Customer: delete standard account, delete account
+84,84,Customer: how to see my bill #12588, check invoice
+85,85,Customer: I don't know how I can check the early termination charges, check cancellation fee
+86,86,Customer: i dont know what i have to do to modify my address, change shipping address
+87,87,Customer: shipments to Seattle, delivery options
+88,88,Customer: where ispurchase 113542617735902?, track order
+89,89,Customer: I expect a erbate of 1499 dollars, track refund
+90,90,Customer: help me deleting some products from order 113542617735902, change order
+91,91,Customer: I am trying to find information about the delivery periods, delivery period
+92,92,Customer: do you have a toll-free number to speak to customer service?, contact customer service
+93,93,Customer: I have a problem with my PIN retrieval, recover password
+94,94,Customer: can I check the early termination charge?, check cancellation fee
+95,95,Customer: need to purchase some items, place order
+96,96,Customer: help to submit feedabck for your services, review
+97,97,Customer: I try to check at what time I can contact customer support, contact customer service
+98,98,Customer: i dont know how to  get my invoices from Ms. Hawkings, get invoice
+99,99,Customer: i expect a reimbursement of 350 dollars, track refund
+100,100,Customer: I have to inform of problems with a signup, registration problems
+101,101,Customer: rebatingg $160, get refund
+102,102,Customer: need to cancel order 00004587345, cancel order
+103,103,Customer: want assistance to sove a problem with online payment, payment issue
+104,104,Customer: help checking how long refunds usually take, check refund policy
+105,105,Customer: opening new Pro account, create account
+106,106,Customer: how to check how long it takes for my shipment to arrive?, delivery period
+107,107,Customer: I want help to check my bill from Mr. Smith, check invoice
+108,108,Customer: can i set up my shipping address, set up shipping address
+109,109,Customer: I expect a reimbursement of $1499, track refund
+110,110,Customer: i expect an rebate of $160 has it been processed, track refund
+111,111,Customer: I  expect a compensation of 299 dollars, track refund
+112,112,Customer: updating info on  Premium account, edit account
+113,113,Customer: help me enter the new delivery address, set up shipping address
+114,114,Customer: I would like to sign up to the company newsletter, newsletter subscription
+115,115,Customer: i have to get the invoice #00108, get invoice
+116,116,"Customer: I want to list your accepted payment options, I need help", check payment methods
+117,117,Customer: i have to submit a shipping address, set up shipping address
+118,118,Customer: is it possible to change to the premium account?, switch account
+119,119,Customer: i have problems trying to edit my address, change shipping address
+120,120,Customer: want help demanding reimbursements, get refund
+121,121,Customer: how do I see order 00004587345 current status?, track order
+122,122,Customer: where to check what payment options you accept?, check payment methods
+123,123,Customer: I don't know how I can file a reclamation, complaint
+124,124,Customer: i do not knopw how to inform of problems with registrations, registration problems
+125,125,Customer: I am trying to see the accepted payment modalities, check payment methods
+126,126,Customer: i dont want order 732201349959 i need help canceling it, cancel order
+127,127,Customer: checking invoice from last month, check invoice
+128,128,Customer: can i place an order from Toronto, delivery options
+129,129,Customer: find information about forgotten pin code, recover password
+130,130,Customer: is it possible to modify my damn shipping address, change shipping address
+131,131,Customer: can you help me to check how soon can I expect my product?, delivery period
+132,132,Customer: assistance to ue my new profile, switch account
+133,133,Customer: i cant restore my user key, recover password
+134,134,Customer: can you help me checking the accepted payment methods?, check payment methods
+135,135,Customer: help updating order 00123842, change order
+136,136,Customer: I need information about the subscription to your newsletter, newsletter subscription
+137,137,Customer: assistance to report errors with a signup, registration problems
+138,138,Customer: update information on standard account, edit account
+139,139,Customer: can you tell me at what time I can call customer assistance?, contact customer service
+140,140,Customer: update purchase 732201349959, change order
+141,141,Customer: shipments to USA, delivery options
+142,142,Customer: see in what situations can i request the goddamn refunds, check refund policy
+143,143,Customer: would itr be possible to place a damn order from Munich, delivery options
+144,144,Customer: can I place an order from Toronto?, delivery options
+145,145,Customer: i have to add an item to purchase 370795561790, change order
+146,146,Customer: open premium account for bride, create account
+147,147,Customer: how can I check how long it takes for my order to arrive?, delivery period
+148,148,Customer: how do I ask for a compensation?, get refund
+149,149,Customer: can ya help me open a damn freemium account, create account
+150,150,Customer: switching to Freemium account, switch account
+151,151,Customer: I need assistance seeing my bill #12588, check invoice
+152,152,"Customer: I haqve to sign up to your newsletter, how to do it?", newsletter subscription
+153,153,Customer: updating platinum account, edit account
+154,154,Customer: can I edit order 370795561790?, change order
+155,155,Customer: where can I unsubscribe from your corporate newsletter?, newsletter subscription
+156,156,"Customer: I have got to edit order 370795561790, can you help me?", change order
+157,157,Customer: I want to check te ETA of purchase 00004587345, track order
+158,158,Customer: I'd like to switch to the damn Premium account how to do it, switch account
+159,159,Customer: ineed assistance to see purchase 00004587345 status, track order
+160,160,Customer: check ETA of order 113542617735902, track order
+161,161,Customer: can I change some fucking products of purchase 00123842?, change order
+162,162,"Customer: I cannot understand you, need help talking with a live agent", contact human agent
+163,163,"Customer: I want to use the Platinum profile, how can I do it?", switch account
+164,164,Customer: information about my pwd reset, recover password
+165,165,Customer: I want help  talking with an agent, contact human agent
+166,166,Customer: i cant change my delivery address, change shipping address
+167,167,Customer: assistance to see the withdrawal fees, check cancellation fee
+168,168,Customer: how to talk with customer support?, contact customer service
+169,169,Customer: I do not know how to notify of a problem with payments, payment issue
+170,170,Customer: I don't know what to do to change  the shipping address, change shipping address
+171,171,Customer: report registration issue, registration problems
+172,172,Customer: I need assistance creating a Premium account for my fiancee, create account
+173,173,Customer: check invoice from last purchase, check invoice
+174,174,Customer: I don't know how I can check when will my purchase arrive, delivery period
+175,175,Customer: I have issues with my sign-up, registration problems
+176,176,Customer: give me information about the deletion of my premium account, delete account
+177,177,Customer: want assistance cancelling purchase 370795561790, cancel order
+178,178,Customer: where can i leave a comment for ur company, review
+179,179,Customer: correct the shipping address, change shipping address
+180,180,Customer: i need help canceling purchase 732201349959, cancel order
+181,181,Customer: where to retrieve the pass of my account?, recover password
+182,182,Customer: need assisxtance to file a reclamation against ur business, complaint
+183,183,Customer: wanna see the ETA of the purchase 113542617735902, track order
+184,184,Customer: could you help me cancelling purchase 732201349959?, cancel order
+185,185,"Customer: I would like to edit my user, I need assistance", edit account
+186,186,Customer: need to check ur fucking available payment options, check payment methods
+187,187,Customer: how can I check what hours I can call customer service?, contact customer service
+188,188,Customer: do you ship to Toronto?, delivery options
+189,189,Customer: need to see the eta of purchase 00123842, track order
+190,190,Customer: i forgot the pass of my user i have to resety it, recover password
+191,191,Customer: want help to see in what cases can I ask for reimbursements, check refund policy
+192,192,Customer: I can't find anything about the early termination fees, check cancellation fee
+193,193,Customer: I'm trying to demand a compensation of my money, get refund
+194,194,Customer: see the status of my corporate newsletter subscription, newsletter subscription
+195,195,Customer: I try to shop a few of your item, place order
+196,196,Customer: open anotherstandard account, create account
+197,197,"Customer: I want to lodge a consumer reclamation, I need assistance", complaint
+198,198,Customer: i dont know wshat i have to do to get invoice #12588, get invoice
+199,199,Customer: I do not know what I need to do to order an few of your item, place order
+200,200,Customer: can uhlep me cancelling purchase 732201349959, cancel order
+201,201,Customer: I need assistance lodging a customer claim, complaint
+202,202,Customer: where do i make a consumer claim against ur business, complaint
+203,203,Customer: where do I submit a shipping address?, set up shipping address
+204,204,Customer: help me modify order 370795561790, change order
+205,205,Customer: can  i swap some items of order 732201349959, change order
+206,206,Customer: I need to see what hours I can contact customer assistance, contact customer service
+207,207,Customer: can you help me obtain a reimbursement?, get refund
+208,208,Customer: I want assistance seeing the ETA of the order 00004587345, track order
+209,209,Customer: can i check ur erimbursement policy, check refund policy
+210,210,Customer: I want help canceling puurchase 00004587345, cancel order
+211,211,Customer: see cancellationcharges, check cancellation fee
+212,212,Customer: correcting information on pro account, edit account
+213,213,Customer: I do not know what I need to do to chay with an assistant, contact human agent
+214,214,Customer: i have got to check in which cases can i ask for a refund, check refund policy
+215,215,Customer: question about  forgotten pass, recover password
+216,216,Customer: I need assistance chatting with an agent, contact human agent
+217,217,Customer: what options for shipping can I choose?, delivery options
+218,218,Customer: want support correcting my delivery address, change shipping address
+219,219,Customer: I try to see what hours I can reach customer service, contact customer service
+220,220,Customer: how to see order 00123842 status, track order
+221,221,Customer: I try to check the allowed payment methods, check payment methods
+222,222,Customer: i want  help changing to the Pro account, switch account
+223,223,Customer: can i check in what cases can i ask for reimbursements, check refund policy
+224,224,Customer: how can i get information about platinum account removals, delete account
+225,225,Customer: I don't know how I can check your accepted payment methods, check payment methods
+226,226,Customer: help me seeing when will my purchase arrive, delivery period
+227,227,Customer: receive money back, get refund
+228,228,Customer: can i give a quick look at the bill from David Miller, check invoice
+229,229,Customer: how do i list ur avaqilable payment options, check payment methods
+230,230,Customer: where to see the payment options?, check payment methods
+231,231,Customer: I am waiting for a restitution of 1200 dollars, track refund
+232,232,Customer: what do i have to do to add sometthing to order 00004587345, change order
+233,233,Customer: i do not know how to retrieve my user access key, recover password
+234,234,Customer: could uhelp me speaking to an human agent, contact human agent
+235,235,Customer: assistance checking how soon can i expect the parcel, delivery period
+236,236,Customer: i have got to see the status of order 00004587345 help me, track order
+237,237,Customer: need to inform of a trouble with online payments, payment issue
+238,238,"Customer: I need to submit my feedback about your products, help me", review
+239,239,Customer: help me to lodge a customer claim against your company, complaint
+240,240,Customer: how to write a comment for your services?, review
+241,241,Customer: I want assistance opening a pro account, create account
+242,242,Customer: problem with my forgotten password, recover password
+243,243,Customer: I want assistance to acquire several of your article, place order
+244,244,Customer: need help making a claim against your organization, complaint
+245,245,Customer: opening new standard account, create account
+246,246,Customer: i need help tocancel order 00004587345, cancel order
+247,247,Customer: help seeing in what situations can I ask to be refunded, check refund policy
+248,248,Customer: check bill #37777, check invoice
+249,249,Customer: is there an addres to leave an opinion?, review
+250,250,Customer: deliveries to Valencia, delivery options
+251,251,Customer: how to leave an opinion for a product, review
+252,252,Customer: is there an address to leave an opinion about a product?, review
+253,253,Customer: can you help me seeing when my shipment is going to arrive?, delivery period
+254,254,Customer: making consumer reclamation against ur business, complaint
+255,255,Customer: can ya help me to get the invoices from Anna Freeman, get invoice
+256,256,Customer: could I unsubscribe to the corporate newsletter?, newsletter subscription
+257,257,Customer: how do I see the termination fees?, check cancellation fee
+258,258,Customer: i need help speaking to somebody, contact human agent
+259,259,Customer: help me to lodge a consumer reclamation, complaint
+260,260,Customer: can you help me acquiring an article?, place order
+261,261,Customer: I don't know how I can see the invoice from David Miller, check invoice
+262,262,Customer: I need  help to lodge a reclamation against your business, complaint
+263,263,Customer: give me information about the shipping periods, delivery period
+264,264,Customer: I have to switch a product of order 732201349959, change order
+265,265,Customer: I need help to swap some items of purchase 370795561790, change order
+266,266,Customer: help me to give a quick look at the bills from Anna Freeman, check invoice
+267,267,Customer: help to see what delivery options I have, delivery options
+268,268,Customer: could you help me check the refund status?, track refund
+269,269,Customer: i paid $160 for an order where could ii get a reimbursement, get refund
+270,270,Customer: I need to find the bills from Mr. Smith, check invoice
+271,271,Customer: need assistance to switch to the Premium account, switch account
+272,272,Customer: I need help speaking to a bloody live agent, contact human agent
+273,273,Customer: I need support modifying my delivery address, change shipping address
+274,274,Customer: I want to order a few of your item, place order
+275,275,Customer: help me notifying of issues with a signup, registration problems
+276,276,Customer: my experience with uhas been bad help to file a complaint, complaint
+277,277,Customer: want assistance checking ur payment modalities, check payment methods
+278,278,Customer: help me informing of a signup problem, registration problems
+279,279,Customer: update info on free acount, edit account
+280,280,Customer: I try to report troublles with online payments, payment issue
+281,281,Customer: where do i  lodge a customer claim against ur business, complaint
+282,282,Customer: where do I check at what time I can reach customer service?, contact customer service
+283,283,Customer: modifying details on pro account, edit account
+284,284,Customer: I do not know how to file a complaint, complaint
+285,285,Customer: I want assistance to download bill #85632, get invoice
+286,286,Customer: check refund status, track refund
+287,287,Customer: i have problems with my Gold account removal, delete account
+288,288,Customer: get bills from Ms. Hawkings, get invoice
+289,289,Customer: what do I need to di to see when will my package arrive?, delivery period
+290,290,Customer: using standard account, switch account
+291,291,"Customer: I have got to set u my delivery address, I need help", set up shipping address
+292,292,Customer: I need assistance to report an error with registrations, registration problems
+293,293,Customer: help me to add something to purchase 732201349959, change order
+294,294,Customer: is it possible to contact a live agent?, contact human agent
+295,295,Customer: I have issues submitting another shipping address, set up shipping address
+296,296,Customer: i do not understand uneed help chatting with someone, contact human agent
+297,297,Customer: I  expect a compensation of 1200 dollars, track refund
+298,298,Customer: see at what time i can get in touch with customer support, contact customer service
+299,299,"Customer: I do not understand you, I need help contacting somebody", contact human agent
+300,300,Customer: I need help notifyuing of an error with a sign-up, registration problems
+301,301,Customer: do you ship to Mexico ?, delivery options
+302,302,Customer: get invoices from October, get invoice
+303,303,Customer: in what cases can I request my money back?, check refund policy
+304,304,Customer: I am wating for a reimbursement of $350, track refund
+305,305,Customer: need to see in what situations can i ask for reimbhursements, check refund policy
+306,306,Customer: I need assistance with editing order 113542617735902, change order
+307,307,Customer: how can I add something to purchase 00004587345?, change order
+308,308,Customer: can uhelp me seeing the ETA of the order 113542617735902, track order
+309,309,Customer: change detalis on Pro account, edit account
+310,310,Customer: help checking at what time i can reach customer service, contact customer service
+311,311,Customer: I have to edit my  address, change shipping address
+312,312,Customer: I want help checking the early termination fees, check cancellation fee
+313,313,Customer: would you give me information about a PIN code reset?, recover password
+314,314,Customer: update data on free account, edit account
+315,315,Customer: i cannot pay want assistance to report a payment issuew, payment issue
+316,316,Customer: want help tracking order 113542617735902, track order
+317,317,Customer: need help to check the early termination fee, check cancellation fee
+318,318,Customer: I want assistance to speak with someone, contact human agent
+319,319,Customer: i dont know what i have to do to lodge a consumer claim, complaint
+320,320,Customer: how can I see your reimbursement policy?, check refund policy
+321,321,Customer: I have to change my delivery address, change shipping address
+322,322,Customer: I xepect a compensation of $1499, track refund
+323,323,Customer: where can i get information about editing the address, change shipping address
+324,324,Customer: wanna change some articles of order 732201349959 help me, change order
+325,325,Customer: i do not know what i have to do to download bill #85632, get invoice
+326,326,Customer: i need assistance notifying of a registration problem, registration problems
+327,327,Customer: is it possible to lodge a consumer claim, complaint
+328,328,Customer: i aint registered yet i need to open a Platinum account, create account
+329,329,Customer: I need assistance recovering my account PIN, recover password
+330,330,Customer: how can i check the early termination penalties, check cancellation fee
+331,331,Customer: I do not know how I can acquire an item, place order
+332,332,Customer: getting invoice from David Miller, get invoice
+333,333,Customer: acn i order from Hungary, delivery options
+334,334,Customer: where do I change to the Gold account?, switch account
+335,335,Customer: where do I download my invoices from Ms. Hawkings?, get invoice
+336,336,Customer: create platinum account, create account
+337,337,"Customer: I need a damn Platinum account, could I open it?", create account
+338,338,Customer: I want supports trying to change my delivbery address, change shipping address
+339,339,Customer: i do not know how i can submit my feedback for ur company, review
+340,340,Customer: is it possible to remove a product from order 732201349959?, change order
+341,341,"Customer: I have got to see how long reimbursements take, help me", check refund policy
+342,342,Customer: i have got to check when my product is gonna arrive, delivery period
+343,343,Customer: change order 370795561790, change order
+344,344,Customer: information about my PIN code recovery, recover password
+345,345,Customer: i dont know what i have to do to download my invoice #85632, get invoice
+346,346,Customer: where do i demand rebates of money, get refund
+347,347,Customer: want help submitting a new delivery address, set up shipping address
+348,348,Customer: i  have to get my invoice #85632 can i get some help, get invoice
+349,349,Customer: I want assisance to inform of a problem with payment, payment issue
+350,350,Customer: i expect a restitution of 1499 dollars, track refund
+351,351,Customer: issues changing shipping address, change shipping address
+352,352,"Customer: I have got to shop some items, I need help", place order
+353,353,Customer: I am waiting for a reimbursement of $1499, track refund
+354,354,Customer: i dont understand ui wanna contact a live agent, contact human agent
+355,355,Customer: I'm waiting for a compensation of $350, track refund
+356,356,Customer: I want help to solve an error with online payments, payment issue
+357,357,Customer: what do I have to do to deleet a premium account?, delete account
+358,358,Customer: what do I need to do to cancel purchase 370795561790?, cancel order
+359,359,Customer: where can I get information about a delivery address change?, change shipping address
+360,360,Customer: assistance to check the  cancellation fee, check cancellation fee
+361,361,Customer: need assistance to recover the PIN of my profile, recover password
+362,362,Customer: where to submit my feedback for your company?, review
+363,363,Customer: I do not know what to do to purchase several items, place order
+364,364,"Customer: I forgot the PIN of my user account, help recovering it", recover password
+365,365,Customer: I don't know how to modify the delivery address, change shipping address
+366,366,"Customer: I have to see the cancellation penalties, I need help", check cancellation fee
+367,367,Customer: i need help modifyingg purchase 00123842, change order
+368,368,Customer: where do I check the payment methods?, check payment methods
+369,369,Customer: can you help me to see the termination charge?, check cancellation fee
+370,370,"Customer: I do not want this item, where to cancel order 370795561790?", cancel order
+371,371,Customer: i do not know how to obtain refunds of my money, get refund
+372,372,Customer: is there a way to leave some feedback for your services?, review
+373,373,Customer: I'm looking for information about updating the address, change shipping address
+374,374,Customer: I don't know what to do to locate my invoice from Mr. Jones, check invoice
+375,375,Customer: I do not know how to leave some feedback about your company, review
+376,376,Customer: I want help asking for a reimbursement of money, get refund
+377,377,Customer: i want help requesting a refund of money, get refund
+378,378,Customer: i cannot delete a product from purchase 00123842, change order
+379,379,Customer: why I cannot set the secondary shipping address valid up, set up shipping address
+380,380,Customer: I don't know how I can see my bill #00108, check invoice
+381,381,Customer: could i order from Detroit, delivery options
+382,382,Customer: need assistance to leave an opinion about ur company, review
+383,383,Customer: i need assistance seeing ur fucking money back guarantee, check refund policy
+384,384,Customer: i need assiustance to check my bill #00108, check invoice
+385,385,Customer: is it possible to send feedback for an product, review
+386,386,Customer: help me check in what situations can I ask to be refunded, check refund policy
+387,387,Customer: could you help me to speak to somebody?, contact human agent
+388,388,Customer: edit information on freemium account, edit account
+389,389,Customer: how to add an article to purchase 732201349959, change order
+390,390,Customer: want help informing of an issue with registrations, registration problems
+391,391,Customer: have problems with opening a newbloody pro account, create account
+392,392,"Customer: I want to check what payment methods are available, help me", check payment methods
+393,393,Customer: I need assistance to correct the shipping address, change shipping address
+394,394,Customer: I do not know how to reset the key of my user, recover password
+395,395,Customer: help me tol subscribe to your company newsletter, newsletter subscription
+396,396,Customer: can uhelp me obtaining compensations, get refund
+397,397,Customer: can you help me to look for invoice #00108?, check invoice
+398,398,Customer: shipping to Japan, delivery options
+399,399,Customer: there are troubles submitting the new shipping address, set up shipping address
+400,400,Customer: can utell me about a delivery adfress change, change shipping address
+401,401,Customer: i want assistance giving a quick look at the bull #85632, check invoice
+402,402,Customer: help to see in which cases can I ask for a reimbursement, check refund policy
+403,403,Customer: wanna know about signing up to ur newsletter, newsletter subscription
+404,404,Customer: order 00004587345 status, track order
+405,405,Customer: I do not know how I can inform of an error with a sign-up, registration problems
+406,406,Customer: i need help to see what hours i can reach customer support, contact customer service
+407,407,Customer: wanna order several items help me, place order
+408,408,Customer: need help to leave a review about a product, review
+409,409,Customer: help me make a complaint against your organization, complaint
+410,410,"Customer: I want to see when will my purchase arrive, I need help", delivery period
+411,411,Customer: want help to write an opinion for a service, review
+412,412,Customer: I want to delete a goddamn item from order 732201349959, change order
+413,413,Customer: assistance trying to modify the shipping address, change shipping address
+414,414,Customer: get bill from David Miller, get invoice
+415,415,Customer: i cannot set up a secondary shipping address, set up shipping address
+416,416,Customer: can ya help me to submit some feedback about ur company, review
+417,417,Customer: help me looking for the bill from Anna Freeman, check invoice
+418,418,Customer: deliveries to Dublin, delivery options
+419,419,Customer: i have to send feedback for ur services, review
+420,420,Customer: I'm trying to check when my shipment is gonna arrive, delivery period
+421,421,Customer: need to check the early exit fees, check cancellation fee
+422,422,Customer: file customer complaint agaisnt your business, complaint
+423,423,Customer: editing information on standard account, edit account
+424,424,Customer: I don't know how I can download the bills from Anna Freeman, get invoice
+425,425,Customer: where to check the bills from Mr. Jones?, check invoice
+426,426,Customer: I need help notifying of a trouble with online payment, payment issue
+427,427,Customer: help me check the current status of order 370795561790, track order
+428,428,Customer: opening new gold account, create account
+429,429,Customer: help to check your money back policy, check refund policy
+430,430,Customer: need to add somehting to purchase 00004587345, change order
+431,431,Customer: is it possible to subscribe to the corporate newsletter?, newsletter subscription
+432,432,"Customer: I want to see the invoice #00108, help me", check invoice
+433,433,Customer: i cannot modify the delivery address, change shipping address
+434,434,Customer: solve an issue with online payment, payment issue
+435,435,Customer: refunding$299, get refund
+436,436,Customer: can i check at what time i can call customer assistance, contact customer service
+437,437,Customer: I have got to use the pro profile, switch account
+438,438,Customer: open a Gold acount for my fiancee, create account
+439,439,Customer: I want help adding an article to order 00004587345, change order
+440,440,Customer: assistance to unsubscribe to ur company newsletter, newsletter subscription
+441,441,Customer: modifying Gold account, edit account
+442,442,Customer: i do not know what i have to do to speak with a assistant, contact human agent
+443,443,Customer: is it possible to order from Finland?, delivery options
+444,444,Customer: I can't recover the PIN of my account, recover password
+445,445,Customer: I have to shop some of your product, place order
+446,446,Customer: update premium account, edit account
+447,447,Customer: I need to check the ETA of the purchase 113542617735902, track order
+448,448,Customer: want help to ad some items to order 370795561790, change order
+449,449,Customer: where can I enter my secondary shipping address?, set up shipping address
+450,450,Customer: I have got to see the cancellation penalty, check cancellation fee
+451,451,Customer: i cannot chat with someone, contact human agent
+452,452,Customer: close Platinum account, delete account
+453,453,"Customer: I want to correct purchase 732201349959, how do I do it?", change order
+454,454,Customer: edit data on standard account, edit account
+455,455,Customer: i dont know how i can leave a comment for ur products, review
+456,456,Customer: find information about receiving ur newsletter, newsletter subscription
+457,457,Customer: help solving errors with online payment, payment issue
+458,458,Customer: i cannot submit the secondary delivery address, set up shipping address
+459,459,Customer: could you help me to close the damn free account?, delete account
+460,460,Customer: making coaim, complaint
+461,461,Customer: help me changing the delivery address, change shipping address
+462,462,Customer: I want to see how soon can I expect the order, delivery period
+463,463,"Customer: I want to speak with customer support, how can I do it?", contact customer service
+464,464,"Customer: I do not have a fucking Freemium account, could I register?", create account
+465,465,Customer: i want assistance to switch to the free account, switch account
+466,466,Customer: the experience with uwas awful how do i file a bloody claim, complaint
+467,467,Customer: editingPlatinum account, edit account
+468,468,"Customer: I need to notify of a fucking issue with payments, help me", payment issue
+469,469,Customer: i need help to reset the pin of my user account, recover password
+470,470,Customer: help to use the Gold profile, switch account
+471,471,Customer: I do not know what to do to order a few of your article, place order
+472,472,Customer: can ya help me demandkng a damn rebate, get refund
+473,473,Customer: reporting payment issue, payment issue
+474,474,Customer: I have errors modifying my delivery address, change shipping address
+475,475,Customer: need assistance to create a Gold account for my daughter, create account
+476,476,Customer: I don't know what I have to do to download my invoice #00108, get invoice
+477,477,Customer: report payment issue, payment issue
+478,478,Customer: edit data on gold account, edit account
+479,479,Customer: I try to demand a compensation, get refund
+480,480,Customer: switching to premium account, switch account
+481,481,Customer: modify details on free  account, edit account
+482,482,Customer: how to use the freemium profile, switch account
+483,483,Customer: I do not know what I need to do to change to the pro account, switch account
+484,484,Customer: I want assistance to cancel order 113542617735902, cancel order
+485,485,Customer: could I lodge a consumer claim?, complaint
+486,486,Customer: change purchase 113542617735902, change order
+487,487,Customer: i have got tro check ur accepted payment methods i need help, check payment methods
+488,488,"Customer: I have paid $160 for an article, I am trying to get a refund", get refund
+489,489,Customer: help me canceling purchase 00123842, cancel order
+490,490,Customer: I expect a reimbursement of $1200, track refund
+491,491,Customer: how could I check the shipment methods?, delivery options
+492,492,Customer: assistance to check at what time I can call customer support, contact customer service
+493,493,Customer: i dont knowhow to see the bill #00108, check invoice
+494,494,Customer: help me canceling purchase 113542617735902, cancel order
+495,495,Customer: I'm trying to enter an different delivery address, set up shipping address
+496,496,Customer: I want assistance seeing the fucking bills from Mr. Smith, check invoice
+497,497,Customer: have preoblems with my forgotten pin code, recover password
+498,498,Customer: I don't know how I could order a few of your product, place order
+499,499,Customer: i need assistance creating a freemium account, create account
+500,500,Customer: I don't know what to do to change to the Pro account, switch account
+501,501,Customer: there are problems entering a secondary delivery address, set up shipping address
+502,502,Customer: I don't know what to do to restore my profile access key, recover password
+503,503,Customer: i want assistance canceloing purchase 370795561790, cancel order
+504,504,Customer: do you ship to Detroit?, delivery options
+505,505,Customer: I need to check how long the shipment takes, delivery period
+506,506,Customer: I need help to speak with customer service, contact customer service
+507,507,Customer: wanna check how long refunds take heelp me, check refund policy
+508,508,"Customer: I have to check your accepted payment methods, help me", check payment methods
+509,509,Customer: I call to get the bill #37777, get invoice
+510,510,Customer: i need help signing up to ur corporate newsletter, newsletter subscription
+511,511,Customer: want help to list the payment modalities, check payment methods
+512,512,Customer: updating data on Pro account, edit account
+513,513,Customer: I don't know how I could locate the bill #85632, check invoice
+514,514,Customer: I want to create a standard account, create account
+515,515,Customer: edit data on Freemium account, edit account
+516,516,Customer: is it possible to subscribe to ur company newsletter, newsletter subscription
+517,517,Customer: add item to order 00004587345, change order
+518,518,Customer: shipments to Philadelphia, delivery options
+519,519,Customer: help using the free profile, switch account
+520,520,Customer: i need help with creating a Premium account, create account
+521,521,Customer: I would like to purchase some products, place order
+522,522,Customer: how do I locate my bill from Ms. Hawkings?, check invoice
+523,523,Customer: assistance to restore the password of my user profile, recover password
+524,524,Customer: i expect a restituton of 1499 dollars, track refund
+525,525,Customer: where can I see when will my item arrive?, delivery period
+526,526,Customer: correct details on free account, edit account
+527,527,Customer: I need to inform of sign-up problems, registration problems
+528,528,Customer: how do i lodge a customer claim against ur business, complaint
+529,529,Customer: could you help me check the termination charge?, check cancellation fee
+530,530,Customer: information about the removal of my Pro account, delete account
+531,531,"Customer: I want to see your money back policy, I need help", check refund policy
+532,532,Customer: how can I retrieve the PIN of my account?, recover password
+533,533,Customer: I try to see in which cases can I request my money back, check refund policy
+534,534,Customer: help making a customer reclamation, complaint
+535,535,Customer: open Freemium account for bride, create account
+536,536,Customer: I am trying to file as claim against your business, complaint
+537,537,Customer: I do not know how to see what shipping methods are there, delivery options
+538,538,Customer: what do I have to do to cancel my freemium account?, delete account
+539,539,Customer: I don't know how I can talk to somebody, contact human agent
+540,540,Customer: i have to see how long reimbursements take, check refund policy
+541,541,Customer: how can i cancel the subscription to the company newsleter, newsletter subscription
+542,542,Customer: can you help me informing of a goddamn signup issue?, registration problems
+543,543,Customer: can i order from Dublin, delivery options
+544,544,Customer: where do I look for the bill from Mr. Jones?, check invoice
+545,545,Customer: can you help me notify of a proboem with payment?, payment issue
+546,546,Customer: wanna delete several items  from purchase 00123842 help me, change order
+547,547,Customer: I need help to notify of errors with online payment, payment issue
+548,548,Customer: help to  buy a few of ur item, place order
+549,549,Customer: I want to check when my article is going to arrive, delivery period
+550,550,Customer: I try to contact an operator, contact human agent
+551,551,Customer: I try to reset the pwd of my user, recover password
+552,552,Customer: assistance seeing how soon can I expect my bloody product, delivery period
+553,553,Customer: i need an standard account can ucreate it, create account
+554,554,Customer: where do I leave a goddamn comment?, review
+555,555,Customer: can i place an order from USA, delivery options
+556,556,Customer: i dont know what i need to do to order several damn products, place order
+557,557,Customer: I would like to know about updating the delivery address, change shipping address
+558,558,Customer: what do I have to do to cancel my standard account?, delete account
+559,559,Customer: assistance to lodge a customer reclamation, complaint
+560,560,Customer: i have a problem with canceling order 370795561790, cancel order
+561,561,Customer: I have to cancel order 00004587345, cancel order
+562,562,Customer: I do not know how to get the bill from Mr. Smith, get invoice
+563,563,Customer: checking invoices from David Miller, check invoice
+564,564,Customer: I am trying to recover my user account PIN, recover password
+565,565,Customer: I don't know how to cancel purchase 370795561790, cancel order
+566,566,Customer: support editing my shipping address, change shipping address
+567,567,Customer: how to receive ur corporate newsltter, newsletter subscription
+568,568,"Customer: I never use the Freemium account, help me delete it", delete account
+569,569,Customer: where can I notify of an error with signup?, registration problems
+570,570,Customer: i do not know what to do to speak with an assistant, contact human agent
+571,571,Customer: i have an error setting upthe new delivery address, set up shipping address
+572,572,Customer: help me to call customer support, contact customer service
+573,573,Customer: receive the company newsletter, newsletter subscription
+574,574,Customer: order cancellation, cancel order
+575,575,Customer: need help to see the ETA of the order 00004587345, track order
+576,576,Customer: i need help to list the payment options, check payment methods
+577,577,Customer: changing data on Platinum account, edit account
+578,578,Customer: removing something from order 732201349959, change order
+579,579,Customer: i want help cancelling purchase 732201349959, cancel order
+580,580,"Customer: I have submitted a wrong address, can you correct it?", change shipping address
+581,581,Customer: do you delivr to Seattle?, delivery options
+582,582,Customer: canceling Premium cacount, delete account
+583,583,Customer: I do not know what I have to do to shop some articles, place order
+584,584,Customer: assistance checking how long it takes for my order to arrive, delivery period
+585,585,Customer: need assistance buying some of your product, place order
+586,586,Customer: I don't know how I can recover my password, recover password
+587,587,Customer: could I check my reimbursement status?, track refund
+588,588,Customer: get bill from Mr. Jones, get invoice
+589,589,Customer: i try to leave an opinion for ur company, review
+590,590,Customer: need assistance to use the free account, switch account
+591,591,Customer: have a qustion about a lost pwd, recover password
+592,592,Customer: I try to sign up to your newsletter, newsletter subscription
+593,593,Customer: where to file a complaint against your organization?, complaint
+594,594,Customer: I have errors entering the new delivery address, set up shipping address
+595,595,Customer: help me report issues with registrations, registration problems
+596,596,Customer: help me to check the status of purchase 113542617735902, track order
+597,597,Customer: I need to see in what cases can I request reimbursements, check refund policy
+598,598,Customer: I get eror messages when I try to set up my delivery address, set up shipping address
+599,599,Customer: acnceling order 00123842, cancel order
+600,600,Customer: payment issue, payment issue
+601,601,Customer: how do I check purchase 00123842 current status?, track order
+602,602,Customer: where do i open a Platinum account, create account
+603,603,Customer: I want assistance to see in what cases can I request refunds, check refund policy
+604,604,Customer: i paid $1200 for this article i wana receive a rebate, get refund
+605,605,Customer: i want help unsubscribing to ur company newsletter, newsletter subscription
+606,606,Customer: wanna report a trouble with payment, payment issue
+607,607,Customer: can i see what hours i can call customer service, contact customer service
+608,608,Customer: i want support trying to update the address, change shipping address
+609,609,Customer: how do I list the payment modalities?, check payment methods
+610,610,"Customer: the experience with your brand was awful, lodge a complaint", complaint
+611,611,Customer: I need help talking to customer assistance, contact customer service
+612,612,Customer: getting invoices from eleven months ago, get invoice
+613,613,Customer: do ya ship to Dublin, delivery options
+614,614,Customer: I am waiting for a compensation of 299 dollars, track refund
+615,615,"Customer: I have to earn some items, can I get some help?", place order
+616,616,Customer: where can i see ur availabe payment modalities, check payment methods
+617,617,Customer: reimbursing 1499 dollars, get refund
+618,618,Customer: using pro account, switch account
+619,619,Customer: i have got to locate order 113542617735902 could ya help mw, track order
+620,620,Customer: edit platinum account, edit account
+621,621,"Customer: I don't understand you, I would like to talk to somebody", contact human agent
+622,622,Customer: i expect a reimbursementof 1200 dollars, track refund
+623,623,Customer: I do not know what to do to see the allowed payment methods, check payment methods
+624,624,Customer: could ya help me submitting feedback for a service, review
+625,625,Customer: wanna check the early exit penalties, check cancellation fee
+626,626,Customer: i need assistance solving a trouble with online payments, payment issue
+627,627,Customer: I have to purchase an article, place order
+628,628,Customer: where can i inform of an problem with registrations, registration problems
+629,629,Customer: i dont know what to do ot edit the address, change shipping address
+630,630,Customer: I am trying to demand a compensation, get refund
+631,631,Customer: I do not know how I can cancel order 00123842, cancel order
+632,632,Customer: give me information about editing my address, change shipping address
+633,633,Customer: I have got to retrieve my user PIN code, recover password
+634,634,"Customer: I don't understand you, I have got to talk with somebody", contact human agent
+635,635,Customer: how can i recover my user pwd, recover password
+636,636,Customer: switch to free account, switch account
+637,637,Customer: I need to cancel the corporate newsletter subscription, newsletter subscription
+638,638,"Customer: I need to enter a delivery address, help me", set up shipping address
+639,639,Customer: I am trying to change to the free account, switch account
+640,640,Customer: is it possible to place a order from Hungary?, delivery options
+641,641,Customer: I'm trying to make a customer claim against ur company, complaint
+642,642,Customer: I have to see how long it takes for the package to arrive, delivery period
+643,643,Customer: can ya tell me at what time i can call customer service, contact customer service
+644,644,Customer: do you deliver to Valencia?, delivery options
+645,645,Customer: where could I check the payment options?, check payment methods
+646,646,Customer: checking invoice #12588, check invoice
+647,647,Customer: I can't find the bills from Mr. Smith, check invoice
+648,648,Customer: i do not know what i have to do to contact a live agent, contact human agent
+649,649,Customer: shipping address issue, set up shipping address
+650,650,Customer: my  secondary delivery address isnt valid i need help, set up shipping address
+651,651,Customer: mail me my invoice from Anna Freeman, get invoice
+652,652,Customer: want assistance correcting my deloivery address, change shipping address
+653,653,Customer: changing info on freemium  account, edit account
+654,654,Customer: where can I see what damn shipment options you offer?, delivery options
+655,655,Customer: I need help to retrieve the access key of my profile, recover password
+656,656,Customer: remove item from order 00123842, change order
+657,657,Customer: can you help me canceling my subscription to the newsletter?, newsletter subscription
+658,658,Customer: use standard account, switch account
+659,659,Customer: I want help to check what hours I can reach customer support, contact customer service
+660,660,"Customer: I have to receive your company newsletter, I need assistance", newsletter subscription
+661,661,Customer: delete Premium account, delete account
+662,662,Customer: I expect a restitution of $350, track refund
+663,663,Customer: I want to lisg your allowed payment options, check payment methods
+664,664,Customer: I'd like to make a consumer reclamation, complaint
+665,665,"Customer: I chose a wrong address, can you help me updating it?", change shipping address
+666,666,Customer: i want help to lodge a customer reclamation, complaint
+667,667,Customer: can you help me correcting my delivery address?, change shipping address
+668,668,Customer: is it possible to inform of an issue with a registration?, registration problems
+669,669,Customer: i cant rceate a Premium account for my fiancee, create account
+670,670,Customer: can you help me to get my bill #85632?, get invoice
+671,671,Customer: i dont know what i have to do to buy some of ur product, place order
+672,672,Customer: were could I change to the premium account?, switch account
+673,673,Customer: i dont know how to restore the password of myprofile, recover password
+674,674,Customer: i need assistance downloading my invoice from Anna Freeman, get invoice
+675,675,Customer: canceling order, cancel order
+676,676,Customer: i need assistance to check the withdrawal  fee, check cancellation fee
+677,677,"Customer: I would like to check the delivery options, I need help", delivery options
+678,678,Customer: I'm waiting for a compesation of 350 dollars, track refund
+679,679,Customer: is there a method to submit feedback for your products?, review
+680,680,Customer: help me opening a Gold account for my daughter, create account
+681,681,Customer: I don't know how to edit the delivery address, change shipping address
+682,682,Customer: what do I need to do to talk with customer assistance?, contact customer service
+683,683,Customer: i have got to contact a human agent, contact human agent
+684,684,Customer: I am waiting for a restitution of 1499 dollars, track refund
+685,685,Customer: change data on gold account, edit account
+686,686,Customer: i want assistance canceling order 370795561790, cancel order
+687,687,Customer: help filing a reclamation against your business, complaint
+688,688,Customer: I don't know how to enter a different delivery address, set up shipping address
+689,689,Customer: refunding 299 dollars, get refund
+690,690,Customer: help me order several fucking items, place order
+691,691,Customer: need help getting my invoice #85632, get invoice
+692,692,Customer: I need assistance canceling purchase 732201349959, cancel order
+693,693,Customer: i do not knowwhat i need to do to buy some products, place order
+694,694,Customer: help changing to the premium account, switch account
+695,695,Customer: I want help checking how long reimbursements take, check refund policy
+696,696,Customer: I want to get the bills from Anna Freeman, get invoice
+697,697,Customer: create Platinum account, create account
+698,698,Customer: I want to check how long it takes for the parcel to arrive, delivery period
+699,699,Customer: i need assistance to report troubles with payments, payment issue
+700,700,Customer: check your money back policy, check refund policy
+701,701,Customer: reimbursing 160 dollars, get refund
+702,702,"Customer: my experience with your brand was bad, file a damn complaint", complaint
+703,703,"Customer: I would like to recover my fucking password, how do I do it?", recover password
+704,704,Customer: I'm trying to check the available payment methods, check payment methods
+705,705,Customer: how can i ceck the fucking early exit fees, check cancellation fee
+706,706,Customer: need to check what hours i can reach custmoer service, contact customer service
+707,707,"Customer: I need to check what shipment options I have, how to do it?", delivery options
+708,708,Customer: where do I change to the Pro account?, switch account
+709,709,Customer: I want assistance seeing what shipping methods I can choose, delivery options
+710,710,Customer: status of order 00123842, track order
+711,711,Customer: can ya helpme to check the payment modalities, check payment methods
+712,712,Customer: how do i send feedback about aproduct, review
+713,713,Customer: I expect a refund of $1200, track refund
+714,714,Customer: need assistance speaking to a live agent, contact human agent
+715,715,Customer: can you help me downloading the invoices from David Miller?, get invoice
+716,716,Customer: update order 113542617735902, change order
+717,717,Customer: how do I talk to damn customer service?, contact customer service
+718,718,Customer: where to make a customer reclamation against your company?, complaint
+719,719,Customer: want assistance to solve errors with online payment, payment issue
+720,720,Customer: is it possible to see what shipment options I have?, delivery options
+721,721,Customer: I have got to see what hours I can contact customer service, contact customer service
+722,722,Customer: what do I need to do to download the invoice #00108?, get invoice
+723,723,Customer: how to enter a new delivery address, set up shipping address
+724,724,Customer: want assistance downloading the invoice #85632, get invoice
+725,725,Customer: where to acquire several of ur item, place order
+726,726,Customer: how can I check what shipment methods you offer?, delivery options
+727,727,Customer: can ya help me get my bill #37777, get invoice
+728,728,Customer: help me to see how soon can I expect my product, delivery period
+729,729,Customer: I need to see how soon can I expect my item, delivery period
+730,730,Customer: assistance clsoing a pro account, delete account
+731,731,Customer: i dont knos how to notify of issues with a registration, registration problems
+732,732,Customer: open a standard account, create account
+733,733,Customer: where do i give a quick look at the invoices frlm Mr. Smith, check invoice
+734,734,Customer: I don't know what I have to do to purchase some damn items, place order
+735,735,Customer: i have got to close my bloody free account i need help, delete account
+736,736,Customer: where do I demand fucking compensations of my money?, get refund
+737,737,"Customer: I expect a rebate of $160, has it been processed already?", track refund
+738,738,Customer: wanna leave a bloody opinion about ur servics, review
+739,739,Customer: purchase 00123842 status, track order
+740,740,Customer: lodge consumerclaim, complaint
+741,741,Customer: need help to takl with damn customer support, contact customer service
+742,742,Customer: help me unsubscribing from the corporate newsletter, newsletter subscription
+743,743,Customer: help checking the early termination fees, check cancellation fee
+744,744,Customer: wanna filr a complaint against ur company, complaint
+745,745,"Customer: I no longer use my gold account, how can I close it?", delete account
+746,746,Customer: I have to inform of a problem with sign-up, registration problems
+747,747,Customer: I have a question about the removal of my freemium account, delete account
+748,748,Customer: I want assistance changing the address, change shipping address
+749,749,Customer: what do i have to do to ask for a compensation of money, get refund
+750,750,Customer: what do i have to do to enter another shipping address, set up shipping address
+751,751,Customer: i paid $299 for this product  how to receive a reimbursement, get refund
+752,752,Customer: where could I see the cancellation charges?, check cancellation fee
+753,753,Customer: I need assistance submitting a secondary shipping address, set up shipping address
+754,754,Customer: I want assistance informing of troubles with online payment, payment issue
+755,755,Customer: want assistance seeing the ETA of the order 732201349959, track order
+756,756,Customer: I don't know how I could check when will my purchase arrive, delivery period
+757,757,Customer: switch to standard account, switch account
+758,758,Customer: i want help talking with an operator, contact human agent
+759,759,Customer: help seeing ur available payment methods, check payment methods
+760,760,Customer: I want help to request reimbursements of my money, get refund
+761,761,Customer: i do not know how i can locate invoice #85632, check invoice
+762,762,Customer: checking ETA of order 370795561790, track order
+763,763,Customer: i donmt know how i can notify of an error with sign-up, registration problems
+764,764,Customer: open Platinum acount, create account
+765,765,Customer: could you help me set a fucking delivery address up?, set up shipping address
+766,766,Customer: need assistance to cancel order 732201349959, cancel order
+767,767,Customer: how could ireport signup problems, registration problems
+768,768,Customer: help me purchase several items, place order
+769,769,"Customer: I have to receive the newsletter, can you help me?", newsletter subscription
+770,770,Customer: I need help checking your available payment methods, check payment methods
+771,771,Customer: can you help me to see what shipment options I have?, delivery options
+772,772,Customer: where can i make a complaint against ur organization, complaint
+773,773,Customer: checking invoice from David Miller, check invoice
+774,774,Customer: reporting trouble with online payment, payment issue
+775,775,Customer: switching to another account, switch account
+776,776,Customer: want help checking how soon can I expect my item, delivery period
+777,777,Customer: I do not know what I need to do to close my standard account, delete account
+778,778,Customer: where to send my feedback for ur services, review
+779,779,Customer: chat wth somebody, contact human agent
+780,780,Customer: correcting data on pro acxcount, edit account
+781,781,Customer: i want assistance to inform of an issue with payment, payment issue
+782,782,"Customer: my experience with your service was bad, file a claim", complaint
+783,783,Customer: can ya helpme talk to customer service, contact customer service
+784,784,Customer: I want help to check the withdrawal penalties, check cancellation fee
+785,785,Customer: acquire an article, place order
+786,786,Customer: where can i report a registration error, registration problems
+787,787,"Customer: I have to see when will my purchase arrive, help me", delivery period
+788,788,Customer: could you help me to leave a comment about a product?, review
+789,789,Customer: I want help resetting my user account key, recover password
+790,790,Customer: how do I cancel a standard account?, delete account
+791,791,"Customer: you are not helpful, I want to speak to a human agent", contact human agent
+792,792,Customer: can uhelp me to see the early exit fee, check cancellation fee
+793,793,Customer: I want help receiving a rebate of money, get refund
+794,794,Customer: help me check the damn early termination fees, check cancellation fee
+795,795,Customer: i need help to get the invoices from David Miller, get invoice
+796,796,Customer: shipping to Valencia, delivery options
+797,797,Customer: I want assistance sending some feedback for your services, review
+798,798,Customer: I try to see in which cases can I ask for refunds, check refund policy
+799,799,Customer: I can't reset the access key of my user profile, recover password
+800,800,Customer: I cannot switch to the Gold account, switch account
+801,801,Customer: can you help me to notify of a fucking problem with payment?, payment issue
+802,802,Customer: want assistance to cancel order 370795561790, cancel order
+803,803,Customer: I can't switch several products of order 00123842, change order
+804,804,"Customer: I can't open a user, inform of registration errors", registration problems
+805,805,Customer: updating data on standard account, edit account
+806,806,Customer: can you show me the withdrawal  penalty?, check cancellation fee
+807,807,Customer: i do not know how to remove the freemium account, delete account
+808,808,Customer: help me to change to the Premium account, switch account
+809,809,Customer: open a free account, create account
+810,810,Customer: where to cancel purchase 00004587345?, cancel order
+811,811,Customer: changing to gold account, switch account
+812,812,"Customer: I want to see the payment methods, help me", check payment methods
+813,813,Customer: want help to submit feedback about ur company, review
+814,814,Customer: i hsve to use the Platinum profile how do i do it, switch account
+815,815,Customer: I don't know how I can change to the Premium account, switch account
+816,816,Customer: i dont know how i can modufy my delivery address, change shipping address
+817,817,Customer: need assistance calling customer support, contact customer service
+818,818,Customer: can I update my address?, change shipping address
+819,819,Customer: I need help shopping a damn article, place order
+820,820,Customer: wherer can i get information about a premium account removal, delete account
+821,821,Customer: I do not know how I can write an opinion about your products, review
+822,822,Customer: i want infolrmation about opening free accounts, create account
+823,823,Customer: editing details on standard account, edit account
+824,824,Customer: help me ordering a few of your article, place order
+825,825,Customer: is there an e-mail to leave a review for a product ?, review
+826,826,Customer: i need help checking in which cases can i ask for refunds, check refund policy
+827,827,Customer: cancelling purchase 732201349959, cancel order
+828,828,Customer: will you show me in what situations can I ask for refunds?, check refund policy
+829,829,Customer: i dont know what to do to notify of payment issues, payment issue
+830,830,Customer: I'm trying to open an standard account for my daughter, create account
+831,831,Customer: can I check how long it takes for my damn parcel to arrive?, delivery period
+832,832,Customer: I try to see the status of order 00004587345, track order
+833,833,Customer: change to free account, switch account
+834,834,Customer: i dont know what i need to do to make a customer complaint, complaint
+835,835,Customer: I'm trying to inform of a payment error, payment issue
+836,836,Customer: modifying premium account, edit account
+837,837,"Customer: I don't have a bloody gold account , how could I open one?", create account
+838,838,Customer: wanna check ur refun policy can uhelp me, check refund policy
+839,839,Customer: question about canceling purchase 00004587345, cancel order
+840,840,Customer: can you show  me how long refunds usually take?, check refund policy
+841,841,Customer: i do not know what to do to close my Platinum account, delete account
+842,842,Customer: add something to order 00123842, change order
+843,843,Customer: assistance updating purchase 00123842, change order
+844,844,Customer: I'd like  to list the allowed payment methods how do i do it, check payment methods
+845,845,Customer: i dont know what i have to do to create a Gold account, create account
+846,846,Customer: shipping to Liverpool, delivery options
+847,847,Customer: hw can i cancel purchase 113542617735902, cancel order
+848,848,Customer: I try to see the ETA of order 00123842, track order
+849,849,Customer: I have got to speak with a human agent, contact human agent
+850,850,Customer: I need assistance notifying of a trouble with payments, payment issue
+851,851,Customer: i expect a rebate of $350, track refund
+852,852,Customer: I have got to see the early exit fees, check cancellation fee
+853,853,Customer: can you tell me more about opening Premium accounts?, create account
+854,854,Customer: getting invoices from last purchase, get invoice
+855,855,Customer: need help to check how soon can i expect my product, delivery period
+856,856,Customer: I need help to see in what cases can I ask for refunds, check refund policy
+857,857,Customer: I want information about the cancellation of my free account, delete account
+858,858,Customer: I don't know how I could check your reimbursement policy, check refund policy
+859,859,Customer: could uhelp me to create an Platinum account for my wife, create account
+860,860,Customer: I want help reporting a sign-up error, registration problems
+861,861,Customer: create standard account for bride, create account
+862,862,"Customer: I am waiting for a refund of $299, has it been processed?", track refund
+863,863,Customer: reporting issues creating user, registration problems
+864,864,"Customer: I no longer want my Premium account, how to reove it?", delete account
+865,865,Customer: i do not know what i need to do to purchase some of ur item, place order
+866,866,Customer: can I see in what situations can I request redimbursements?, check refund policy
+867,867,Customer: need to remove some items from order 370795561790, change order
+868,868,"Customer: I paid 350 dollars for this order, I need my compensation", get refund
+869,869,Customer: show me the bills from Mr. Smith, check invoice
+870,870,Customer: getting refund of money, get refund
+871,871,Customer: show me under which circumstances can I request refunds, check refund policy
+872,872,Customer: i have to check thee damn payment modalities i need help, check payment methods
+873,873,Customer: i need help to correct the delivery address, change shipping address
+874,874,Customer: I am waiting for a compensation of $350, track refund
+875,875,Customer: i call to get the bill from Mr. Jones, get invoice
+876,876,Customer: how do i write a comment for ur services, review
+877,877,Customer: I want help reporting an isue with payment, payment issue
+878,878,Customer: help me to check at what time I can reach customer support, contact customer service
+879,879,Customer: editing details on pro account, edit account
+880,880,Customer: problems with platinum account terminations, delete account
+881,881,Customer: deleting pro account, delete account
+882,882,Customer: can i submit another shipping address, set up shipping address
+883,883,Customer: get bills from David Miller, get invoice
+884,884,Customer: I do not know how I can get the bill from Anna Freeman, get invoice
+885,885,Customer: I call to download the invoices from Anna Freeman, get invoice
+886,886,Customer: where do i check what hours customer assistance available is, contact customer service
+887,887,Customer: how do i download my fucking bils from Ms. Hawkings, get invoice
+888,888,Customer: where do I open a platinum account for my fiancee?, create account
+889,889,Customer: I need assistance submitting another shipping address, set up shipping address
+890,890,Customer: I want information about my company newsletter subscription, newsletter subscription
+891,891,Customer: updating information on platinum account, edit account
+892,892,Customer: I'm waiting for a refund of 299 dollars, track refund
+893,893,Customer: want assistance seeing ur money back guarantee, check refund policy
+894,894,Customer: I want to inform of sign-up issues, registration problems
+895,895,Customer: wanna find the inovice #00108 i need help, check invoice
+896,896,Customer: i have got to update my address, change shipping address
+897,897,Customer: what do I have to do to cancel the newsletter subscription?, newsletter subscription
+898,898,"Customer: I have to see the withdrawal penalty, how can I do it?", check cancellation fee
+899,899,Customer: I don't know how I can give a quick look at bill #12588, check invoice
+900,900,Customer: ik want assistance seeing the withdrawal fee, check cancellation fee
+901,901,Customer: help seeing at what time customer support available is, contact customer service
+902,902,Customer: is it possible to place an order from Dublin, delivery options
+903,903,Customer: want help to use  the Premium account, switch account
+904,904,Customer: i expect a reimbursement of $1499, track refund
+905,905,"Customer: I cannot pay, I have to inform of payment issues", payment issue
+906,906,"Customer: I would like to file a complaint, how to do it?", complaint
+907,907,Customer: there is a trouble entering a delivery address, set up shipping address
+908,908,Customer: I want assistance to cancel the free account, delete account
+909,909,Customer: show me the early exit charge, check cancellation fee
+910,910,Customer: i dont want the last damn purchase i made can i cancel it, cancel order
+911,911,Customer: can ya help me to send my feedback for ur services, review
+912,912,"Customer: I cannot create a profile, can I report sign-up errors?", registration problems
+913,913,Customer: can you show me in what cases can I request reimbursements?, check refund policy
+914,914,Customer: I have issues trying to edit my delivery address, change shipping address
+915,915,Customer: I am trying to cancel my damn subscription to the newsletter, newsletter subscription
+916,916,Customer: assistance sending bloody feedback about ur company, review
+917,917,Customer: check invoice from Ms. Hawkings, check invoice
+918,918,Customer: where can I report a trouble with payments?, payment issue
+919,919,"Customer: I need to enter another shipping address, how could I do it?", set up shipping address
+920,920,Customer: issue with payments, payment issue
+921,921,Customer: i do nolt know how to open a Platinum account for my wife, create account
+922,922,Customer: help to get my invoices from David Miller, get invoice
+923,923,Customer: I do not know how I can correct the delivery address, change shipping address
+924,924,Customer: i dont know what i need to do to see the early exit charges, check cancellation fee
+925,925,Customer: can you help me see your accepted payment methods?, check payment methods
+926,926,Customer: I have a question about my PIN code reset, recover password
+927,927,Customer: I do not know how to inform of problems with a registration, registration problems
+928,928,Customer: need help to see the et of order 732201349959, track order
+929,929,Customer: I need to correct the goddamn shipping address, change shipping address
+930,930,Customer: i do not know what i need to do to speak to a person, contact human agent
+931,931,Customer: checking status of order 732201349959, track order
+932,932,Customer: I need help to notify of a trouble with online payment, payment issue
+933,933,Customer: problem with Gold account cancellations, delete account
+934,934,Customer: help to use the platinum profile, switch account
+935,935,Customer: how can I check the available payment options?, check payment methods
+936,936,Customer: need help speaking with somebody, contact human agent
+937,937,Customer: want help ti earn some of ur product, place order
+938,938,Customer: checking invoice from Mr. Jones, check invoice
+939,939,Customer: want assistance making a customer reclamation, complaint
+940,940,Customer: I have got to speak with somebody, contact human agent
+941,941,Customer: what do i need to do to notify of a signup issue, registration problems
+942,942,Customer: i need help speaking with customer service, contact customer service
+943,943,Customer: updating details on pro account, edit account
+944,944,Customer: I cannot check your money back guarantee, check refund policy
+945,945,Customer: I don't know how I can sign up to the newsletter, newsletter subscription
+946,946,Customer: customersupport e-mail, contact customer service
+947,947,Customer: I want help setting up a different delivery address, set up shipping address
+948,948,Customer: could you help me contact an agent?, contact human agent
+949,949,Customer: refund $160, get refund
+950,950,Customer: need to speak to an operator, contact human agent
+951,951,Customer: I need help seeing how long reimbursements take, check refund policy
+952,952,Customer: I am trying to add several products to order 00004587345, change order
+953,953,Customer: I am trying to recover the PIN of my user profile, recover password
+954,954,Customer: can ya help me shopping several products, place order
+955,955,Customer: get invoices from David Miller, get invoice
+956,956,Customer: i need help to cancel order 370795561790, cancel order
+957,957,Customer: check status of refund, track refund
+958,958,Customer: opening new free account, create account
+959,959,Customer: I have a problem with creating a Platinum account, create account
+960,960,Customer: getting money back, get refund
+961,961,Customer: rebating 350 dollars, get refund
+962,962,Customer: I need help to see what shipment methods are available, delivery options
+963,963,Customer: help me to make a consumer claim against your organization, complaint
+964,964,Customer: close gold account, delete account
+965,965,Customer: rebate 350 dollars, get refund
+966,966,Customer: refund 350 dollars, get refund
+967,967,"Customer: I have to check the early exit penalties, can you help me?", check cancellation fee
+968,968,Customer: I do not know how I can see when my order is going to arrive, delivery period
+969,969,Customer: assistance to see purchase 370795561790 status, track order
+970,970,Customer: I'm waiting for a compesation of 299 dollars, track refund
+971,971,Customer: can i add some articles to order 00004587345, change order
+972,972,Customer: I'm trying to contact a human agent, contact human agent
+973,973,Customer: I do not know how to see the status of my reimbursement, track refund
+974,974,Customer: i do not know how i can switch to the free cacount, switch account
+975,975,Customer: i need hep talking to a person, contact human agent
+976,976,"Customer: I would like to track the bloody refund, help me", track refund
+977,977,Customer: I want assistance to get my bill #12588, get invoice
+978,978,Customer: is it possible to place an order from Hungary?, delivery options
+979,979,Customer: need assistance to enter the shipping address, set up shipping address
+980,980,Customer: how to request a refund?, get refund
+981,981,Customer: i dont know how to see ur payment methods, check payment methods
+982,982,Customer: I need help to receive your fucking corporate newsletter, newsletter subscription
+983,983,Customer: I don't know how to notify of problpems with payment, payment issue
+984,984,Customer: help to use the free prfoile, switch account
+985,985,Customer: reporting issues with payments, payment issue
+986,986,Customer: help me making a consumer complaint, complaint
+987,987,Customer: i needassistance with adding an item to order 732201349959, change order
+988,988,Customer: can you help me submitting a delivery address?, set up shipping address
+989,989,Customer: change to Freemium account, switch account
+990,990,Customer: can I use the Platinum profile?, switch account
+991,991,Customer: uhave a free of charge customer service phone number, contact customer service
+992,992,Customer: I do not know how to submit the delivery address, set up shipping address
+993,993,Customer: i need help talking to a live agent, contact human agent
+994,994,Customer: help me make a reclamation against your business, complaint
+995,995,Customer: how can I request a restitution of my money ?, get refund
+996,996,Customer: assistance making a consumer claim against your organization, complaint
+997,997,Customer: need assistance seeing ur money back policy, check refund policy
+998,998,Customer: I try to notify of an issue with a signup, registration problems
+999,999,Customer: i do not know how to file a consumer reclamation, complaint
+1000,1000,Customer: I do not know what to do to download my bills from Mr. Smith, get invoice
+1001,1001,"Customer: I want to do a fucking purchase, can you help me?", place order
+1002,1002,Customer: there is an error setting the shipping address up, set up shipping address
+1003,1003,Customer: help me resoring my profile pwd, recover password
+1004,1004,"Customer: you aren't being helpful, I want help talking with someone", contact human agent
+1005,1005,Customer: i have a problem with cancelling purchase  00004587345, cancel order
+1006,1006,Customer: i try to earn a fvew of ur product, place order
+1007,1007,Customer: new bloody standard account, create account
+1008,1008,Customer: want help sending some feedback about a service, review
+1009,1009,Customer: help me to cancel order 113542617735902, cancel order
+1010,1010,Customer: need help takling with customer service, contact customer service
+1011,1011,Customer: editing information on premium account, edit account
+1012,1012,Customer: help ot check the withdrawal penalties, check cancellation fee
+1013,1013,Customer: cirrect information on standard account, edit account
+1014,1014,Customer: hel me to check what hours I can contact customer support, contact customer service
+1015,1015,Customer: i exoect a damn restitution of 299 dollars, track refund
+1016,1016,Customer: i try toi report errors with payments, payment issue
+1017,1017,Customer: I need help checking what payment options are accepted, check payment methods
+1018,1018,Customer: I have got to check the options for shipment, delivery options
+1019,1019,Customer: I am waiting for a compensation of 1200 dollars, track refund
+1020,1020,Customer: how do I change to the Freemium account?, switch account
+1021,1021,Customer: where can I check what hours I can contact customer support?, contact customer service
+1022,1022,Customer: i have to check at what time i can reach customer support, contact customer service
+1023,1023,Customer: i want assistance talking to a live agent, contact human agent
+1024,1024,Customer: I want tocheck at what time customer service available is, contact customer service
+1025,1025,Customer: I am waiting for a reimbursement of 350 dollars, track refund
+1026,1026,Customer: leaving review for your company, review
+1027,1027,Customer: want assistance swapping a article of order 00004587345, change order
+1028,1028,Customer: i need azssistance to look for the invoice #85632, check invoice
+1029,1029,Customer: I have to check the early termination pealties, check cancellation fee
+1030,1030,Customer: I'm waiting for a reimbursement fo 1200 dollars, track refund
+1031,1031,Customer: have a question about a lost padsword, recover password
+1032,1032,Customer: how could I see your allowed payment modalities?, check payment methods
+1033,1033,Customer: i cannot sign up where to notify of goddamn signup problems, registration problems
+1034,1034,Customer: i do not want the freemium account i need help to cancel it, delete account
+1035,1035,Customer: need supports trying to modify my address, change shipping address
+1036,1036,Customer: how to remove an item from order 370795561790, change order
+1037,1037,"Customer: I can't register, how can I inform of sign-up errors?", registration problems
+1038,1038,Customer: i want help talking with customer service, contact customer service
+1039,1039,Customer: I need to see the delivery methods, delivery options
+1040,1040,Customer: can i check in what situations can i ask to be reimbursed, check refund policy
+1041,1041,Customer: I don't know how to demand a rebate, get refund
+1042,1042,Customer: help to check the early exit fees, check cancellation fee
+1043,1043,Customer: need to cancel order 370795561790, cancel order
+1044,1044,Customer: assistance changing to the freemium account, switch account
+1045,1045,Customer: how could I lodge a customer claim against your company?, complaint
+1046,1046,Customer: assistance recovering the access key of my user, recover password
+1047,1047,Customer: need help to check the invoices from David Miller, check invoice
+1048,1048,Customer: can uhelp me to inofrm of issues with payments, payment issue
+1049,1049,Customer: i dont know what to doto file a reclamation, complaint
+1050,1050,Customer: want help to see ur accepted payment modalities, check payment methods
+1051,1051,Customer: changing to Pro account, switch account
+1052,1052,"Customer: I expect a compensation of $299, was it processed", track refund
+1053,1053,Customer: I can't check the status of my newsletter subscription, newsletter subscription
+1054,1054,Customer: notifying of error creating accojnt, registration problems
+1055,1055,Customer: how cann I change to the freemium account?, switch account
+1056,1056,Customer: reimburse $160, get refund
+1057,1057,Customer: see estimated time ofarrival of order 370795561790, track order
+1058,1058,Customer: what do I have to do to see your available payment options?, check payment methods
+1059,1059,Customer: i paid $160 for this article where to receive a damn refund, get refund
+1060,1060,Customer: is it possible to place an order from Philadelphia, delivery options
+1061,1061,Customer: i do not know how i can receiv ur company newsletter, newsletter subscription
+1062,1062,Customer: I don't know what to do to talk to a person, contact human agent
+1063,1063,Customer: how do I add several items to order 732201349959 ?, change order
+1064,1064,Customer: I want help asking for refunds of money, get refund
+1065,1065,Customer: I want assistance closing my goddamn platinum cacount, delete account
+1066,1066,Customer: I don't know what to do to recover my user key, recover password
+1067,1067,Customer: assistance tocheck the termination fee, check cancellation fee
+1068,1068,Customer: how can I create a Gold account?, create account
+1069,1069,Customer: trouble setting up a damn new shipping address, set up shipping address
+1070,1070,Customer: correct details on pro account, edit account
+1071,1071,Customer: cancel purhase 00123842, cancel order
+1072,1072,Customer: I want assistance to check the termination fees, check cancellation fee
+1073,1073,Customer: check order 00123842 status, track order
+1074,1074,Customer: need assistance solving a problem with payment, payment issue
+1075,1075,Customer: help listing the fucking available payment options, check payment methods
+1076,1076,Customer: help talking to somebody, contact human agent
+1077,1077,Customer: I want to list your payment modalities, check payment methods
+1078,1078,Customer: want help to solve a trouble with online payment, payment issue
+1079,1079,Customer: changing to free account, switch account
+1080,1080,Customer: I don't know what to do to reset my user account PIN code, recover password
+1081,1081,Customer: i dont know what i have to do to switch to the gold acdount, switch account
+1082,1082,Customer: where to inform of payment issues?, payment issue
+1083,1083,Customer: how can I notify of an error with payment?, payment issue
+1084,1084,Customer: I am trying to unsubscribe to the newsletter, newsletter subscription
+1085,1085,"Customer: I have to check your reimbursement policy, I need assistance", check refund policy
+1086,1086,Customer: help to check how long the delivery takes, delivery period
+1087,1087,Customer: I don't know how I can download my bills from Mr. Smith, get invoice
+1088,1088,Customer: is it possible to set up a different delivery address?, set up shipping address
+1089,1089,Customer: need to download invoice #12588 how do i do it, get invoice
+1090,1090,Customer: i forgot my pwd where to restore it, recover password
+1091,1091,Customer: i have a problem with the terminatoin of a Gold account, delete account
+1092,1092,Customer: help me acquiring several of your product, place order
+1093,1093,Customer: what do I have to do to file a claim?, complaint
+1094,1094,Customer: what do i have to do to close the free account, delete account
+1095,1095,Customer: wanna check the cancellation penalty i need help, check cancellation fee
+1096,1096,Customer: want assistance to recover the PIN code of my user, recover password
+1097,1097,Customer: I'm experiencing an error with the online registration, registration problems
+1098,1098,Customer: error with online payments, payment issue
+1099,1099,Customer: wanna use a different user account help me, switch account
+1100,1100,Customer: assistance informing of rgistration problems, registration problems
+1101,1101,Customer: shipments to Toronto, delivery options
+1102,1102,Customer: help sending some feedback about your products, review
+1103,1103,Customer: make order, place order
+1104,1104,Customer: I want help to cancel purchase 732201349959, cancel order
+1105,1105,Customer: I need help seeing in what situations can I request a refund, check refund policy
+1106,1106,Customer: how can I cancel my subscription to the newsletter?, newsletter subscription
+1107,1107,Customer: i have a question about opening a platinum account, create account
+1108,1108,Customer: i need assistance buying some products, place order
+1109,1109,Customer: can I leave a comment about your company?, review
+1110,1110,Customer: want assistance to set u the delivery address, set up shipping address
+1111,1111,Customer: where do I unsubscribe to the company newsletter?, newsletter subscription
+1112,1112,Customer: i have submittd a wrong shipping address update it, change shipping address
+1113,1113,Customer: could uhelp me notify of fucking signup errors, registration problems
+1114,1114,Customer: assistance to talk to a live agent, contact human agent
+1115,1115,"Customer: I need to modify my delivery address, how can I do it?", change shipping address
+1116,1116,Customer: where to notify of an issue with payment?, payment issue
+1117,1117,Customer: shipments to Liverpool, delivery options
+1118,1118,Customer: can ya help me to receive the newsletter, newsletter subscription
+1119,1119,Customer: I want help to file a consumerf complaint, complaint
+1120,1120,Customer: where do i check the withdrawal fees, check cancellation fee
+1121,1121,Customer: I need assistance setting a newdelivery address up, set up shipping address
+1122,1122,Customer: wanna see the cancellaiton charges, check cancellation fee
+1123,1123,"Customer: I want to oder several of your item, how to do it?", place order
+1124,1124,Customer: wanna write an opinion about a service how could i do it, review
+1125,1125,Customer: help to talk to customer assistance, contact customer service
+1126,1126,Customer: i dont know what i have to do to call customer service, contact customer service
+1127,1127,Customer: switching to pro account, switch account
+1128,1128,Customer: where do I submit a secondary shipping address?, set up shipping address
+1129,1129,Customer: how can i see purchase 370795561790 current status, track order
+1130,1130,Customer: I need help to recover the PIN of my account, recover password
+1131,1131,Customer: i have a question about canceling order 00123842, cancel order
+1132,1132,Customer: I'd like to check how soon can i expect the item help me, delivery period
+1133,1133,Customer: assistance trying to update the address, change shipping address
+1134,1134,Customer: i do not know how to speak to an agent, contact human agent
+1135,1135,Customer: see order 732201349959 status, track order
+1136,1136,Customer: need help writing a review for your services, review
+1137,1137,Customer: I don't know how to demand a goddamn restitution of my money, get refund
+1138,1138,"Customer: I made a mistake, help correcting order 00004587345", change order
+1139,1139,Customer: can you help me to order some of your item?, place order
+1140,1140,Customer: could you help me create a standard account for my wife?, create account
+1141,1141,Customer: I don't know what I have to do to shop some of your product, place order
+1142,1142,Customer: request restitution of money, get refund
+1143,1143,Customer: i have problems with the cancellation of a Gold  account, delete account
+1144,1144,Customer: I have got to change to the premium account, switch account
+1145,1145,Customer: i have got to speak to customer assistance how to do it, contact customer service
+1146,1146,Customer: what do I need to do to receive your company newsletter?, newsletter subscription
+1147,1147,Customer: i have to  locate the invoice from Ms. Hawkings, check invoice
+1148,1148,Customer: need assistance setting up my shipping address, set up shipping address
+1149,1149,Customer: i need assistance opehing a premium account for my wife, create account
+1150,1150,Customer: i dont know how i can create a Freemium account, create account
+1151,1151,Customer: I am trying to see the accepted payment methods, check payment methods
+1152,1152,Customer: issue setting up a different delivery address, set up shipping address
+1153,1153,Customer: need help seeing how soon can I expect my delivery, delivery period
+1154,1154,"Customer: I have ordered some products, cancel purchase 732201349959", cancel order
+1155,1155,Customer: I'm trying to receive a compensation of my money, get refund
+1156,1156,Customer: need to demand a refund of money, get refund
+1157,1157,"Customer: I hhave to enter the shipping address, how to do it?", set up shipping address
+1158,1158,Customer: updating standard account, edit account
+1159,1159,Customer: I need to change several products of purchase 00004587345, change order
+1160,1160,Customer: wanna subscribe to ur newsletter, newsletter subscription
+1161,1161,Customer: I want help to cancel purchase 113542617735902, cancel order
+1162,1162,Customer: I expect a restitution of 299 dollars, track refund
+1163,1163,Customer: I do not know how to receive the company newsletter, newsletter subscription
+1164,1164,Customer: the delivery address changed could ya help me updare it, change shipping address
+1165,1165,"Customer: I want to reset my damn user account access key, help me", recover password
+1166,1166,Customer: use another account, switch account
+1167,1167,Customer: see in what situations can I request my money back, check refund policy
+1168,1168,Customer: check the status of purchase 113542617735902, track order
+1169,1169,Customer: i do not know how i can change to the Platinum account, switch account
+1170,1170,Customer: I want to list your paymnet methods, check payment methods
+1171,1171,"Customer: you aren't helpful, how to talk with a live agent?", contact human agent
+1172,1172,Customer: i have got to swap several articles of purchase 370795561790, change order
+1173,1173,Customer: I don't know what I need to do to cancel a platinum account, delete account
+1174,1174,Customer: I'm trying to talk to somone, contact human agent
+1175,1175,Customer: help me check how soon can i expect my item, delivery period
+1176,1176,Customer: i have got to ask for rebates, get refund
+1177,1177,Customer: I do not know what I have to do to purchase some damn items, place order
+1178,1178,"Customer: I need to see your payment methods, could you help me?", check payment methods
+1179,1179,Customer: what do I have to do to check my invoices from David Miller?, check invoice
+1180,1180,Customer: I try to create a standard account for my wife, create account
+1181,1181,Customer: modify data on standard account, edit account
+1182,1182,Customer: how do i cancel my subscription to the company newsletter, newsletter subscription
+1183,1183,Customer: i want infolrmation about opening Premium accounts, create account
+1184,1184,Customer: I don't know how I can receive a reimbursement of money, get refund
+1185,1185,Customer: open standard account for bride, create account
+1186,1186,Customer: editing info on Platinum account, edit account
+1187,1187,Customer: correct details on Platinum account, edit account
+1188,1188,Customer: I need help to chat with an operator, contact human agent
+1189,1189,Customer: how do i delete my free account, delete account
+1190,1190,Customer: i want assistance to see the cancellation penzlties, check cancellation fee
+1191,1191,Customer: I do not know what to do to cancel order 113542617735902, cancel order
+1192,1192,Customer: check order 113542617735902 status, track order
+1193,1193,Customer: help me earn some products, place order
+1194,1194,Customer: I cannot swap an article of order 113542617735902, change order
+1195,1195,Customer: want help to see at what time I can cll customer support, contact customer service
+1196,1196,Customer: I need help informing of a problem with online payment, payment issue
+1197,1197,Customer: where do I see what hours I can reach customer service?, contact customer service
+1198,1198,Customer: wanna use hte freemium account will ya help me, switch account
+1199,1199,Customer: checking ETA of order 113542617735902, track order
+1200,1200,Customer: can ya help me checking ur reimbursement policy, check refund policy
+1201,1201,Customer: neeed assistance checking when my order is gonna arrive, delivery period
+1202,1202,"Customer: you are not helpful at all, I want help talking with someone", contact human agent
+1203,1203,Customer: how could i talk with an assistant, contact human agent
+1204,1204,Customer: issues submitting a shipping address, set up shipping address
+1205,1205,Customer: cancel order  732201349959, cancel order
+1206,1206,Customer: get in touch with customer assistance, contact customer service
+1207,1207,Customer: can suhow me what hours i can contact customer assistance, contact customer service
+1208,1208,Customer: quesdtion about canceling purchase 370795561790, cancel order
+1209,1209,Customer: there are probems editing the shipping address, change shipping address
+1210,1210,Customer: ned assistance to buy some of ur article, place order
+1211,1211,Customer: can you help me see when my item is going to arrive?, delivery period
+1212,1212,Customer: see bills from Mr. Smith, check invoice
+1213,1213,Customer: changing data on platinum account, edit account
+1214,1214,Customer: have a question about cancelling order 00004587345, cancel order
+1215,1215,Customer: can you help me to look for my invoice from Ms. Hawkings?, check invoice
+1216,1216,Customer: i have tolodge a reclamation, complaint
+1217,1217,Customer: could ya help me use the gold account, switch account
+1218,1218,Customer: problem with creating aPro account, create account
+1219,1219,Customer: assistance retrieving the pass of my user profile, recover password
+1220,1220,Customer: I try to hceck the status of purchase 00123842, track order
+1221,1221,Customer: I want help talking to someone, contact human agent
+1222,1222,Customer: I do not know how to check what shipping methods I have, delivery options
+1223,1223,Customer: assistance speaking to an agent, contact human agent
+1224,1224,"Customer: I need to list your available  payment methods, help me", check payment methods
+1225,1225,Customer: i dont know what to do to see when will my item arrive, delivery period
+1226,1226,Customer: help me to check order 113542617735902 current status, track order
+1227,1227,Customer: I can't notify of a sign-up problem, registration problems
+1228,1228,"Customer: I want to see how long the delivery takes, I need assistance", delivery period
+1229,1229,Customer: i have got to create a platinum account for my wife help me, create account
+1230,1230,Customer: i cannot create an account i have to report a signup problem, registration problems
+1231,1231,"Customer: I do not make use of the Gold account, how to cancel it?", delete account
+1232,1232,Customer: what do I have to do to talk with customer support?, contact customer service
+1233,1233,Customer: I am trying to cancel my corporate newsletter subscription, newsletter subscription
+1234,1234,Customer: why I cnnot set a fucking delivery address valid up, set up shipping address
+1235,1235,Customer: I want help to locate purchase 00123842, track order
+1236,1236,Customer: i have to correct my delivery address, change shipping address
+1237,1237,Customer: edit information on account, edit account
+1238,1238,Customer: correcting info on gold account, edit account
+1239,1239,Customer: want assistance to use the free account, switch account
+1240,1240,Customer: could you help me subscribe to your company newsletter ?, newsletter subscription
+1241,1241,Customer: I am trying to speak with an operator, contact human agent
+1242,1242,Customer: want help seeing when my order is gonna arrive, delivery period
+1243,1243,Customer: were to leave a review about your company?, review
+1244,1244,Customer: can you help me to take a quick look at invoice #12588?, check invoice
+1245,1245,Customer: need to see how long it takes for the article to arrive, delivery period
+1246,1246,Customer: i lost the goddamn pwd of my account need help to restore it, recover password
+1247,1247,Customer: can ushow me how long it takes for my item to arrive, delivery period
+1248,1248,Customer: i want assistance talking with somebody, contact human agent
+1249,1249,Customer: could you help me checking how soon can I expect my article?, delivery period
+1250,1250,Customer: i dont know how i can see the etrmination fee, check cancellation fee
+1251,1251,Customer: another pro account, create account
+1252,1252,Customer: i need assistance checking the early termination penalty, check cancellation fee
+1253,1253,Customer: wanna see order 370795561790 current status, track order
+1254,1254,Customer: i expect a rebate of 1499 dollars, track refund
+1255,1255,Customer: editing standard account, edit account
+1256,1256,Customer: edit order 732201349959, change order
+1257,1257,Customer: I need help to see when my shipment is going to arrive, delivery period
+1258,1258,Customer: help to submit my feedback, review
+1259,1259,Customer: what do I have to do to delete a platinum account?, delete account
+1260,1260,Customer: what do i need to do to chat with an assistant, contact human agent
+1261,1261,"Customer: I have to see the withdrawal fee, can I get some help?", check cancellation fee
+1262,1262,Customer: icannot open a Freemium account, create account
+1263,1263,Customer: reporting issue with payments, payment issue
+1264,1264,Customer: want assistance checking what payment methods are allowed, check payment methods
+1265,1265,Customer: i need assistance receiving the coroorate newsletter, newsletter subscription
+1266,1266,Customer: close Freemium account, delete account
+1267,1267,"Customer: I would like to edit my bloody account, how can I do it?", edit account
+1268,1268,Customer: what do I have to do to change to the Gold account?, switch account
+1269,1269,"Customer: I want to check the damn early exit fees, will you help me?", check cancellation fee
+1270,1270,Customer: i want assistance to make a consumer claim, complaint
+1271,1271,Customer: I'm waiting for a rebate of 160 dollars, track refund
+1272,1272,Customer: I do not know what to do to inform of errors with payments, payment issue
+1273,1273,Customer: wanna see the invoice from Mr. Smith, check invoice
+1274,1274,Customer: i have got to check the eaqrly exit penalty how can i do it, check cancellation fee
+1275,1275,Customer: checking invoices from Mr. Jones, check invoice
+1276,1276,Customer: updating info on Freemium account, edit account
+1277,1277,Customer: I need to earn several of your item, place order
+1278,1278,Customer: can i get my bill rfom Anna Freeman, get invoice
+1279,1279,Customer: show me in what situations can I ask for my money bacxk, check refund policy
+1280,1280,Customer: I want assistance to notify of payment problems, payment issue
+1281,1281,Customer: i do not know how to unsubsrcibe from ur newsletter, newsletter subscription
+1282,1282,Customer: use pro account, switch account
+1283,1283,Customer: I want assistance solving a trouble with online payments, payment issue
+1284,1284,Customer: help me seeing the goddamn cancellation charges, check cancellation fee
+1285,1285,Customer: do you deliver to Toronto?, delivery options
+1286,1286,Customer: cancel purhase 370795561790, cancel order
+1287,1287,Customer: i want assistance sending some feedback for ur services, review
+1288,1288,Customer: I have got to modify my address, change shipping address
+1289,1289,Customer: I need to notify of payment errors, payment issue
+1290,1290,Customer: I do not know what I have to do to see invoice #12588, check invoice
+1291,1291,Customer: i want help removing a product from order 00004587345, change order
+1292,1292,Customer: I have problems with my key reset, recover password
+1293,1293,Customer: edit data on premium account, edit account
+1294,1294,Customer: assistance lodging a customer claim against your business, complaint
+1295,1295,Customer: i have got to request goddamn erimbursements of my money, get refund
+1296,1296,Customer: edit info o premium account, edit account
+1297,1297,"Customer: I lost my invoice #00108, could you mail it to me?", get invoice
+1298,1298,Customer: i try to demand a compensation, get refund
+1299,1299,Customer: where can i cancfel order 113542617735902, cancel order
+1300,1300,Customer: help me retrieve my account access key, recover password
+1301,1301,Customer: close platinum account, delete account
+1302,1302,Customer: i need assistance to check when will my item arrive, delivery period
+1303,1303,Customer: I want help to locate  order 00123842, track order
+1304,1304,Customer: where can I check your available payment options?, check payment methods
+1305,1305,Customer: I have to locate my bills from Mr. Jones, check invoice
+1306,1306,Customer: inform of issues with online payment, payment issue
+1307,1307,Customer: where can i unsubscribe from the newsletter, newsletter subscription
+1308,1308,Customer: want assistance changing to the gold account, switch account
+1309,1309,Customer: i need help to track purchase 370795561790, track order
+1310,1310,Customer: refund 1200 dollars, get refund
+1311,1311,Customer: need to update purchase 00004587345, change order
+1312,1312,Customer: I have problems with my password recovery, recover password
+1313,1313,Customer: I want assistance resetting my user profile password, recover password
+1314,1314,Customer: get invoice from March, get invoice
+1315,1315,Customer: check status of order 113542617735902, track order
+1316,1316,Customer: information about forgotten pass, recover password
+1317,1317,Customer: I have a question about the deletion of a free account, delete account
+1318,1318,Customer: cancelling gold account, delete account
+1319,1319,Customer: i dont wnt my Freemium account i have to close it, delete account
+1320,1320,Customer: is it possible to check what payment options you accept?, check payment methods
+1321,1321,Customer: I am trying to leave feedback about a product, review
+1322,1322,Customer: i have to leave a rview about ur company i need assistance, review
+1323,1323,Customer: I'm trying to egt the bill #37777, get invoice
+1324,1324,Customer: I call to check what damn shipping methods are available, delivery options
+1325,1325,Customer: opening gold account, create account
+1326,1326,Customer: need to check my bill #12588 could i get some help, check invoice
+1327,1327,Customer: wanna download the bill from Ms. Hawkings i need assistance, get invoice
+1328,1328,Customer: i have a problem submitting the bloody new swhipping address, set up shipping address
+1329,1329,Customer: where can i get information about Freemium account deletions, delete account
+1330,1330,Customer: i have to notify of an sign-up problem how can i do it, registration problems
+1331,1331,Customer: refund $350, get refund
+1332,1332,Customer: I ned assistance to cancel my Platinum account, delete account
+1333,1333,Customer: need help to check at what time I can call customer service, contact customer service
+1334,1334,Customer: I need assistance speaking to customer support, contact customer service
+1335,1335,Customer: I have a problem updating my shipping address, change shipping address
+1336,1336,Customer: is there a section to leave a review about a service?, review
+1337,1337,Customer: I want to unsubscribe to your newsletter, newsletter subscription
+1338,1338,Customer: how could I remove some items from order 370795561790?, change order
+1339,1339,Customer: help checking in what cases can I request to be reimbursed, check refund policy
+1340,1340,Customer: need help unsubscribing from your company newsletter, newsletter subscription
+1341,1341,Customer: assistance checking the early termination penalties, check cancellation fee
+1342,1342,Customer: tell me more about editing my shipping address, change shipping address
+1343,1343,Customer: checking status of order 00123842, track order
+1344,1344,Customer: I need help to contact an operator, contact human agent
+1345,1345,Customer: i hae to create a platinum account, create account
+1346,1346,Customer: updating data on Gold account, edit account
+1347,1347,Customer: I expect a compensation of 1200 dollars, track refund
+1348,1348,Customer: I call to see how long it takes for my delivery to arrie, delivery period
+1349,1349,Customer: i expect a refund of $350, track refund
+1350,1350,Customer: wanna see the payment options i need assistance, check payment methods
+1351,1351,Customer: I don't know how to check how son can I expect the package, delivery period
+1352,1352,Customer: i want help filing a customer reclamation against ur company, complaint
+1353,1353,Customer: can you help me canceling purchase 00004587345 ?, cancel order
+1354,1354,Customer: edit order 00004587345, change order
+1355,1355,Customer: I have an trouble changing the address, change shipping address
+1356,1356,Customer: need to unsubscribe to ur newsletter will uhelp me, newsletter subscription
+1357,1357,Customer: I want help to get the invoice #37777, get invoice
+1358,1358,Customer: how can I see purchase 00123842 current status?, track order
+1359,1359,Customer: help me to ask for rebates, get refund
+1360,1360,Customer: shippoing to Hungary, delivery options
+1361,1361,Customer: assistance seeing in what cases can I request my money back, check refund policy
+1362,1362,"Customer: I want to check the payment options, can you help me?", check payment methods
+1363,1363,Customer: need help to check what payment methods are available, check payment methods
+1364,1364,Customer: I need assistance seeing how long the shipping takes, delivery period
+1365,1365,Customer: I don't know what I have to do to chat with an assistant, contact human agent
+1366,1366,Customer: can iswap an article of order 00004587345, change order
+1367,1367,Customer: help me seeing how long the delivery takes, delivery period
+1368,1368,Customer: help to check in what cases can I request to be reimnursed, check refund policy
+1369,1369,"Customer: you aren't helpful at all, help contacting an agent", contact human agent
+1370,1370,Customer: wuld it be possible to place an order from Seattle, delivery options
+1371,1371,Customer: want help checking the bill #12588, check invoice
+1372,1372,Customer: cancel purchase 00123842, cancel order
+1373,1373,Customer: what do I have to do to open a Platinum account?, create account
+1374,1374,Customer: I am trying to earn several items, place order
+1375,1375,Customer: i try to cancel the newsletter subscription, newsletter subscription
+1376,1376,Customer: I am trying to find information about a key reset, recover password
+1377,1377,Customer: subscribe to company newsletter, newsletter subscription
+1378,1378,Customer: i canot sign up how do i inform of goddamn signup problems, registration problems
+1379,1379,Customer: wanna file a reclamation, complaint
+1380,1380,Customer: find invoice #00108, check invoice
+1381,1381,Customer: help me to use the pro profile, switch account
+1382,1382,"Customer: I have got to contact customer support, I need help", contact customer service
+1383,1383,Customer: Ineed help updating my shipping address, change shipping address
+1384,1384,Customer: I can't cancel the subscription to the corporate newsletter, newsletter subscription
+1385,1385,Customer: problems submitting the delivery address, set up shipping address
+1386,1386,Customer: I want help to list the available payment methods, check payment methods
+1387,1387,Customer: shipping address not valid, set up shipping address
+1388,1388,Customer: i want help to file a consumer claim against ur company, complaint
+1389,1389,Customer: there are issues trying to edit my address, change shipping address
+1390,1390,Customer: problem with opening a Pro account, create account
+1391,1391,Customer: speak with an assistant, contact human agent
+1392,1392,Customer: order 370795561790 status, track order
+1393,1393,Customer: help me check in what cases can I ask to be reimbursed, check refund policy
+1394,1394,Customer: I am trying to ask for a compensation of my money, get refund
+1395,1395,Customer: can I use the free profile?, switch account
+1396,1396,Customer: I need to lodge a claim against yor business, complaint
+1397,1397,Customer: updating daat on gold account, edit account
+1398,1398,Customer: where could i notify of payment errors, payment issue
+1399,1399,Customer: i od not know how i can set up my new shipping address, set up shipping address
+1400,1400,Customer: I'd like to get my money back, get refund
+1401,1401,"Customer: I need to edit my user, will you help me?", edit account
+1402,1402,Customer: I can't locate order 370795561790, track order
+1403,1403,Customer: i need help giving a quick look at my invoice #00108, check invoice
+1404,1404,Customer: what are your payment modalities?, check payment methods
+1405,1405,Customer: I need assistance to solve bloody problems with payments, payment issue
+1406,1406,Customer: i have a problem setting up a shipping address, set up shipping address
+1407,1407,Customer: I do not know what I have to do to close the pro account, delete account
+1408,1408,Customer: inform of issues with online registration, registration problems
+1409,1409,Customer: need to earn some of ur item howe can i do it, place order
+1410,1410,Customer: what do I need to  do to request rebates?, get refund
+1411,1411,Customer: I cannot recover my user password, recover password
+1412,1412,Customer: iexpect a restitution of $1200 has it been processed, track refund
+1413,1413,Customer: I have a trouble setting up the secondary shipping address, set up shipping address
+1414,1414,Customer: assistance checking the currnet status of order 732201349959, track order
+1415,1415,Customer: I want assistance to talk with an assistant, contact human agent
+1416,1416,"Customer: I want to teack order 00004587345, how to do it?", track order
+1417,1417,Customer: how to use the Pro profile, switch account
+1418,1418,Customer: assistance informing of problems with payments, payment issue
+1419,1419,Customer: I need to reset my user PIN, recover password
+1420,1420,Customer: I need assistance trying to change the shipping  address, change shipping address
+1421,1421,Customer: i do not know how i can see ur accepted payment options, check payment methods
+1422,1422,Customer: need to see the payment methods, check payment methods
+1423,1423,Customer: I need to report an error with payment, payment issue
+1424,1424,Customer: want help to list ur damn accepted payment modalities, check payment methods
+1425,1425,Customer: help checking what ppayment payment modalities are available, check payment methods
+1426,1426,Customer: how to chat with someone, contact human agent
+1427,1427,Customer: is it possible to cancel order 113542617735902?, cancel order
+1428,1428,Customer: can I make an reclamation against your business?, complaint
+1429,1429,Customer: look for bill from David Miller, check invoice
+1430,1430,Customer: could you help me restoring my key?, recover password
+1431,1431,Customer: I need help checking when my parcel is going to arrive, delivery period
+1432,1432,Customer: creating pro account, create account
+1433,1433,Customer: where to set up the deliveryaddress?, set up shipping address
+1434,1434,Customer: I'm waiting for a reimbursement of $160, track refund
+1435,1435,Customer: assistance checking your acceptde payment methods, check payment methods
+1436,1436,Customer: I have got to see in what cases can I request refunds, check refund policy
+1437,1437,Customer: help me seeing the withdrawal penalties, check cancellation fee
+1438,1438,Customer: can you help me see the ETA of the purchase 00004587345?, track order
+1439,1439,Customer: show me the accepted paymnt options, check payment methods
+1440,1440,Customer: my delivery address  changed could ya change it, change shipping address
+1441,1441,Customer: i have got to check in what cases can i ask to be reimbursed, check refund policy
+1442,1442,Customer: where to leave a review for a product, review
+1443,1443,Customer: problems with the deletion of a platinum account, delete account
+1444,1444,Customer: can uhelp me to see the early exit penalty, check cancellation fee
+1445,1445,Customer: is it possible to place an order from Liverpool, delivery options
+1446,1446,Customer: need to download my bills from Mr. Smith how do i do it, get invoice
+1447,1447,"Customer: I need to subscribe to the corporate newsletter, help me", newsletter subscription
+1448,1448,Customer: is ti possible to place an order from Seattle?, delivery options
+1449,1449,Customer: I need information about the shipping period, delivery period
+1450,1450,Customer: help with creating my standard account, create account
+1451,1451,Customer: I try to retrieve the access key of my user, recover password
+1452,1452,Customer: help to check what payment payment modalities ya accept, check payment methods
+1453,1453,Customer: can ya help me check what hours i can reach customer sevrice, contact customer service
+1454,1454,Customer: I'm trying to find information about an address update, change shipping address
+1455,1455,Customer: I don't know what I have to do to shop an item, place order
+1456,1456,Customer: need assistance seeing your allowed payment options, check payment methods
+1457,1457,Customer: check order 00123842 current status, track order
+1458,1458,Customer: creating new platinum account for wife, create account
+1459,1459,Customer: can I check the withdrawal penalty?, check cancellation fee
+1460,1460,Customer: I need assistance checking your money back policy, check refund policy
+1461,1461,Customer: i dont know what i need to do to see ur refund policy, check refund policy
+1462,1462,Customer: consumer complaint against ur organization, complaint
+1463,1463,Customer: how do I inform of problems with signup?, registration problems
+1464,1464,Customer: what do I need to do to notify of issues with signup?, registration problems
+1465,1465,Customer: where can I update the delivery address?, change shipping address
+1466,1466,Customer: I need assistance to download the bill #12588, get invoice
+1467,1467,Customer: wanmt help to check the ETA of order 732201349959, track order
+1468,1468,Customer: help checking in which cases can i ask to be refunded, check refund policy
+1469,1469,Customer: where could  i cancel purchase 370795561790, cancel order
+1470,1470,Customer: help me file a consumer complaint against yor company, complaint
+1471,1471,"Customer: I need to modify the address, help me", change shipping address
+1472,1472,Customer: how do I enter my new shipping address?, set up shipping address
+1473,1473,"Customer: I want to purchase some items, could I get some help?", place order
+1474,1474,Customer: i need help to list ur acceted payment modalities, check payment methods
+1475,1475,Customer: want assistance to see the cancellation fee, check cancellation fee
+1476,1476,Customer: i need help writing a review about ur services, review
+1477,1477,Customer: tracking purchase 00123842, track order
+1478,1478,Customer: delete Gold account, delete account
+1479,1479,Customer: can uhelp me request a compensation of my money, get refund
+1480,1480,Customer: ineed information about shipping periods how could i get it, delivery period
+1481,1481,Customer: I am trying to check in which cases can I ask for a refund, check refund policy
+1482,1482,Customer: correct information on free account, edit account
+1483,1483,"Customer: I am experiencing errors registering, could you help me?", registration problems
+1484,1484,"Customer: I want to see how long the shipping takes, help me", delivery period
+1485,1485,Customer: opening new premium account, create account
+1486,1486,Customer: i need assistance speakign to a human agent, contact human agent
+1487,1487,Customer: need assistance to notify of errors with payment, payment issue
+1488,1488,Customer: i need assistance to purchase some of ur item, place order
+1489,1489,Customer: can you help me to use the Pro profile?, switch account
+1490,1490,Customer: I try to submit my feedback about a product, review
+1491,1491,Customer: i need help to find the fucking bills from Ms. Hawkings, check invoice
+1492,1492,"Customer: I expect a restitution of 299 dollars, was it processed", track refund
+1493,1493,Customer: i want assistance obtaining fucking restitutions of money, get refund
+1494,1494,Customer: I do not want purchase 732201349959, cancel order
+1495,1495,"Customer: I have got to call customer service, how to do it?", contact customer service
+1496,1496,Customer: I'm waiting for a compesation of 1200 dollars, track refund
+1497,1497,Customer: what do I have to do to see the accepted payment options?, check payment methods
+1498,1498,Customer: i expect a refund of $1499, track refund
+1499,1499,Customer: I have a trouble submitting my new delivery address, set up shipping address
+1500,1500,Customer: can you help me finding bill #37777?, check invoice
+1501,1501,Customer: help to see the eta of order 732201349959, track order
+1502,1502,Customer: how can i enter another shipping address, set up shipping address
+1503,1503,Customer: I expect a restitution of 160 dollars, track refund
+1504,1504,Customer: I need help cancelling order 370795561790, cancel order
+1505,1505,Customer: could i deete several damn articles from order 00004587345, change order
+1506,1506,Customer: problems with standard account terminations, delete account
+1507,1507,Customer: editing data on free account, edit account
+1508,1508,Customer: I try to download my invoice from Anna Freeman, get invoice
+1509,1509,Customer: how can I check the withdrawal charges?, check cancellation fee
+1510,1510,Customer: i have to see the ETA of order 732201349959 i need help, track order
+1511,1511,"Customer: I have got to talk to customer service, help me", contact customer service
+1512,1512,Customer: add something to order, change order
+1513,1513,Customer: would it be possible to remove my Gold account?, delete account
+1514,1514,Customer: opena gold account, create account
+1515,1515,Customer: how do I sign up to your corporate newsletter?, newsletter subscription
+1516,1516,Customer: correct information on Pro account, edit account
+1517,1517,Customer: assistance cancelling purchase 00123842, cancel order
+1518,1518,Customer: are there any early exit charges, check cancellation fee
+1519,1519,Customer: i want help to download th bills from Mr. Smith, get invoice
+1520,1520,Customer: need to hcange the information on my profile how to do it, edit account
+1521,1521,Customer: how can i get in touch with customer support, contact customer service
+1522,1522,Customer: I am waiting for a compensation of $1200, track refund
+1523,1523,Customer: I do not know how I can change to the standard account, switch account
+1524,1524,Customer: i want assistnce talking with customer service, contact customer service
+1525,1525,Customer: I don't know how to locate the invoice #85632, check invoice
+1526,1526,Customer: wanna check ur reimbursement policy can i get some help, check refund policy
+1527,1527,Customer: could you help me to check how soon can I expect my package?, delivery period
+1528,1528,Customer: is it possible to recover my user pin, recover password
+1529,1529,Customer: i have to see what payment options are available, check payment methods
+1530,1530,Customer: i expect a restitution of $350, track refund
+1531,1531,Customer: I do not know how to report a problem with registrations, registration problems
+1532,1532,Customer: modify purchase 00123842, change order
+1533,1533,Customer: i expect a restitution of 160 dollars, track refund
+1534,1534,Customer: checking status of order, track order
+1535,1535,Customer: i dont have a damn user account help me to create one, create account
+1536,1536,Customer: i dont know how i can earn several of ur item, place order
+1537,1537,Customer: modifying Freemium account, edit account
+1538,1538,Customer: i dont know what to do to see the early termination fee, check cancellation fee
+1539,1539,Customer: I am waiting for a restitution of 160 dollars, track refund
+1540,1540,Customer: i dont know how i can report errors with a registration, registration problems
+1541,1541,Customer: how can i get information about lost key, recover password
+1542,1542,Customer: I'm waiting for a restitution of $299 was it processed, track refund
+1543,1543,Customer: where can I change my address?, change shipping address
+1544,1544,Customer: I need assistance seeing your available payment modalities, check payment methods
+1545,1545,Customer: where to create a pro account?, create account
+1546,1546,Customer: acn uhelp me to download my bill from Anna Freeman, get invoice
+1547,1547,Customer: I don't know how to see the early exit charge, check cancellation fee
+1548,1548,Customer: there is an issue trying to change my address, change shipping address
+1549,1549,Customer: can you help me see trhe payment methods?, check payment methods
+1550,1550,Customer: can you help me shopping some of your item?, place order
+1551,1551,Customer: i want assikstance to talk with an agent, contact human agent
+1552,1552,Customer: i want assistance to solve troubles with online payments, payment issue
+1553,1553,Customer: tracking order 370795561790, track order
+1554,1554,Customer: would it be possible to locate purchase113542617735902?, track order
+1555,1555,Customer: edit info o freemium account, edit account
+1556,1556,Customer: I do notknow how to get my invoice from Ms. Hawkings, get invoice
+1557,1557,Customer: want help submitting my secondary delivery address, set up shipping address
+1558,1558,Customer: what do I have to do to report a signup error?, registration problems
+1559,1559,Customer: problems with opening a Premium account, create account
+1560,1560,Customer: open a gold account for my fiancee, create account
+1561,1561,"Customer: I am waiting for a refund of 350 dollars, was it processed", track refund
+1562,1562,"Customer: I need to check when will my article arrive, how do I do it?", delivery period
+1563,1563,Customer: I try to inform of a sign-up error, registration problems
+1564,1564,Customer: how to swap an fucking product of purchase 00004587345, change order
+1565,1565,Customer: what do i have to do to closd the premium account, delete account
+1566,1566,Customer: want assistance canceling my subscription to your newsletter, newsletter subscription
+1567,1567,Customer: problems with canceling purchase 370795561790, cancel order
+1568,1568,Customer: i have to see oredr 00123842 status i need help, track order
+1569,1569,Customer: I don't know what I have to do to download the bill #37777, get invoice
+1570,1570,Customer: hcanging details on Gold account, edit account
+1571,1571,Customer: i dont know what i have to do to check the termination fee, check cancellation fee
+1572,1572,"Customer: I need to check how soon can I expect the product, help me", delivery period
+1573,1573,Customer: show me at what time I can call customer assistance, contact customer service
+1574,1574,Customer: I don't know what to do to cancel my Pro account, delete account
+1575,1575,Customer: how do I file a customer claim against your organization?, complaint
+1576,1576,Customer: how can I filea claim?, complaint
+1577,1577,Customer: i need assistance seeong the ETA of order 00004587345, track order
+1578,1578,Customer: how can I check the early termination penalty?, check cancellation fee
+1579,1579,Customer: i have to notify of a problem with payments, payment issue
+1580,1580,Customer: check in what cases can I request a refund, check refund policy
+1581,1581,Customer: I need help to make a claim, complaint
+1582,1582,Customer: getting invoice from Mr. Jones, get invoice
+1583,1583,"Customer: I have to get the bills from Ms. Hawkings, help me", get invoice
+1584,1584,Customer: I'm waiting for a fucking rebate of $299, track refund
+1585,1585,Customer: I am waiting for a rebate of $299, track refund
+1586,1586,Customer: check invoice, check invoice
+1587,1587,Customer: reimbursing 1200 dollars, get refund
+1588,1588,Customer: switching to free account, switch account
+1589,1589,Customer: how do i check when my shipment is gonna arrive, delivery period
+1590,1590,Customer: get invoices from last purchase, get invoice
+1591,1591,Customer: I want to know about the delivery poeriod, delivery period
+1592,1592,Customer: help me to submit some feedback for your products, review
+1593,1593,Customer: checking termination penalties, check cancellation fee
+1594,1594,Customer: I try to subscribe to the newsletter, newsletter subscription
+1595,1595,Customer: buying item, place order
+1596,1596,Customer: rebating $160, get refund
+1597,1597,Customer: I need to check the shipping methods, delivery options
+1598,1598,Customer: help me to cancel my subscription to your company newsletter, newsletter subscription
+1599,1599,Customer: where could i restore the password of my account, recover password
+1600,1600,Customer: get invoice from Anna Freeman, get invoice
+1601,1601,Customer: do udeliver to Japan, delivery options
+1602,1602,Customer: I need to set another delivery address up, set up shipping address
+1603,1603,Customer: help to switch some items of purchase 00123842, change order
+1604,1604,Customer: want help to look for my invoice #37777, check invoice
+1605,1605,Customer: I want help reporting signup problems, registration problems
+1606,1606,Customer: i cannot report an issue with registrations, registration problems
+1607,1607,Customer: I'm waiting for a rebate of $160, track refund
+1608,1608,Customer: want help to find my bill frm Mr. Jones, check invoice
+1609,1609,Customer: need support with my sign-up, registration problems
+1610,1610,Customer: help me see the status of order 732201349959, track order
+1611,1611,Customer: I call to make a reclamation against your company, complaint
+1612,1612,Customer: i cant create a user can uhelp me to report sign-uup issues, registration problems
+1613,1613,Customer: assistance with canceling purchase 113542617735902, cancel order
+1614,1614,Customer: want help making a customer claim against ur organization, complaint
+1615,1615,Customer: I don't know how I can see how soon can I expect my shipment, delivery period
+1616,1616,Customer: I don't know what I have to do to get the invoice #85632, get invoice
+1617,1617,Customer: i dont know how to report an issue with sign-up, registration problems
+1618,1618,Customer: register, create account
+1619,1619,Customer: assistance contacting somebody, contact human agent
+1620,1620,Customer: I missed a product in order 370795561790, change order
+1621,1621,Customer: I'm waiting for a refund of $299, track refund
+1622,1622,Customer: help to retrieve my PIN code, recover password
+1623,1623,Customer: how do i request rebates of money, get refund
+1624,1624,Customer: is it possible to chat with an assistant?, contact human agent
+1625,1625,Customer: change data on standard account, edit account
+1626,1626,Customer: reporting issues with payment, payment issue
+1627,1627,Customer: I'm waiting for a reimbursement of 1499 dollars, track refund
+1628,1628,Customer: how do i ask for restitutions of my money, get refund
+1629,1629,Customer: need help to leave an opinion for your services, review
+1630,1630,Customer: need assistance to unsubscribe to your corporate newsletter, newsletter subscription
+1631,1631,Customer: where do I see your damn available payment modalities ?, check payment methods
+1632,1632,Customer: need to file a customer claim against ur company, complaint
+1633,1633,Customer: can you help me enter a new shipping address?, set up shipping address
+1634,1634,Customer: i expect a refund of 1200 dollars, track refund
+1635,1635,Customer: I have an issue with the sign-up, registration problems
+1636,1636,Customer: help me checking the early exit fees, check cancellation fee
+1637,1637,Customer: I have got to change to the Pro account, switch account
+1638,1638,Customer: I want to see your money back policy, check refund policy
+1639,1639,Customer: what is the  cancellation penalty, check cancellation fee
+1640,1640,Customer: could ya help me tgo check the invoice from Anna Freeman, check invoice
+1641,1641,Customer: how to restore my user profile password?, recover password
+1642,1642,"Customer: I want to track my last delivery, how do I do it?", track order
+1643,1643,Customer: assistance submitting a new delivery address, set up shipping address
+1644,1644,Customer: can uhelp me give a quick look at the bill #12588, check invoice
+1645,1645,"Customer: I have to see how long the shipping takes, how do I do it?", delivery period
+1646,1646,Customer: edit data on freemium account, edit account
+1647,1647,Customer: modifying details on free account, edit account
+1648,1648,Customer: I have to add an article to order 00004587345, change order
+1649,1649,"Customer: I do not use myFreemium account, want assistance closing it", delete account
+1650,1650,Customer: problem with lost PIN code, recover password
+1651,1651,Customer: i need assistance solving an error with payments, payment issue
+1652,1652,Customer: have a problem with cancelling purchase 732201349959, cancel order
+1653,1653,Customer: checking order 732201349959 status, track order
+1654,1654,Customer: how can i inform of problems with online payment, payment issue
+1655,1655,Customer: checking invoices from last month, check invoice
+1656,1656,Customer: how could i enter my secondary shipping address, set up shipping address
+1657,1657,Customer: how could i purchase several of ur product, place order
+1658,1658,Customer: i cannot open an account where to report a signup problem, registration problems
+1659,1659,Customer: create new free account, create account
+1660,1660,Customer: check invoice #85632, check invoice
+1661,1661,Customer: I am trying to get in touch with customer service, contact customer service
+1662,1662,"Customer: I need to see what shipment methods are available, help me", delivery options
+1663,1663,Customer: where to report an registration problem, registration problems
+1664,1664,Customer: i have a question about canceling order 00004587345, cancel order
+1665,1665,Customer: updating Freemium acount, edit account
+1666,1666,Customer: i do not know how i could cancel order 00123842, cancel order
+1667,1667,Customer: i want help reporting problems with a registration, registration problems
+1668,1668,Customer: i have to ccheck in which cases can i request refunds, check refund policy
+1669,1669,Customer: wanna edit purchase 370795561790, change order
+1670,1670,Customer: I want assisrance to check how soon can I expect my package, delivery period
+1671,1671,Customer: how to notify of signup issues, registration problems
+1672,1672,Customer: I have submitted a wrong delivery address, change shipping address
+1673,1673,Customer: rebate $1499, get refund
+1674,1674,Customer: I don't know how I acn look for my invoice #85632, check invoice
+1675,1675,Customer: assistance to cancel order 00123842, cancel order
+1676,1676,Customer: I don't know how I can see the ETA of order 00123842, track order
+1677,1677,Customer: modify data on freemium account, edit account
+1678,1678,Customer: I try to change something of purchase 370795561790, change order
+1679,1679,"Customer: I cannot open a user, how could I report sign-up errors?", registration problems
+1680,1680,Customer: company newsletter subscription, newsletter subscription
+1681,1681,Customer: i dont know what to do to see ur money back guarantee, check refund policy
+1682,1682,Customer: can you help me chat with a live agent?, contact human agent
+1683,1683,"Customer: I missed some items in purchase 00123842, can I add them?", change order
+1684,1684,Customer: get refund of money, get refund
+1685,1685,"Customer: you are not helpful, I want help to speak to an operator", contact human agent
+1686,1686,Customer: I don't know what to do to retrieve the PIN of my profile, recover password
+1687,1687,Customer: I want help to delete my Pro account, delete account
+1688,1688,Customer: I want assistance chdcking invoice #00108, check invoice
+1689,1689,Customer: I want help to get my invoices from Ms. Hawkings, get invoice
+1690,1690,Customer: could I see at what time I can call customer assistance?, contact customer service
+1691,1691,Customer: is it posible to place an order from Detroit, delivery options
+1692,1692,Customer: help me to updste my shipping address, change shipping address
+1693,1693,Customer: subscribe to ut company newsletter, newsletter subscription
+1694,1694,Customer: help me speaking to customer service, contact customer service
+1695,1695,Customer: modifying details on Gold account, edit account
+1696,1696,Customer: can you help me to notify of an error with sign-up?, registration problems
+1697,1697,Customer: how to check the ETA of the purchase 00123842?, track order
+1698,1698,Customer: want assistance listing the accepted payment options, check payment methods
+1699,1699,Customer: i nede help to add some items to order 370795561790, change order
+1700,1700,Customer: I want support editing the shipping address, change shipping address
+1701,1701,Customer: assistance to check in what situations can I request refunds, check refund policy
+1702,1702,"Customer: my card was declined, how to report issues with payment?", payment issue
+1703,1703,Customer: what do I need to do to use the free profile?, switch account
+1704,1704,Customer: do you deliver to Liverpool?, delivery options
+1705,1705,Customer: I expect a restitution of 350 dollars, track refund
+1706,1706,Customer: is their a section to send feedback for ur company, review
+1707,1707,Customer: I have errors setting a secondary delivery address up, set up shipping address
+1708,1708,Customer: want help to receive fucking rebates of money, get refund
+1709,1709,Customer: how to see your payment methods?, check payment methods
+1710,1710,Customer: I need help canceling purchase 732201349959, cancel order
+1711,1711,Customer: when am I receiving my compensation?, get refund
+1712,1712,Customer: checking status of order 370795561790, track order
+1713,1713,Customer: make customer claim against ur business, complaint
+1714,1714,Customer: I cannot see order 00123842 current status, track order
+1715,1715,Customer: I don't know how I can get bill #00108, get invoice
+1716,1716,Customer: i dont know what i need to do to make a customer reclamation, complaint
+1717,1717,Customer: i want help to see ur available payment modalities, check payment methods
+1718,1718,Customer: I do not know how to demand compensations of my money, get refund
+1719,1719,Customer: want help to write a review about ur products, review
+1720,1720,Customer: can ya help me to list ur allowed payment modalities, check payment methods
+1721,1721,Customer: modify order 00123842, change order
+1722,1722,"Customer: I have bought some articles, cancel order 370795561790", cancel order
+1723,1723,Customer: I am looking for information about shipping period, delivery period
+1724,1724,Customer: i dont know what to  do to recover my account pin code, recover password
+1725,1725,Customer: I'd like to change  to the pro account i need assistance, switch account
+1726,1726,Customer: I do not know how to delete the bloody free account, delete account
+1727,1727,Customer: I want assistance locating purchase 370795561790, track order
+1728,1728,Customer: can you help me canceling purchase 00004587345?, cancel order
+1729,1729,"Customer: I want to obtain a restitution of my money, I need help", get refund
+1730,1730,Customer: I want to buy several of your product, place order
+1731,1731,"Customer: I expect a compensation of $299, was it processed already", track refund
+1732,1732,Customer: wanna recover my pwd, recover password
+1733,1733,Customer: do you ship to Mexico?, delivery options
+1734,1734,Customer: see bill from Mr. Smith, check invoice
+1735,1735,Customer: i expect a refund of 160 dollars, track refund
+1736,1736,Customer: i paid $1499 for this item help getting a compensation, get refund
+1737,1737,Customer: get invoices from ten months ago, get invoice
+1738,1738,Customer: assistance recovering my user password, recover password
+1739,1739,"Customer: I expect a reimbursement of $1499, has it been processed?", track refund
+1740,1740,Customer: need help to see if there are any news on my rebate, track refund
+1741,1741,Customer: writing comment for ur products, review
+1742,1742,Customer: assistance to add some items to purchase 113542617735902, change order
+1743,1743,Customer: removing freemium account, delete account
+1744,1744,Customer: see at what time i can reach customer assistance, contact customer service
+1745,1745,Customer: is it possible to order from Valencia?, delivery options
+1746,1746,Customer: edit information on Premium account, edit account
+1747,1747,Customer: check invoices from Anna Freeman, check invoice
+1748,1748,Customer: I'd like to leave a comment about a product how can i do it, review
+1749,1749,Customer: doyou deliver to Hungary?, delivery options
+1750,1750,Customer: I have to receive refunds, get refund
+1751,1751,Customer: deleting Freemium account, delete account
+1752,1752,Customer: can you help me to add something to purchase 370795561790?, change order
+1753,1753,Customer: using Platinum account, switch account
+1754,1754,"Customer: I want to receive a refund of my money, can you help me?", get refund
+1755,1755,Customer: can you show me the status of m newsletter subscription?, newsletter subscription
+1756,1756,Customer: is it possible to place an order from Seattle?, delivery options
+1757,1757,Customer: i do not know  what i need to do to send some damn feedback, review
+1758,1758,Customer: i need assistance setting the delivery address up, set up shipping address
+1759,1759,Customer: help me to see at what time i can reach customer service, contact customer service
+1760,1760,Customer: can I check the withdrawal fee?, check cancellation fee
+1761,1761,Customer: I need help to leave my feedback for a product, review
+1762,1762,Customer: see purchase 732201349959 status, track order
+1763,1763,Customer: help unsubscribing to the corporate newsletter, newsletter subscription
+1764,1764,Customer: getting invoice from 8 months ago, get invoice
+1765,1765,Customer: help notifying of a payment error, payment issue
+1766,1766,Customer: get bills from Mr. Jones, get invoice
+1767,1767,Customer: I am waiting for a rebate of $160, track refund
+1768,1768,Customer: editing pro account, edit account
+1769,1769,Customer: how to chat with somebody?, contact human agent
+1770,1770,Customer: is it possible to use the free profile?, switch account
+1771,1771,Customer: how do i modif the shipping address, change shipping address
+1772,1772,Customer: I am trying to see the early termination penalty, check cancellation fee
+1773,1773,Customer: canceling purchase 00004587345, cancel order
+1774,1774,Customer: I have problems setting up another delivery address, set up shipping address
+1775,1775,Customer: I try to check how long the shiping takes, delivery period
+1776,1776,Customer: how do i list the pament modalities, check payment methods
+1777,1777,Customer: need help to purchase some articles, place order
+1778,1778,Customer: have a question about the cancellation of my free account, delete account
+1779,1779,Customer: edit data on Platinum account, edit account
+1780,1780,"Customer: I would like to see the shipping methods, can you help me?", delivery options
+1781,1781,Customer: I would like to get refunds of money, get refund
+1782,1782,Customer: is it possible to notify of an error with signup, registration problems
+1783,1783,Customer: what do i have to do to delete the Platinum account, delete account
+1784,1784,Customer: question about cancelling purchase 732201349959, cancel order
+1785,1785,Customer: can i place an order from Hungary, delivery options
+1786,1786,Customer: can you help me restore my account pwd?, recover password
+1787,1787,Customer: i try to lodge a claim, complaint
+1788,1788,Customer: I cannot switch some products of purchase 00004587345, change order
+1789,1789,Customer: help to locate bill #85632, check invoice
+1790,1790,Customer: do you ship to Philadelphia?, delivery options
+1791,1791,Customer: I am  waiting for a reimbursement of 1499 dollars, track refund
+1792,1792,Customer: i have a trouble submitting my new shipping address, set up shipping address
+1793,1793,Customer: need assistance writing a review for your products, review
+1794,1794,Customer: help me to retrieve my account access key, recover password
+1795,1795,Customer: wanna see what hours customer support available is help me, contact customer service
+1796,1796,Customer: I have got to cancel purchase 113542617735902, cancel order
+1797,1797,Customer: how can i get information about a Platinum account removal, delete account
+1798,1798,Customer: helpo to look for the bill from Ms. Hawkings, check invoice
+1799,1799,Customer: assistance seeing the accepted payment options, check payment methods
+1800,1800,Customer: need to check the termination fee, check cancellation fee
+1801,1801,"Customer: I want a freemium account for my fiance, how can I open it?", create account
+1802,1802,Customer: I have got to file a customer complaint, complaint
+1803,1803,Customer: I need assistance to leave a review for your products, review
+1804,1804,Customer: how do i see the  damn withdrawal fees, check cancellation fee
+1805,1805,Customer: help me seeing how soon can i expect myh purchase, delivery period
+1806,1806,Customer: I need help to leave some feedback for a product, review
+1807,1807,Customer: need help lodging a reclamation against ur organization, complaint
+1808,1808,Customer: I'm trying to talk with an operator, contact human agent
+1809,1809,Customer: I want assistance seeing what delivery methods you offer, delivery options
+1810,1810,Customer: need help to report an trouble with payments, payment issue
+1811,1811,Customer: I expect a rebate of $299, track refund
+1812,1812,Customer: how can i get information about changing the address, change shipping address
+1813,1813,Customer: help me to check how long it takes for my item to arrive, delivery period
+1814,1814,Customer: i want assistance informing of an issue with payments, payment issue
+1815,1815,Customer: I do not know what I need to do to check the bill #37777, check invoice
+1816,1816,Customer: I am trying to find shipping periods, delivery period
+1817,1817,Customer: where do I download bill #85632?, get invoice
+1818,1818,Customer: correct information on Gold account, edit account
+1819,1819,Customer: I can't inform of problems with registrations, registration problems
+1820,1820,Customer: use Premium account, switch account
+1821,1821,Customer: i expect a restituton of 1200 dollars, track refund
+1822,1822,Customer: I want to inform oof a problem with a sign-up, registration problems
+1823,1823,Customer: errors setting up the delivery address, set up shipping address
+1824,1824,Customer: can you show me in which cases can I ask to be reimbursed?, check refund policy
+1825,1825,Customer: I don't know what I have to do to earn a few of your item, place order
+1826,1826,Customer: I chose a wrong delivery address, change shipping address
+1827,1827,Customer: I try to notify of fucking errors with online payment, payment issue
+1828,1828,Customer: i need assistance to notify of an issue with online payment, payment issue
+1829,1829,Customer: I don't know what to do to correct the delivery address, change shipping address
+1830,1830,Customer: i want assistance giving a quick look at invoice #85632, check invoice
+1831,1831,Customer: how can I get information about a standard account removal?, delete account
+1832,1832,Customer: I need information about platinum account deletions, delete account
+1833,1833,Customer: I expect a reimbursement of 160 dollars, track refund
+1834,1834,Customer: need help demanding reimbursements, get refund
+1835,1835,Customer: contact agent, contact human agent
+1836,1836,Customer: how could I check your payment options?, check payment methods
+1837,1837,Customer: add item to order 732201349959, change order
+1838,1838,Customer: I need to lodge a customer reclamation against your company, complaint
+1839,1839,Customer: help me see in what cases can i ask to be refunded, check refund policy
+1840,1840,Customer: i have got to see the early exit penalty how to do it, check cancellation fee
+1841,1841,Customer: do udeliver to Dublin, delivery options
+1842,1842,Customer: I try to send some feedback for a service, review
+1843,1843,Customer: help regarding payment, payment issue
+1844,1844,"Customer: I forgot my account password, could you help me restore it?", recover password
+1845,1845,Customer: I do not know what I need to do to speak with a live agent, contact human agent
+1846,1846,"Customer: I want to contact customer support, will you help me?", contact customer service
+1847,1847,Customer: under what circumstances can I ask for a damn reimbursement?, check refund policy
+1848,1848,Customer: I do not know how I can check the withdrawal fee, check cancellation fee
+1849,1849,Customer: I want help seeing your payment methods, check payment methods
+1850,1850,Customer: do you deliver to Dublin?, delivery options
+1851,1851,Customer: what is the delivery period for my parcel, delivery period
+1852,1852,Customer: is it possible to submit feedback for your services?, review
+1853,1853,Customer: how do I check the earl exit fees?, check cancellation fee
+1854,1854,Customer: I need help to restore my profile password, recover password
+1855,1855,Customer: i want assistance acquirin a few of ur item, place order
+1856,1856,Customer: ya have a method to leave some feedback for ur services, review
+1857,1857,Customer: can I get my invoice from Mr. Smith?, get invoice
+1858,1858,Customer: help me check the withdrawal charge, check cancellation fee
+1859,1859,Customer: I want assistance to open a Premiumaccount for my daughter, create account
+1860,1860,Customer: can you give me information about my PIN code reset?, recover password
+1861,1861,"Customer: I want to see the early termination charges, how to do it?", check cancellation fee
+1862,1862,Customer: I'd like to report errors with registrations help me, registration problems
+1863,1863,Customer: change info on  Premium account, edit account
+1864,1864,Customer: I can't switch some products of purchase 00004587345, change order
+1865,1865,Customer: edit data on  Freemium account, edit account
+1866,1866,Customer: I don't know what I have to do to delete the premium account, delete account
+1867,1867,Customer: in which cases can i request a reimbursement, check refund policy
+1868,1868,Customer: I would like to see what hours I can reach customer support, contact customer service
+1869,1869,Customer: I try to  list the payment modalities, check payment methods
+1870,1870,Customer: I need help listing the bloody payment options, check payment methods
+1871,1871,Customer: i call to send some feedback for ur services, review
+1872,1872,Customer: want assistance purchasing some articles, place order
+1873,1873,Customer: I need help to locate the bills from Ms. Hawkings, check invoice
+1874,1874,Customer: i need help talking with a human agent, contact human agent
+1875,1875,Customer: help to notify of an payment error, payment issue
+1876,1876,Customer: i do not know how to download my invoice #00108, get invoice
+1877,1877,Customer: how can I get a reimbursement of money?, get refund
+1878,1878,Customer: where to see order 370795561790 current status, track order
+1879,1879,Customer: i have got to unsubscribe from ur company newsletter help me, newsletter subscription
+1880,1880,Customer: can you help me to take a quick look at the bill #37777?, check invoice
+1881,1881,Customer: where can I leave a review about a service?, review
+1882,1882,Customer: how to change to the platinum cacount?, switch account
+1883,1883,Customer: I needhelp seeing the termination charges, check cancellation fee
+1884,1884,Customer: get invoice from 2 purchases ago, get invoice
+1885,1885,Customer: i need help to notify of a sign-up error, registration problems
+1886,1886,Customer: have a problem with a shipping address correction, change shipping address
+1887,1887,Customer: I do not know how to sign up to the company newsletter, newsletter subscription
+1888,1888,Customer: can i open a gold account, create account
+1889,1889,Customer: is it possible to get the invoice #85632, get invoice
+1890,1890,Customer: customer support mail, contact customer service
+1891,1891,Customer: I have got to cancel purchase 732201349959, cancel order
+1892,1892,Customer: I have to see how long the delivery takes, delivery period
+1893,1893,Customer: I need assistance closing my Gold account, delete account
+1894,1894,Customer: do udeliver to Toronto, delivery options
+1895,1895,Customer: i dont know what to do to retrieve my profile pin, recover password
+1896,1896,Customer: I want help to see how long the goddamn refunds take, check refund policy
+1897,1897,Customer: help seeing in what situations can I request my money back, check refund policy
+1898,1898,Customer: under which circumstances can I request my money back?, check refund policy
+1899,1899,Customer: can you help me solving a payment error?, payment issue
+1900,1900,Customer: show me the early exit fere, check cancellation fee
+1901,1901,Customer: need help shopping a few of ur prodxuct, place order
+1902,1902,Customer: how could I use the fucking Freemium profile?, switch account
+1903,1903,Customer: where do I restore the pass of my profile?, recover password
+1904,1904,Customer: need to unsubscribe from ur newsletter, newsletter subscription
+1905,1905,Customer: need assistance to submit a different delivery addrses, set up shipping address
+1906,1906,Customer: edit info o free account, edit account
+1907,1907,Customer: I try to leave an opinion about a service, review
+1908,1908,Customer: updating premium account, edit account
+1909,1909,Customer: i need assistance to report problems with signup, registration problems
+1910,1910,Customer: removing Platinum account, delete account
+1911,1911,Customer: I need help to see the methods for delivery, delivery options
+1912,1912,Customer: where do I list the allowed payment modalities?, check payment methods
+1913,1913,Customer: i need help to shop some of ur product, place order
+1914,1914,Customer: want assistance to report problems with signup, registration problems
+1915,1915,Customer: I'm waiting for a refund of 350 dollars, track refund
+1916,1916,Customer: create pro account, create account
+1917,1917,Customer: I do not know how I can cancel purchase 732201349959, cancel order
+1918,1918,Customer: i ordered some article how do i cancel purchase 00004587345, cancel order
+1919,1919,Customer: I don't know how to write a review, review
+1920,1920,Customer: can i place an order from Liverpool, delivery options
+1921,1921,Customer: how to download my bills from Ms. Hawkings?, get invoice
+1922,1922,Customer: removing premium account, delete account
+1923,1923,Customer: new gold account for bride, create account
+1924,1924,Customer: I want help seeing how long refunds usually take, check refund policy
+1925,1925,Customer: I have to retrieve the pazssword of my user, recover password
+1926,1926,Customer: show me how long it takes for the purchase to arrive, delivery period
+1927,1927,Customer: what do I need to do to change to the free account?, switch account
+1928,1928,Customer: help me seeing how soon can i expect the article, delivery period
+1929,1929,Customer: I call to see how long the delivery takes, delivery period
+1930,1930,Customer: where do i order several items, place order
+1931,1931,Customer: I have an issue entering my delivery address, set up shipping address
+1932,1932,Customer: issue submitting a shipping address, set up shipping address
+1933,1933,Customer: assistancew buying several of your product, place order
+1934,1934,Customer: are charges of services reimbursable?, check refund policy
+1935,1935,Customer: how to restore my user PIN?, recover password
+1936,1936,Customer: i want assistance using the freemium profile, switch account
+1937,1937,Customer: I need assistance giving a quick look at bill #00108, check invoice
+1938,1938,Customer: can you help me to locate the bill #00108?, check invoice
+1939,1939,Customer: editing account, edit account
+1940,1940,Customer: delete Freemium account, delete account
+1941,1941,Customer: can I write a review for your services?, review
+1942,1942,Customer: help seeing order 732201349959 status, track order
+1943,1943,Customer: where is ordered 00004587345?, track order
