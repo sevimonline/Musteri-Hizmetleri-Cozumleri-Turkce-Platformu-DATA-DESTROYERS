@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/static/css/style_bot.css">
+  <title>Müşteri Hizmetleri Çözüm Platformu</title>
+</head>
+<body>
+  <div class="background-green"></div>
+
+  <div class="main-container">
+    <div class="left-container">
+      <!-- Header -->
+      <div class="header">
+        <div class="user-img">
+        </div>
+        <div class="nav-icons">
+        </div>
+      </div>
+
+      <!-- Notification -->
+      <div class="notif-box">
+        <img src="https://www.sistas.com.tr/wp-content/uploads/2021/05/Blog_2.jpg" alt="Notification Image" class="notif-image">
+        <div class="notif-text">
+          <p class="bold-text">Veri analitiği ve yapay zeka kullanarak 
+            çağrı merkezi ve müşteri hizmetleri 
+            operasyonlarında neyi optimize ediyoruz?</p>
+        </div>
+      </div>
+
+      <!-- Chats -->
+      <div class="chat-list">
+        <div class="chat-box">
+          <div class="img-box">
+            <img class="img-cover" src="https://lh5.googleusercontent.com/proxy/OxK6AQ_E1O6cUDxTJlhqgct0HayPcaChZtParjgW-wBJRtCOuMz1OVKaXQxLdPPgXPhb0jghVieFOt-3oaMCwnWoQOunQgrIDK_EVQm5RUrG54U" alt="">
+          </div>
+          <div class="chat-details">
+            <div class="text-head">
+              <h4>Müşteri Hizmetleri Temsilcisinin Performans Değerlendirmesi</h4>
+            </div>
+          </div>
+        </div>
+        <div class="chat-box">
+          <div class="img-box">
+            <img class="img-cover" src="https://lh5.googleusercontent.com/proxy/OxK6AQ_E1O6cUDxTJlhqgct0HayPcaChZtParjgW-wBJRtCOuMz1OVKaXQxLdPPgXPhb0jghVieFOt-3oaMCwnWoQOunQgrIDK_EVQm5RUrG54U" alt="">
+          </div>
+          <div class="chat-details">
+            <div class="text-head">
+              <h4>Müşteri Memnuniyeti ve Geri Bildirim Analizi</h4>
+            </div>
+          </div>
+        </div>
+        <div class="chat-box">
+          <div class="img-box">
+            <img class="img-cover" src="https://lh5.googleusercontent.com/proxy/OxK6AQ_E1O6cUDxTJlhqgct0HayPcaChZtParjgW-wBJRtCOuMz1OVKaXQxLdPPgXPhb0jghVieFOt-3oaMCwnWoQOunQgrIDK_EVQm5RUrG54U" alt="">
+          </div>
+          <div class="chat-details">
+            <div class="text-head">
+              <h4>Çözüm Süreçlerinin Optimizasyonu</h4>
+            </div>
+          </div>
+        </div>
+        <div class="chat-box">
+          <div class="img-box">
+            <img class="img-cover" src="https://lh5.googleusercontent.com/proxy/OxK6AQ_E1O6cUDxTJlhqgct0HayPcaChZtParjgW-wBJRtCOuMz1OVKaXQxLdPPgXPhb0jghVieFOt-3oaMCwnWoQOunQgrIDK_EVQm5RUrG54U" alt="">
+          </div>
+          <div class="chat-details">
+            <div class="text-head">
+              <h4>Müşteri Hizmetleri Temsilcisinin ve Müşteri Arasındaki İletişim Dinamiklerinin Analizi</h4>
+            </div>
+          </div>
+        </div>
+        <!-- More chat boxes as needed -->
+      </div>
+    </div>
+
+    <div class="right-container">
+      <!-- Header -->
+      <div class="header">
+        <div class="img-text">
+          <div class="user-img">
+            <img class="dp" src="https://cdn-icons-png.flaticon.com/512/3430/3430127.png" alt="">
+          </div>
+          <h4>Müşteri Hizmetleri Temsilcisi<br><span>Konuşma Geçmişi</span></h4>
+        </div>
+        <div class="nav-icons">
+        </div>
+      </div>
+
+      <!-- Chat Container -->
+      <div class="chat-container">
+        {% if transcription %}
+        {% set conversations = transcription.split('\n') %}
+        {% for conversation in conversations %}
+          {% if 'Müşteri Hizmetleri Temsilcisi:' in conversation %}
+          <div class="message-box rep-message">
+            <p>{{ conversation|safe|replace("\n", "<br>") }}<br><span>{{ timestamp }}</span></p>
+          </div>
+          {% elif 'Müşteri:' in conversation %}
+          <div class="message-box cust-message">
+            <p>{{ conversation|safe|replace("\n", "<br>") }}<br><span>{{ timestamp }}</span></p>
+          </div>
+          {% endif %}
+        {% endfor %}
+        {% endif %}
+        <div class="message-box analysis">
+          <button id="analyzeButton">Analiz Sonuçlarını İnceleyiniz</button>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div id="analysisModal" class="modal">
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <div id="analysisContent">
+            {% if llm_output %}
+              {% for line in llm_output.split('\n') %}
+                <div class="analysis-item">
+                  <i class="fa fa-check-square"></i>
+                  <span class="title">{{ line.strip().split(':')[0] }}:</span>{{ line.strip().split(':', 1)[1] }}
+                </div>
+              {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- FontAwesome Script -->
+  <script src="https://kit.fontawesome.com/391827d54c.js" crossorigin="anonymous"></script>
+  <script src="/static/js/script_bot.js"></script>
+</body>
+</html>

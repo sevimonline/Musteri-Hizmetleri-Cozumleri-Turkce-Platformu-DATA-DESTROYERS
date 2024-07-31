@@ -1,35 +1,35 @@
-# 📞 Müşteri Hizmetleri Çözüm Platformu
+# Müşteri Hizmetleri Çözüm Platformu
 
 ![Proje Görseli](link-to-your-image.png)
 
-## 🎯 Proje Tanımı
+## Proje Tanımı
 
-**Müşteri Hizmetleri Çözüm Platformu**, Teknofest 2024 Doğal Dil İşleme Serbest Kategori Yarışması için geliştirilen yenilikçi bir projedir. Proje, çağrı merkezi ve müşteri hizmetleri operasyonlarını iyileştirmek amacıyla doğal dil işleme (NLP) ve yapay zeka teknolojilerini kullanmaktadır. Bu platform, müşteri ve temsilci arasındaki sesli görüşmeleri metne dönüştürür, analiz eder ve anlamlı içgörüler sunar. Böylece operasyonel verimlilik artarken, müşteri memnuniyeti de önemli ölçüde iyileştirilir.
+🎯 **Müşteri Hizmetleri Çözüm Platformu**, Teknofest 2024 Doğal Dil İşleme Serbest Kategori Yarışması için geliştirilmiştir. Bu proje, çağrı merkezi ve müşteri hizmetleri operasyonlarını iyileştirmek amacıyla doğal dil işleme (NLP) ve yapay zeka teknolojilerini kullanır. Platform, müşteri ve temsilci arasındaki sesli görüşmeleri metne dönüştürür, analiz eder ve anlamlı içgörüler sunar. Bu sayede operasyonel verimlilik artarken müşteri memnuniyeti de iyileştirilir.
 
-## 🚀 Özellikler
+## Özellikler
 
-- **📜 Sesli Metin Dönüşümü:** Çağrı merkezi ses dosyalarını otomatik olarak metne dönüştürür.
-- **💬 Duygu Analizi:** Görüşmelerdeki duygusal tonları analiz eder.
-- **🔍 Anahtar Kelime ve Tema Çıkarımı:** Görüşmelerden öne çıkan kelimeler ve temaları tespit eder.
-- **📈 Performans Değerlendirmesi:** Müşteri hizmetleri temsilcilerinin performansını değerlendirir.
-- **📊 Gerçek Zamanlı İzleme:** Canlı görüşmelerin anında analiz edilmesi ve raporlanmasını sağlar.
+- **Sesli Metin Dönüşümü:** Çağrı merkezi ses dosyalarını otomatik olarak metne dönüştürme.
+- **Duygu Analizi:** Görüşmelerdeki duygusal tonları analiz etme.
+- **Anahtar Kelime ve Tema Çıkarımı:** Görüşmelerden öne çıkan kelimeler ve temaların tespiti.
+- **Performans Değerlendirmesi:** Müşteri hizmetleri temsilcilerinin performansını değerlendirme.
+- **Gerçek Zamanlı İzleme:** Canlı görüşmelerin anında analiz edilmesi ve raporlanması.
 
-## 🛠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
-### 🌐 Ön Yüz
+### Ön Yüz
 - HTML, CSS, JavaScript, Bootstrap
 
-### 🖥 Arka Yüz
+### Arka Yüz
 - Python, FastAPI
 
-### 🤖 Yapay Zeka ve NLP Teknolojileri
+### Yapay Zeka ve NLP Teknolojileri
 - **Ses Tanıma:** Whisper
 - **Dil Modeli:** Meta-Llama-3-70B
 
-### 💾 Veritabanı
+### Veritabanı
 - MongoDB
 
-## 📂 Dosyalar
+## Dosyalar
 
 - `main.py`: Uygulamanın ana dosyası.
 - `templates/index.html`: Uygulamanın HTML şablon dosyası.
@@ -37,7 +37,7 @@
 - `static/js/script.js`: Uygulamanın JavaScript dosyası.
 - `requirements.txt`: Projede kullanılan Python bağımlılıklarının listesi.
 
-## 🔧 Kurulum
+## Kurulum
 
 1. Projeyi klonlayın:
 
@@ -65,11 +65,12 @@
 
 5. Tarayıcınızda `http://localhost:8000` adresine gidin ve uygulamayı kullanmaya başlayın.
 
-## 👥 İletişim
+## İletişim
 
-- LinkedIn: [Berke Sevim](https://www.linkedin.com/in/berke-sevim-1565161a2/)
-- LinkedIn: [Gözde Ceren Yıldız](https://www.linkedin.com/in/gözde-ceren-yıldız/)
-- LinkedIn: [Büşra Sulukan](https://www.linkedin.com/in/büşra-sulukan-82299a177/)
+LinkedIn: [Berke Sevim](https://www.linkedin.com/in/berke-sevim-1565161a2/)
+LinkedIn: [Gözde Ceren Yıldız](https://www.linkedin.com/in/gözde-ceren-yıldız/)
+LinkedIn: [Büşra Sulukan](https://www.linkedin.com/in/büşra-sulukan-82299a177/)
+
 
 ## 📄 Lisans
 

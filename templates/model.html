@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Müşteri Hizmetleri Çözüm Platformu</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <style>
+        .intro-video {
+            width: 100%;
+            max-width: 600px; 
+            height: 338px; 
+            border-radius: 10px; 
+            object-fit: cover; 
+        }
+
+        .buttons {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .buttons button,
+        .buttons .file-label {
+            background-color: #6200ea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 4px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .buttons button:hover,
+        .buttons .file-label:hover {
+            background-color: #531ab9;
+        }
+
+        .success-tick {
+            display: none;
+            color: green;
+            font-size: 24px;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="intro">
+        <div class="container intro-content">
+            <div class="intro-text">
+                <h1>Müşteri Hizmetleri Çözüm Platformu</h1>
+                <p>Yapay zeka ve NLP teknikleriyle ses verilerinizi <br> optimize edin ve analiz edin.<br></p>
+                <form id="audio-form" action="/process_audio" method="post" enctype="multipart/form-data">
+                    <div class="buttons">
+                        <label for="file" class="file-label">Ses Dosyasını Seçin</label>
+                        <input type="file" id="file" name="file" style="display: none;" accept="audio/*" required>
+                        <button type="submit">Çalıştır</button>
+                        <span id="success-tick" class="success-tick">&#10003;</span> <!-- Yeşil tik işareti -->
+                    </div>
+                </form>
+                <div id="result"></div>
+            </div>
+            <video class="intro-video" autoplay loop muted>
+                <source src="/static/images/video_2.mp4" type="video/mp4">
+                Tarayıcınız video formatını desteklemiyor.
+            </video>
+        </div>
+    </section>
+
+    <section class="highlights">
+        <div class="container">
+            <div class="highlight">
+                <img src="/static/images/spechtotext.png" alt="Sesli Verilerin Yazıya Dönüştürülmesi">
+                <h3>Sesli Verilerin Diyaloğa Dönüştürülmesi</h3>
+                <p>Çağrı merkezi ses kayıtlarının karşılıklı diyalog formatına dönüştürülmesi.</p>
+            </div>
+            <div class="highlight">
+                <img src="/static/images/nlp logo.png" alt="Doğal Dil İşleme (NLP) Analizi">
+                <h3>Doğal Dil İşleme (NLP) Analizi</h3>
+                <p>Transkripte edilen metinler üzerinden anlamlı içgörüler elde etme.</p>
+            </div>
+            <div class="highlight">
+                <img src="/static/images/emotion.png" alt="Duygu Durumu Analizi">
+                <h3>Duygu Durumu Analizi</h3>
+                <p>Müşteri duygularını analiz ederek etkileşim kalitesini artırma.</p>
+            </div>
+            <div class="highlight">
+                <img src="/static/images/fedbackk.png" alt="Geri Bildirim">
+                <h3>Geri Bildirim</h3>
+                <p>Çağrı merkezi süreçlerini izleme ve geri bildirim sağlama.</p>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.getElementById('audio-form').addEventListener('submit', function () {
+            document.getElementById('success-tick').style.display = 'none';
+        });
+
+        document.getElementById('file').addEventListener('change', function () {
+            document.getElementById('success-tick').style.display = 'inline';
+        });
+    </script>
+</body>
+
+</html>

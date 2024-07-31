@@ -1,0 +1,153 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #fff;
+    padding: 20px 0;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    max-height: 50px;
+}
+
+.nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.nav a:hover {
+    color: #6200ea;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 0;
+    background: linear-gradient(to right, #6200ea, #9b59b6);
+    color: white;
+}
+
+.intro-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.intro-text {
+    max-width: 600px;
+}
+
+.intro-text h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.intro-text p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.buttons button {
+    background-color: #fff;
+    color: #6200ea;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.buttons button:hover {
+    background-color: #6200ea;
+    color: #fff;
+}
+
+.intro-image,
+.intro-video {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: none; /* Varsayılan olarak gizli */
+}
+
+.intro-video {
+    display: block; /* Video için görünür yap */
+}
+
+.highlights {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+}
+
+.highlights .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.highlights .highlight {
+    text-align: center;
+    padding: 20px;
+    flex: 1;
+    margin: 10px;
+    background-color: #6200ea;
+    border-radius: 8px;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.highlights .highlight:hover {
+    background-color: #531ab9;
+}
+
+.highlights .highlight img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.highlights .highlight h3 {
+    margin: 20px 0 10px;
+    font-size: 20px;
+}
+
+.highlights .highlight p {
+    font-size: 16px;
+}
+
+#success-tick {
+    color: green;
+    font-size: 24px;
+    margin-left: 10px;
+    display: none; /* Başlangıçta gizli */
+}
