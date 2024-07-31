@@ -26,15 +26,13 @@
 - **Ses Tanıma:** Whisper
 - **Dil Modeli:** Meta-Llama-3-70B
 
-### 💾 Veritabanı
-- MongoDB
 
 ## 📂 Dosyalar
 
 - `main.py`: Uygulamanın ana dosyası.
-- `templates/index.html`: Uygulamanın HTML şablon dosyası.
-- `static/css/style.css`: Uygulamanın CSS stil dosyası.
-- `static/js/script.js`: Uygulamanın JavaScript dosyası.
+- `templates/`: Uygulamanın HTML şablonlarının dosyası.
+- `static/css/`: Uygulamanın CSS stillerinin dosyası.
+- `static/js/`: Uygulamanın JavaScript dosyaları.
 - `requirements.txt`: Projede kullanılan Python bağımlılıklarının listesi.
 
 ## 🔧 Kurulum
