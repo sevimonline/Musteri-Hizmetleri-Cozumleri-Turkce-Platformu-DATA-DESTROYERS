@@ -1,6 +1,12 @@
 fastapi
+jinja2
+pydantic
 uvicorn
-Jinja2
 pydub
+openai-whisper
 whisper
+torch
 replicate
+aiofiles
+python-multipart
+requests
