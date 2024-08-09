@@ -26,7 +26,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
 
-REPLICATE_API_TOKEN = 'YOUR_API_KEY'
+REPLICATE_API_TOKEN = 'r8_CGgLCJgP860ZFoYeQKokSN5s0ZJqUEo2LHxFF'
 os.environ['REPLICATE_API_TOKEN'] = REPLICATE_API_TOKEN
 
 replicate_client = replicate.Client(api_token=REPLICATE_API_TOKEN)
@@ -147,12 +147,20 @@ async def process_audio(request: Request, file: UploadFile = File(...)):
         Diyalogları hatasız ve doğru bir şekilde ayırt etmek ve yeniden yazmak için aşağıdaki yönergeleri izleyin. Yalnızca belirtilen formatı kullanın ve ek açıklama veya başka metin eklemeyin:
 
         1.Konuşmacıları Doğru Belirleme: Her bir konuşmayı dikkatlice analiz edin ve kimin konuştuğunu net bir şekilde belirleyin. Müşteri ve müşteri hizmetleri temsilcisinin konuşmalarını kesin olarak ayırt edin.
-        
+
         2.Doğru Yazım ve İmla: Konuşmaları yazarken doğru yazım ve imla kurallarını uygulayın. Konuşma metninde yanlış algılanabilecek kelimeleri kontrol edin ve gerektiğinde düzeltin.
 
         3.Format: Diyalogları aşağıda belirtilen formatta yeniden yazın:
         Müşteri Hizmetleri Temsilcisi: [Temsilcinin cümlesi]
         Müşteri: [Müşterinin cümlesi]
+
+        Müşteri Hizmetleri Temsilcisi: X Şirketine hoş geldiniz. Ben ismim Mehmet, size nasıl yardımcı olabilirim?
+        Müşteri: Merhaba Mehmet Bey. ...
+        Müşteri Hizmetleri Temsilcisi: Sizlere Hitap edebilmem için isminizi öğrenebilir miyim ?
+        Müşteri: Tabiki. İsmim Aylin.
+        Müşteri Hizmetleri Temcilcisi: Aylin Hanım konuyla ilgili ...
+
+        ...
 
         4.Konuşma Bütünlüğü: Her iki tarafın konuşmalarını ayrı tutun ve bir konuşmanın diğer konuşmacıya ait olduğunu varsaymayın.
 
