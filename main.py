@@ -147,22 +147,17 @@ async def process_audio(request: Request, file: UploadFile = File(...)):
         Diyalogları hatasız ve doğru bir şekilde ayırt etmek ve yeniden yazmak için aşağıdaki yönergeleri izleyin. Yalnızca belirtilen formatı kullanın ve ek açıklama veya başka metin eklemeyin:
 
         1.Konuşmacıları Doğru Belirleme: Her bir konuşmayı dikkatlice analiz edin ve kimin konuştuğunu net bir şekilde belirleyin. Müşteri ve müşteri hizmetleri temsilcisinin konuşmalarını kesin olarak ayırt edin.
+        
         2.Doğru Yazım ve İmla: Konuşmaları yazarken doğru yazım ve imla kurallarını uygulayın. Konuşma metninde yanlış algılanabilecek kelimeleri kontrol edin ve gerektiğinde düzeltin.
 
         3.Format: Diyalogları aşağıda belirtilen formatta yeniden yazın:
         Müşteri Hizmetleri Temsilcisi: [Temsilcinin cümlesi]
         Müşteri: [Müşterinin cümlesi]
 
-        Örnek:
-
-        Müşteri Hizmetleri Temsilcisi: Deneme Bankası'na hoş geldiniz. Ben Berke, size nasıl yardımcı olabilirim?
-        Müşteri: Merhaba Berke Bey. Geçen ay yurt dışında internetimi açmışım ve bu yüzden yüksek bir fatura ödemek zorunda kaldım.
-        Müşteri Hizmetleri Temsilcisi: Sizlere Hitap edebilmem için isminizi öğrenebilir miyim ?
-        Müşteri: Tabiki. İsmim Büşra.
-        Müşteri Hizmetleri Temcilcisi: Büşra Hanım konuyla ilgili kontrollerimi sağlıyorum.
-
         4.Konuşma Bütünlüğü: Her iki tarafın konuşmalarını ayrı tutun ve bir konuşmanın diğer konuşmacıya ait olduğunu varsaymayın.
+
         5.Yanlış Anlaşılmaları Düzeltme: Speech-to-text modelinden kaynaklanan yanlış anlamaları ve yazım hatalarını düzeltin.
+
         6.Ek Metin Eklememe: Yalnızca konuşmaları dahil edin; ek açıklamalar, başlıklar veya başka metinler eklemeyin.
 
 
