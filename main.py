@@ -9,6 +9,13 @@ from pydub import AudioSegment
 from io import BytesIO
 import whisper
 import tempfile
+import ssl
+import replicate
+from urllib.request import urlopen
+import torch
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
 
 
 logging.basicConfig(level=logging.INFO)
@@ -19,7 +26,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
 
-REPLICATE_API_TOKEN = 'r8_bnyClA4ty19TT03Kb4Kvg20ZSV4P2E10tpZW5'
+REPLICATE_API_TOKEN = 'YOUR_API_KEY'
 os.environ['REPLICATE_API_TOKEN'] = REPLICATE_API_TOKEN
 
 replicate_client = replicate.Client(api_token=REPLICATE_API_TOKEN)
@@ -43,9 +50,9 @@ def convert_to_wav(file: BytesIO, format: str):
     wav_io.seek(0)
     return wav_io
 
-def llama3_70b(prompt, temperature=0.0):
+def llama3_70b(prompt, temperature=0.5):
     output = replicate.run(
-        "meta/meta-llama-3-70b-instruct",
+        "meta/meta-llama-3.1-405b-instruct",
         input={"prompt": prompt, "max_tokens": 2048, "temperature": temperature})
     return "".join(output)
 
@@ -75,6 +82,8 @@ def identify_representative(file_name):
         return "unknown"
 
 def clean_output(llm_output):
+    if isinstance(llm_output, list):
+        llm_output = '\n'.join(llm_output)
     cleaned_output = []
     for line in llm_output.split('\n'):
         stripped_line = line.strip()
@@ -97,7 +106,7 @@ async def process_audio(request: Request, file: UploadFile = File(...)):
             temp_wav_file.write(wav_file.read())
             temp_wav_path = temp_wav_file.name
 
-        model = whisper.load_model("large")
+        model = whisper.load_model("medium")
         result = model.transcribe(temp_wav_path)
         transcription = result["text"]
 
@@ -135,21 +144,33 @@ async def process_audio(request: Request, file: UploadFile = File(...)):
 
         prompt2 = f"""
         '{transcription}'
-        Bu metin, müşteri hizmetleri temsilcisi ile müşteri arasındaki diyalogları içermektedir. 
-        Lütfen bu diyalogları ayırt ederek aşağıdaki formatta yeniden yaz:
+        Diyalogları hatasız ve doğru bir şekilde ayırt etmek ve yeniden yazmak için aşağıdaki yönergeleri izleyin. Yalnızca belirtilen formatı kullanın ve ek açıklama veya başka metin eklemeyin:
 
-        Müşteri Hizmetleri Temsilcisi: ...
-        Müşteri: ...
-        Müşteri Hizmetleri Temsilcisi: ...
-        Müşteri: ...
+        1.Konuşmacıları Doğru Belirleme: Her bir konuşmayı dikkatlice analiz edin ve kimin konuştuğunu net bir şekilde belirleyin. Müşteri ve müşteri hizmetleri temsilcisinin konuşmalarını kesin olarak ayırt edin.
+        2.Doğru Yazım ve İmla: Konuşmaları yazarken doğru yazım ve imla kurallarını uygulayın. Konuşma metninde yanlış algılanabilecek kelimeleri kontrol edin ve gerektiğinde düzeltin.
 
-        Bu formatta, '...' yerine ilgili cümleleri yazın. Yalnızca bu formatı kullanın ve hiçbir ek açıklama, 
-        başlık veya başka metin eklemeyin. Sadece diyalogları belirtilen formatta verin.
+        3.Format: Diyalogları aşağıda belirtilen formatta yeniden yazın:
+        Müşteri Hizmetleri Temsilcisi: [Temsilcinin cümlesi]
+        Müşteri: [Müşterinin cümlesi]
+
+        Örnek:
+
+        Müşteri Hizmetleri Temsilcisi: Deneme Bankası'na hoş geldiniz. Ben Berke, size nasıl yardımcı olabilirim?
+        Müşteri: Merhaba Berke Bey. Geçen ay yurt dışında internetimi açmışım ve bu yüzden yüksek bir fatura ödemek zorunda kaldım.
+        Müşteri Hizmetleri Temsilcisi: Sizlere Hitap edebilmem için isminizi öğrenebilir miyim ?
+        Müşteri: Tabiki. İsmim Büşra.
+        Müşteri Hizmetleri Temcilcisi: Büşra Hanım konuyla ilgili kontrollerimi sağlıyorum.
+
+        4.Konuşma Bütünlüğü: Her iki tarafın konuşmalarını ayrı tutun ve bir konuşmanın diğer konuşmacıya ait olduğunu varsaymayın.
+        5.Yanlış Anlaşılmaları Düzeltme: Speech-to-text modelinden kaynaklanan yanlış anlamaları ve yazım hatalarını düzeltin.
+        6.Ek Metin Eklememe: Yalnızca konuşmaları dahil edin; ek açıklamalar, başlıklar veya başka metinler eklemeyin.
+
+
         """
 
         llm_output_2 = llama3_70b(prompt2)
         formatted_transcription_2 = format_transcription(llm_output_2)
-
+        
         return templates.TemplateResponse("result_bot.html", {
             "request": request,
             "transcription": formatted_transcription_2,
