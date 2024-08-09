@@ -182,17 +182,19 @@ Sektörde bu tür kapsamlı bir analiz ve chat geçmişi platformu sunan başka 
 
 3. Gerekli paketleri yükleyin:
 
+   #### FFmpeg: https://ffmpeg.org/download.html
+
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Uygulamayı başlatın:
+5. Uygulamayı başlatın:
 
     ```bash
     uvicorn main:app --reload
     ```
 
-5. Tarayıcınızda `http://localhost:8000` adresine gidin ve uygulamayı kullanmaya başlayın.
+6. Tarayıcınızda `http://localhost:8000` adresine gidin ve uygulamayı kullanmaya başlayın.
 
 ## 👥 İletişim
 
