@@ -92,18 +92,18 @@
       <!-- Chat Container -->
       <div class="chat-container">
         {% if transcription %}
-        {% set conversations = transcription.split('\n') %}
-        {% for conversation in conversations %}
-          {% if 'Müşteri Hizmetleri Temsilcisi:' in conversation %}
-          <div class="message-box rep-message">
-            <p>{{ conversation|safe|replace("\n", "<br>") }}<br><span>{{ timestamp }}</span></p>
-          </div>
-          {% elif 'Müşteri:' in conversation %}
-          <div class="message-box cust-message">
-            <p>{{ conversation|safe|replace("\n", "<br>") }}<br><span>{{ timestamp }}</span></p>
-          </div>
-          {% endif %}
-        {% endfor %}
+            {% set conversations = transcription.split('\n') %}
+            {% for conversation in conversations %}
+                {% if 'Müşteri Hizmetleri Temsilcisi:' in conversation %}
+                    <div class="message-box rep-message">
+                        <p>{{ conversation|safe|replace("\n", "<br>") }}<br><span>{{ timestamp }}</span></p>
+                    </div>
+                {% elif 'Müşteri:' in conversation %}
+                    <div class="message-box cust-message">
+                        <p>{{ conversation|safe|replace("\n", "<br>") }}<br><span>{{ timestamp }}</span></p>
+                    </div>
+                {% endif %}
+            {% endfor %}
         {% endif %}
         <div class="message-box analysis">
           <button id="analyzeButton">Analiz Sonuçlarını İnceleyiniz</button>
@@ -116,12 +116,12 @@
           <span class="close">&times;</span>
           <div id="analysisContent">
             {% if llm_output %}
-              {% for line in llm_output.split('\n') %}
-                <div class="analysis-item">
-                  <i class="fa fa-check-square"></i>
-                  <span class="title">{{ line.strip().split(':')[0] }}:</span>{{ line.strip().split(':', 1)[1] }}
-                </div>
-              {% endfor %}
+                {% for line in llm_output %}
+                    <div class="analysis-item">
+                        <i class="fa fa-check-square"></i>
+                        <span class="title">{{ line.split(':')[0] }}:</span>{{ line.split(':', 1)[1] }}
+                    </div>
+                {% endfor %}
             {% endif %}
           </div>
         </div>
