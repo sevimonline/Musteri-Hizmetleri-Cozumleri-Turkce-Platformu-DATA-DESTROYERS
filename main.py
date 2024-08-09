@@ -50,7 +50,7 @@ def convert_to_wav(file: BytesIO, format: str):
     wav_io.seek(0)
     return wav_io
 
-def llama3_70b(prompt, temperature=0.5):
+def llama3_1_405b(prompt, temperature=0.5):
     output = replicate.run(
         "meta/meta-llama-3.1-405b-instruct",
         input={"prompt": prompt, "max_tokens": 2048, "temperature": temperature})
@@ -139,7 +139,7 @@ async def process_audio(request: Request, file: UploadFile = File(...)):
         Lütfen yalnızca belirtilen bilgileri sağlayın ve başka açıklama eklemeyin.
         """
 
-        llm_output = llama3_70b(prompt)
+        llm_output = llama3_1_405b(prompt)
         cleaned_output = clean_output(llm_output)
 
         prompt2 = f"""
@@ -163,7 +163,7 @@ async def process_audio(request: Request, file: UploadFile = File(...)):
 
         """
 
-        llm_output_2 = llama3_70b(prompt2)
+        llm_output_2 = llama3_1_405b(prompt2)
         formatted_transcription_2 = format_transcription(llm_output_2)
         
         return templates.TemplateResponse("result_bot.html", {
