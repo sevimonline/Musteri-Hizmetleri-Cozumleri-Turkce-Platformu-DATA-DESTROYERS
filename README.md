@@ -3,6 +3,9 @@
 
 ![image](https://github.com/user-attachments/assets/dff3e20d-0141-4e33-8035-f4933ed7c030)
 
+## Sunum Dosyası
+https://docs.google.com/presentation/d/1bA0gFK7Qw8AZyInsYQ4hGESUlDTXgkT1/edit#slide=id.p3
+
 ## Projeye Giriş
 Günümüzde müşteri hizmetleri operasyonlarının verimliliğini artırmak ve müşteri memnuniyetini iyileştirmek, işletmelerin rekabet avantajı sağlaması açısından kritik bir önem taşımaktadır. Bu bağlamda, projemiz  ile birlikte yapay zeka ve türkçe doğal dil işleme teknolojilerine sunulacak katkılar sayesinde, hedef müşterilerimiz olan işletmelerin müşteri hizmetleri süreçlerini optimize etmelerine yardımcı olmayı hedefleyen çalışmalar Teknofest 2024 Doğal Dil İşleme Serbest Kategori Yarışması kapsamında bu repository'de sunulmuştur.
 ## Ekibimiz
