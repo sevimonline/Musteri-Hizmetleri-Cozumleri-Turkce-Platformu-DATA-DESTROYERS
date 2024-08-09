@@ -143,7 +143,9 @@ https://github.com/user-attachments/assets/6ab877c7-a772-48dc-b3b4-c58a0adb66ea
 
 * Projemizin ilerleyen zamanlarında, müşteri hizmetleri temsilcilerimizin her biri için geçmiş konuşma verilerini saklayan bir platform oluşturmak ve operasyonel iletişimi ve analiz süreçlerini en üst mertebede hızlandırmayı hedefleyerek oluşturmayı düşündüğümüz arayüz yukarıdaki gibidir. Bu arayüzü kullanan müşteri şirketimizin yöneticisi, ilgili müşteri temsilcisi konuşma sayfasına gelip, burada her bir temsilciye arka planda llm modeli kullanarak rag teknolojisi ile, prompt atabilmekte olacak olup, x müşteri temsilcisine öneride bulunmak için attığı "bu konuşma daha iyi nasıl yürütülebilirdi" prompt'u ile kendi müşteri temsilcisinin ilgili konuşma metnini kendisi seçebilerek ilgili uyarı mesajını temsilciye sistem üzerinden iletebilecektir. Bu sayede ise, operasyonel iletişim hızlanır ve analiz süreçleri optimize edilir.
 
-https://github.com/user-attachments/assets/a38d64f9-07d2-4951-9ca2-712d0c771962
+
+https://github.com/user-attachments/assets/a67a439c-50e3-453e-96b0-6604829ade81
+
 
 ## Neden Biz?
 Bu projenin sektörde önemli bir fark yaratacağına inanıyoruz. Türkiye'deki müşteri hizmetleri sektörüne dair yaptığımız kapsamlı analizlerde, ses dosyalarını metne dönüştüren, bu metinleri detaylı bir şekilde analiz eden ve temsilciye ait kapsamlı chat geçmişini aynı andatutan bir girişim veya şirketin olmadığını tespit ettik. CX AI projemiz ile bu alandaki boşluğu doldurarak sektöre yenilikçi çözümler sunmayı hedefliyoruz. 
